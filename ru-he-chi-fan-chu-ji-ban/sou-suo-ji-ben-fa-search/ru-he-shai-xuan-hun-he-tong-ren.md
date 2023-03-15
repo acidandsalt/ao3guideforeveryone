@@ -28,7 +28,7 @@ description: Harry Potter和Supernatural的联动同人该怎么搜？
 
 **第二步：**在「Include」→「Fandom」里面找到Supernatural并勾选。
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 在「More Options」→「Crossover」中选择Show only crossovers。
 

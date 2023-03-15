@@ -55,7 +55,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 界面如图所示↓
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (2).png>)
 
 **第二步：**向受邀者发送邀请码有三种方法。
 

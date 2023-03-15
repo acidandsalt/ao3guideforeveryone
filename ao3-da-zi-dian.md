@@ -152,7 +152,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### FAQ：常见问题
 
-全称叫做Frequently Asked Questions。AO3有一个非常完善的[FAQ界面](https://archiveofourown.org/faq/tags?language\_id=zh-CN)，基本可以解答你的绝大部分疑问，只要你有耐心去查。页面右上角有栏目可以调语言（只能调这一个模块的语言哦！再说一遍：AO3目前没有官方中文版！）。
+全称叫做Frequently Asked Questions。AO3有一个非常完善的[FAQ界面](https://archiveofourown.org/faq/tags?language\_id=zh-CN)，基本可以解答你的绝大部分疑问，只要你有耐心去查。页面右上角有栏目可以调语言（只能调这一个模块的语言哦！再说一遍：**AO3目前没有官方中文版！**）。
 
 ### Favorite Tag：收藏标签
 

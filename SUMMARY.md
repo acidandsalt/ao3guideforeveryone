@@ -50,12 +50,14 @@
 ## 🧭 创作者指南
 
 * [作品发布礼仪](chuang-zuo-zhe-zhi-nan/zuo-pin-fa-bu-li-yi.md)
-* [发文百科](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke.md)
+* [发文百科](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/README.md)
+  * [必填项](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/bi-tian-xiang.md)
+  * [进阶项](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/jin-jie-xiang.md)
+  * [匿名发文](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/ni-ming-fa-wen.md)
+  * [如何保存为草稿](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
 * [发图百科](chuang-zuo-zhe-zhi-nan/fa-tu-bai-ke.md)
-* [如何保存为草稿](chuang-zuo-zhe-zhi-nan/ru-he-bao-cun-wei-cao-gao.md)
-* [匿名发文](chuang-zuo-zhe-zhi-nan/ni-ming-fa-wen.md)
 * [HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)
-* [Untitled](chuang-zuo-zhe-zhi-nan/untitled.md)
+* [合集与挑战赛](chuang-zuo-zhe-zhi-nan/he-ji-yu-tiao-zhan-sai.md)
 
 ## 🍻 互动与交流
 

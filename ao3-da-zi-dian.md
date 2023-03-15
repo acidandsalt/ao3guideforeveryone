@@ -96,6 +96,10 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 本人曾试过用合集整理书签，但体验较差，不推荐。如果你是想整理你自己的作品——或许看看系列（[Series](ao3-da-zi-dian.md#a)）呢？
 
+### Credit：原作者是
+
+一般是用在搬运他人作品或对他人作品进行三创时，需要标注「Credit: 某人」，以此表明这个作品的来源。Give credit就是「标注来源」的意思。
+
 ### Crossover：混合同人
 
 【[如何筛选混合同人？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)】
@@ -114,7 +118,7 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ### Draft：草稿箱
 
-【[如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/ru-he-bao-cun-wei-cao-gao.md)】
+【[如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/ru-he-bao-cun-wei-cao-gao.md)】
 
 AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，从创建开始，草稿只能保存一个月！
 

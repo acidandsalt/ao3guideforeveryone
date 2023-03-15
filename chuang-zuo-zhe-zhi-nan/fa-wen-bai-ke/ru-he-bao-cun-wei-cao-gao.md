@@ -6,11 +6,11 @@ description: How to save your work as draft?
 
 **第一步：**在正常填写完发文的必填项目之后，滑到最底部，**点击Preview**（预览）。
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 **第二步：**这时你的作品会以灰色背景的格式展示，滑到最底部，**点击Save As Draft**（保存为草稿）。
 
-****![](../.gitbook/assets/MTXX\_MH20230313\_214602239.jpg)****
+****![](../../.gitbook/assets/MTXX\_MH20230313\_214602239.jpg)****
 
 之后你就可以在草稿箱内看到你保存的草稿了。
 
@@ -20,4 +20,4 @@ description: How to save your work as draft?
 **例外：**如果你是把某作品的一个章节作为草稿保存，则它会**永久保存**至你发布它或删除它所在的作品。
 {% endhint %}
 
-****![](../.gitbook/assets/MTXX\_MH20230313\_214922469.jpg)****
+****![](../../.gitbook/assets/MTXX\_MH20230313\_214922469.jpg)****

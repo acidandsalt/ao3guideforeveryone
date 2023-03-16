@@ -41,7 +41,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 **第四步**：在将近一个周之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的`follow this link to sign up`（点击此链接创建账号），挂好梯子并点击。
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 ### 方法二：邀请码法
 
@@ -55,7 +55,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 界面如图所示↓
 
-![](<.gitbook/assets/image (1) (2).png>)
+![](<.gitbook/assets/image (1) (3).png>)
 
 **第二步：**向受邀者发送邀请码有三种方法。
 

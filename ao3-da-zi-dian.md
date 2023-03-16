@@ -51,7 +51,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### Block：拉黑
 
-就是拉黑功能。AO3现在也上线了拉黑用户的功能，可以阻止指定用户与你互动。详细信息请见→【[用户黑名单](hu-dong-yu-jiao-liu/ping-bi-la-hei-gong-neng.md#yong-hu-hei-ming-dan)】
+就是拉黑功能。AO3现在也上线了拉黑用户的功能，可以阻止指定用户与你互动。详细信息请见→【[用户黑名单](hu-dong-yu-jiao-liu/la-hei-ping-bi-gong-neng.md#yong-hu-hei-ming-dan)】
 
 ### Bookmark：书签/收藏
 
@@ -355,6 +355,10 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 ### RIP：安息
 
 是Rest In Peace的缩写，用来表示对死者的悼念，用在讽刺场合也有「好死」的意思。不要再写成RIR（Rock It Right，正确地摇滚）、RLP（Rock Like Princes，像王子一样摇滚）或者PIP（Play In Peace，平静地玩）了……
+
+### Roadmap：路线图
+
+一般指网站的规划蓝图。关于AO3的请参见→[AO3 Roadmap](xiao-zhong-gong-neng/ao3-roadmap.md)
 
 ### RPF：真人同人
 

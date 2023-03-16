@@ -14,7 +14,7 @@ description: 设置完了一定记得点击Update！
 
 ### 展示设置（Display）
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>展示设置</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>展示设置</p></figcaption></figure>
 
 这里的第一项勾选的话以后就不会出现这个提醒了。
 
@@ -34,7 +34,7 @@ description: 设置完了一定记得点击Update！
 
 ### 评论设置（Comments）
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>评论设置</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>评论设置</p></figcaption></figure>
 
 ### 合集、挑战赛和赠文（Collections, Challenges and Gifts）
 

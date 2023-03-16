@@ -36,10 +36,10 @@ RSS曾经红极一时，然而在各类公众号盛行、社交网络疯狂迭�
 
 其次：在你想订阅的通用标签页面点击「RSS feed」按钮。
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 第三：在打开的网页中，复制地址栏里的网址。
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 第四：找到你的RSS阅读器里「添加自定义源」的地方，用这个网址订阅即可。

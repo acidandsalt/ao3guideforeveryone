@@ -41,7 +41,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 **第四步**：在将近一个周之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的`follow this link to sign up`（点击此链接创建账号），挂好梯子并点击。
 
-![](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step4.jpg)
+![](<.gitbook/assets/image (2).png>)
 
 ### 方法二：邀请码法
 
@@ -97,14 +97,20 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 
 「Unsent」是未送出的，「Sent But Unused」是送出但未被认领的，「Used」就是已使用作废的。
 
+
+
 ## 如何创建账号
 
-现在，你来到了`Creat Account`（创建账号）界面。你需要填写的信息是
+{% hint style="danger" %}
+**注意：全程需挂梯子使用原网址。**
+{% endhint %}
 
-1. User name：用户名，只能含有大小写英文字母、数字和下划线（这个东西“\_”）且不能以下划线开头结尾
-2. Password：密码，长度6到40个字符
-3. Confirm password：确认密码，再输一遍
-4. 勾选Yes, I am at least 13（我已满13岁）和Yes, I have read the Terms of Service and agree to them（我已阅读并同意AO3的服务条款）
+现在，你来到了Creat Account（创建账号）界面。你需要填写的信息是
+
+1. **User name**：用户名，只能含有大小写英文字母、数字和下划线（这个东西“\_”）且不能以下划线开头结尾
+2. **Password**：密码，长度6到40个字符
+3. **Confirm password**：确认密码，再输一遍
+4. 勾选**Yes, I am at least 13**（我已满13岁）和**Yes, I have read the Terms of Service and agree to them**（我已阅读并同意AO3的服务条款）
 
 最后点击`Create Account`就可以了。
 
@@ -114,15 +120,19 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 
 ![](<.gitbook/assets/image (11).png>)
 
-**第六步**：在这之后你来到了一个告诉你`Almost Done!`（马上就要完成了！）的界面，这意味着你即将收到第二封邮件。
+在这之后你来到了一个告诉你Almost Done!（快完成了！）的界面，这意味着你即将收到第二封邮件。
 
-在第二封邮件中寻找`follow this link to activate your account`（点击此链接以激活账户），挂好梯子，点击它，来到一个顶端有蓝色消息框告诉你Account activation complete! Please log in.（账户已激活！请登录。）的界面。在第一行输入框内填写你的用户名或邮箱，第二行填写密码；`Remember me`的意思是“记住我”，下一次你打开网站时会自动登录，可以自己选择是否勾选。最后点击`Log in`（登录），你面前的就是完全体的AO3了。
+![](.gitbook/assets/MTXX\_MH20230316\_085757484.jpg)
 
-![](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step6.jpg)
+在第二封邮件中寻找`follow this link to activate your account`（点击此链接以激活账户），**挂好梯子**，点击它。
 
-![](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/alsostep6.jpg)
+![](.gitbook/assets/MTXX\_MH20230316\_090016400.jpg)
 
-![](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/alsoalsostep6.jpg)
+此时你来到一个顶端有蓝色消息框告诉你Account activation complete! Please log in.（账户已激活！请登录。）的界面。第一行填的是用户名或邮箱，第二行填写密码；勾选`Remember me`的话下一次打开网站会自动登录。最后点击`Log in`（登录），你面前的就是完全体的AO3了。
+
+![](.gitbook/assets/MTXX\_MH20230316\_091957776.jpg)
+
+
 
 ## 可能遇到的问题
 
@@ -148,8 +158,22 @@ AO3基本每时每刻都在有新的加入者，排队人数以万计量，即�
 
 ### **第二封邮件什么时候来？**
 
-第二封邮件一般会在`Almost Done!`页面出现后的几分钟之内收到。如果没有，可以查看一下自己邮箱的垃圾桶，看看是否被当成垃圾邮件拦截了，或搜索来自do-not-reply@archiveofourown.org的邮件。如果超过48小时没有收到，请联系AO3官方支持。
+第二封邮件一般会在Almost Done!页面出现后的几分钟之内收到。如果没有，可以查看一下自己邮箱的垃圾桶，看看是否被当成垃圾邮件拦截了，或搜索来自do-not-reply@archiveofourown.org的邮件。如果超过24小时没有收到，请联系AO3官方支持。
 
 ### **「Login has been taken」**
 
 如果提示「Login has been taken」或「登录已经被接受」意味着用户名重复，请更换注册用户名。
+
+![](.gitbook/assets/MTXX\_MH20230316\_084716448.jpg)
+
+### 「Login must begin and end with a letter or number; it may also contain underscores but no other characters」
+
+用户名含有非法字符或用下划线开头结尾了。
+
+![](.gitbook/assets/MTXX\_MH20230316\_085033452.jpg)
+
+### 「Password confirmation doesn't match new password」
+
+第二遍密码输错了。
+
+![](.gitbook/assets/image.png)

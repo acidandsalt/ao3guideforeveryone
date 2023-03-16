@@ -10,7 +10,7 @@
 
 * [前言](ru-he-chi-fan-chu-ji-ban/qian-yan.md)
 * [网页翻译中文](ru-he-chi-fan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
-* [AO3界面略解](ru-he-chi-fan-chu-ji-ban/ao3-jie-mian-lve-jie.md)
+* [AO3各界面信息略解](ru-he-chi-fan-chu-ji-ban/ao3-ge-jie-mian-xin-xi-lve-jie.md)
 * [AO3文库符号解释](ru-he-chi-fan-chu-ji-ban/ao3-wen-ku-fu-hao-jie-shi.md)
 * [常用Tag百科](ru-he-chi-fan-chu-ji-ban/chang-yong-tag-bai-ke.md)
 * [搜索基本法（Search）](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/README.md)
@@ -22,6 +22,7 @@
   * [如何筛选混合同人](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
   * [作者主页内筛选](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/zuo-zhe-zhu-ye-nei-shai-xuan.md)
 * [如何点开作品](ru-he-chi-fan-chu-ji-ban/ru-he-dian-kai-zuo-pin.md)
+* [如何使用作品号（神秘数字）](ru-he-chi-fan-chu-ji-ban/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)
 * [如何阅读作品](ru-he-chi-fan-chu-ji-ban/ru-he-yue-du-zuo-pin.md)
 * [如何下载作品](ru-he-chi-fan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
 * [巧用他人书签](ru-he-chi-fan-chu-ji-ban/qiao-yong-ta-ren-shu-qian.md)
@@ -55,7 +56,13 @@
   * [进阶项](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/jin-jie-xiang.md)
   * [匿名发文](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/ni-ming-fa-wen.md)
   * [如何保存为草稿](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
+  * [增加章节或加入系列](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/zeng-jia-zhang-jie-huo-jia-ru-xi-lie.md)
+  * [编辑作品](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/bian-ji-zuo-pin.md)
+  * [遗弃作品（Orphan Work）](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/yi-qi-zuo-pin-orphan-work.md)
+  * [删除作品](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/shan-chu-zuo-pin.md)
+  * [批量编辑作品](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/pi-liang-bian-ji-zuo-pin.md)
 * [发图百科](chuang-zuo-zhe-zhi-nan/fa-tu-bai-ke.md)
+* [分享作品方法](chuang-zuo-zhe-zhi-nan/fen-xiang-zuo-pin-fang-fa.md)
 * [HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)
 * [合集与挑战赛](chuang-zuo-zhe-zhi-nan/he-ji-yu-tiao-zhan-sai.md)
 
@@ -65,10 +72,12 @@
   * [关于点赞（Kudos）](hu-dong-yu-jiao-liu/dian-zan-yu-ping-lun/guan-yu-dian-zan-kudos.md)
   * [关于评论（Comments）](hu-dong-yu-jiao-liu/dian-zan-yu-ping-lun/guan-yu-ping-lun-comments.md)
   * [回复与管理评论](hu-dong-yu-jiao-liu/dian-zan-yu-ping-lun/hui-fu-yu-guan-li-ping-lun.md)
+* [英语常用评论模板](hu-dong-yu-jiao-liu/ying-yu-chang-yong-ping-lun-mo-ban.md)
 * [订阅/关注功能](hu-dong-yu-jiao-liu/ding-yue-guan-zhu-gong-neng.md)
-* [屏蔽/拉黑功能](hu-dong-yu-jiao-liu/ping-bi-la-hei-gong-neng.md)
+* [拉黑/屏蔽功能](hu-dong-yu-jiao-liu/la-hei-ping-bi-gong-neng.md)
 
 ## 🛸 小众功能
 
 * [RSS订阅](xiao-zhong-gong-neng/rss-ding-yue.md)
 * [赛博账号遗嘱](xiao-zhong-gong-neng/sai-bo-zhang-hao-yi-zhu.md)
+* [AO3 Roadmap](xiao-zhong-gong-neng/ao3-roadmap.md)

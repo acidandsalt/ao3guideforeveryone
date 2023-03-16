@@ -64,7 +64,7 @@ description: 手册内容快速检索。
 
 1. [前言](ru-he-chi-fan-chu-ji-ban/qian-yan.md)
 2. [网页翻译中文](ru-he-chi-fan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
-3. [AO3界面略解](ru-he-chi-fan-chu-ji-ban/ao3-jie-mian-lve-jie.md)
+3. [AO3界面略解](ru-he-chi-fan-chu-ji-ban/ao3-ge-jie-mian-xin-xi-lve-jie.md)
 4. [AO3文库符号解释](ru-he-chi-fan-chu-ji-ban/ao3-wen-ku-fu-hao-jie-shi.md)
 5. [常用Tag百科](ru-he-chi-fan-chu-ji-ban/chang-yong-tag-bai-ke.md)
 6. [搜索基本法](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/)
@@ -127,7 +127,7 @@ description: 手册内容快速检索。
 
 1. 点赞与评论
 2. [订阅/关注功能](hu-dong-yu-jiao-liu/ding-yue-guan-zhu-gong-neng.md)
-3. [屏蔽/拉黑功能](hu-dong-yu-jiao-liu/ping-bi-la-hei-gong-neng.md)
+3. [屏蔽/拉黑功能](hu-dong-yu-jiao-liu/la-hei-ping-bi-gong-neng.md)
 
 </details>
 

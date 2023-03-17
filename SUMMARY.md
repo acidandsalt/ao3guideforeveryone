@@ -65,6 +65,7 @@
 * [分享作品方法](chuang-zuo-zhe-zhi-nan/fen-xiang-zuo-pin-fang-fa.md)
 * [HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)
 * [合集与挑战赛](chuang-zuo-zhe-zhi-nan/he-ji-yu-tiao-zhan-sai.md)
+* [作品皮肤](chuang-zuo-zhe-zhi-nan/zuo-pin-pi-fu.md)
 
 ## 🍻 互动与交流
 

@@ -69,7 +69,7 @@ CP向用「/」，CB亲情柏拉图用「&」，同一个配对标签中不可�
 
 * 同人图：fanart
 * 内含封面的同人文：cover art
-* 内含插图的同人enemies to lovers, slow burn, rags to riches, height differenceenemies to lovers, slow burn, rags to riches, height differenceenemies to lovers, slow burn, rags to riches, height differenceenemies to lovers, slow burn, rags to riches, height difference文：illustrated
+* 内含插图的同人文：illustrated
 
 **广播剧：Podfic**
 

@@ -454,7 +454,9 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### VPN：梯子
 
-全称虚拟专用网络（Virtual Private Network），又称「科学上网」「开眼看世界」「翻墙」等。由于GFW[^5]（Great Fire Wall，中国国家防火墙）的设置，很多外国网站在我国大陆无法访问，因此这个工具的终极目的就是帮助墙内的人看到墙外的风景，学会使用梯子是每个资深网络冲浪人的必经之路。
+全称虚拟专用网络（Virtual Private Network），又称「科学上网」「开眼看世界」「翻墙」等，一般的形态是APP，不同的运营商提供的APP形态和步骤略有不同，因此请自己百度一下。
+
+由于GFW[^5]（Great Fire Wall，中国国家防火墙）的设置，很多外国网站在我国大陆无法访问，因此这个工具的终极目的就是帮助墙内的人看到墙外的风景。学会使用梯子是每个资深网络冲浪人的必经之路。
 
 【[AO3超话梯子推荐](xu-yan.md#ke-yong-de-ti-zi)】
 

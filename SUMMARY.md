@@ -40,6 +40,7 @@
 * [更改邮箱（Email）](xin-shou-she-zhi-yu-xin-xi-geng-gai/geng-gai-you-xiang-email.md)
 * [网站快速换肤（Site Skin）](xin-shou-she-zhi-yu-xin-xi-geng-gai/wang-zhan-kuai-su-huan-fu-site-skin.md)
 * [找回密码](xin-shou-she-zhi-yu-xin-xi-geng-gai/zhao-hui-mi-ma.md)
+* [注销账号](xin-shou-she-zhi-yu-xin-xi-geng-gai/zhu-xiao-zhang-hao.md)
 
 ## 🥘 如何吃饭（进阶版）
 

@@ -64,7 +64,7 @@ description: 手册内容快速检索。
 
 1. [前言](ru-he-chi-fan-chu-ji-ban/qian-yan.md)
 2. [网页翻译中文](ru-he-chi-fan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
-3. [AO3界面略解](ru-he-chi-fan-chu-ji-ban/ao3-ge-jie-mian-xin-xi-lve-jie.md)
+3. [AO3各界面信息略解](ru-he-chi-fan-chu-ji-ban/ao3-ge-jie-mian-xin-xi-lve-jie.md)
 4. [AO3文库符号解释](ru-he-chi-fan-chu-ji-ban/ao3-wen-ku-fu-hao-jie-shi.md)
 5. [常用Tag百科](ru-he-chi-fan-chu-ji-ban/chang-yong-tag-bai-ke.md)
 6. [搜索基本法](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/)
@@ -76,9 +76,12 @@ description: 手册内容快速检索。
    6. [如何筛选混合同人](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
    7. [作者主页内筛选](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/zuo-zhe-zhu-ye-nei-shai-xuan.md)
 7. [如何点开作品](ru-he-chi-fan-chu-ji-ban/ru-he-dian-kai-zuo-pin.md)
-8. [巧用他人书签](ru-he-chi-fan-chu-ji-ban/qiao-yong-ta-ren-shu-qian.md)
-9. [※搜索框里的大学问](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-li-de-da-xue-wen.md)
-10. [Q\&A](ru-he-chi-fan-chu-ji-ban/q-and-a.md)
+8. [如何使用作品号（神秘数字）](ru-he-chi-fan-chu-ji-ban/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)
+9. [如何阅读作品](ru-he-chi-fan-chu-ji-ban/ru-he-yue-du-zuo-pin.md)
+10. [如何下载作品](ru-he-chi-fan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
+11. [巧用他人书签](ru-he-chi-fan-chu-ji-ban/qiao-yong-ta-ren-shu-qian.md)
+12. [※搜索框里的大学问](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-li-de-da-xue-wen.md)
+13. [Q\&A](ru-he-chi-fan-chu-ji-ban/q-and-a.md)
 
 </details>
 
@@ -95,6 +98,7 @@ description: 手册内容快速检索。
 7. [更改邮箱](xin-shou-she-zhi-yu-xin-xi-geng-gai/geng-gai-you-xiang-email.md)
 8. [网站快速换肤](xin-shou-she-zhi-yu-xin-xi-geng-gai/wang-zhan-kuai-su-huan-fu-site-skin.md)
 9. [找回密码](xin-shou-she-zhi-yu-xin-xi-geng-gai/zhao-hui-mi-ma.md)
+10. [注销账号](xin-shou-she-zhi-yu-xin-xi-geng-gai/zhu-xiao-zhang-hao.md)
 
 </details>
 

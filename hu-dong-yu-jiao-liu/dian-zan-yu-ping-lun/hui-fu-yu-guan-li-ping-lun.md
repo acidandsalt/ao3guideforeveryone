@@ -2,7 +2,7 @@
 
 如果你没有在偏好设置中关闭评论提醒，你的站内消息箱将显示未读消息数字。
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>你有一条未读消息</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>你有一条未读消息</p></figcaption></figure>
 
 未读消息会以灰色底展示并标注为`Unread`。
 

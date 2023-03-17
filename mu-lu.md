@@ -118,9 +118,9 @@ description: 手册内容快速检索。
 <summary><strong>七、</strong><a href="broken-reference"><strong>创作者指南</strong></a><em>——面向创作者的百科全书</em></summary>
 
 1. [作品发布礼仪](chuang-zuo-zhe-zhi-nan/zuo-pin-fa-bu-li-yi.md)
-2. [发文百科](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/)
-3. [如何保存为草稿](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
-4. [匿名发文](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/ni-ming-fa-wen.md)
+2. [发文百科](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/)
+3. [如何保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
+4. [匿名发文](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ni-ming-fa-wen.md)
 5. [HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)
 
 </details>

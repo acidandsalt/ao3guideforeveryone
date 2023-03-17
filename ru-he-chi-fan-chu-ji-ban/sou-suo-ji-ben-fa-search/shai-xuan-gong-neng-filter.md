@@ -66,7 +66,7 @@ _——也就是手动屏蔽你不想看的。_
 
 滑动到长条最底部，在「Search within results」中填入：「otp: true」（注意：是英文冒号，且需要空格！）
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 这个原理是使用内置的搜索操作，使筛选出来的作品只打这一对CP的标签，排除了所有A/B是背景板或A/B但有其他配对的作品。
 

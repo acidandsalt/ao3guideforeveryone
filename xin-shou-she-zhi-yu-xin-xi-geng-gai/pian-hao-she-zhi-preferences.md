@@ -38,8 +38,8 @@ description: 设置完了一定记得点击Update！
 
 ### 合集、挑战赛和赠文（Collections, Challenges and Gifts）
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>合集、挑战赛和赠文</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption><p>合集、挑战赛和赠文</p></figcaption></figure>
 
 ### **其他偏好（Misc）**
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>其他偏好</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>其他偏好</p></figcaption></figure>

@@ -1,4 +1,4 @@
-# 屏蔽/拉黑功能
+# 拉黑/屏蔽功能
 
 ## 用户黑名单
 
@@ -33,7 +33,7 @@
 
 去往你的偏好设置页面，点击「Blocked Users」（黑名单用户）按钮。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 然后在输入框内输入你想拉黑的用户的名称，并点击「Block」按钮。之后的确认流程与上文相同。
 

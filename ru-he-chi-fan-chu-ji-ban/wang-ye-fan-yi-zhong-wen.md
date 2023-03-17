@@ -28,7 +28,7 @@ description: 说真的，什么都不如学好英语来得实在。
 {% endtab %}
 
 {% tab title="Edge" %}
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="夸克" %}

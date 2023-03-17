@@ -118,7 +118,7 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ### Draft：草稿箱
 
-【[如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-wen-bai-ke/ru-he-bao-cun-wei-cao-gao.md)】
+【[如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ru-he-bao-cun-wei-cao-gao.md)】
 
 AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，从创建开始，草稿只能保存一个月！
 
@@ -206,6 +206,12 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 「漫威的新电影真的好烂啊！」
 
 「**IKR？？**他们到底在干什么啊！」
+
+### Image Hosting：图床
+
+很多互联网平台在发布图片时不能直接从本地上传，而需要借助互联网图床——一个为用户提供图片代存服务并提供图片url的平台——进行图片的读取。把图片上传至图床后，你就可以通过插入图片网址将其应用在文章中了。
+
+目前国内的图床有[路过图床](https://imgtu.com/)、[ImgURL](https://imgurl.org/)等，国外的有[Postimage](https://postimages.org/)等，其他的可以在[这个知乎帖](https://zhuanlan.zhihu.com/p/403554101?ivk\_sa=1024320u)中进一步了解；你也可以用GitHub或七牛云服务器等为自己建造私人图床。需要注意的是，国内的图床大部分都禁黄，上传图片之前建议先看清网站的服务条款。
 
 ### Instagram：ins或IG
 

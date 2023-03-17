@@ -1,10 +1,6 @@
----
-description: 这里的Search指的并非搜索框。
----
-
 # 搜索基本法（Search）
 
-而是AO3页面顶部导航栏内的Search。如何使用搜索框实现精准搜索在这里讲解→[※搜索框里的大学问](../sou-suo-kuang-li-de-da-xue-wen.md)
+这里的Search指的并非搜索框，而是AO3页面顶部导航栏内的Search。如何使用搜索框实现精准搜索在这里讲解→[※搜索框里的大学问](../sou-suo-kuang-li-de-da-xue-wen.md)
 
 在进行搜索之前，请确认你已经对AO3有了最最基本的了解——没有也没关系，只要你知道你想要什么，跟着教程点就没错。
 

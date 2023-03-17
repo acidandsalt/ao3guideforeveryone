@@ -2,7 +2,7 @@
 description: 对AO3的几个主要界面进行标注。
 ---
 
-# AO3界面略解
+# AO3各界面信息略解
 
 {% tabs %}
 {% tab title="首页" %}
@@ -12,11 +12,11 @@ description: 对AO3的几个主要界面进行标注。
 
 **未登录的用户**看到的界面是这样的↓
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>未登录用户</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>未登录用户</p></figcaption></figure>
 
 **登录用户**看到的是这样的↓
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>登录用户</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>登录用户</p></figcaption></figure>
 
 关于收藏Tag，请参见→[如何收藏标签](../ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
 
@@ -28,13 +28,13 @@ PS. 如果想让AO3记住密码自动登录，勾选登录框里的“Remember m
 {% tab title="同人圈" %}
 ## 同人圈（Fandom）
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>同人圈</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>同人圈</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="浏览" %}
 ## 浏览（Browse）
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>浏览</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>浏览</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="搜索" %}

@@ -51,7 +51,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 **第一步：**点开自己的`Dashboard`（个人主页），找到`Invitation`（邀请）按钮并点击。
 
-<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 界面如图所示↓
 
@@ -116,7 +116,7 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 
 ![](.gitbook/assets/MTXX\_MH20230313\_115645155.jpg)
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
 ![](<.gitbook/assets/image (11).png>)
 
@@ -176,4 +176,4 @@ AO3基本每时每刻都在有新的加入者，排队人数以万计量，即�
 
 第二遍密码输错了。
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (3).png>)

@@ -4,7 +4,7 @@
 
 当你在AO3打开一篇作品时，你会看到网址链接的书写方式是
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>多章节作品</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>多章节作品</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>单章节作品</p></figcaption></figure>
 

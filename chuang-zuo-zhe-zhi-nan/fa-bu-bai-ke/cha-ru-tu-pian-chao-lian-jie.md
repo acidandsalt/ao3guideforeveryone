@@ -14,7 +14,7 @@
 
 在这里用国外的图床[Postimage](https://postimages.org/zh-cn/)举例。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 点击选择图片，在文件中选择你要上传的图片；上传完成后，滑到下方多个链接处，点击右侧按钮复制图片的**Direct link**。这就是你上传的图片的网址。
 
@@ -26,7 +26,7 @@
 
 请右键（手机长按）图片后选择「在新页面中打开图片」，并复制新打开的页面的网址。
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ![](../../.gitbook/assets/MTXX\_MH20230317\_195925995.jpg)
 
@@ -43,6 +43,8 @@
 如果图片大小不合适可以拖动四角的蓝色方块进行调整。
 
 ![](<../../.gitbook/assets/image (2).png>)
+
+
 
 ## 插入超链接
 

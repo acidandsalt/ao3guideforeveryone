@@ -6,7 +6,7 @@
 
 **第二步**：点击`Change Password`
 
-![](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/Screenshot\_20230309\_193614.jpg)
+![](<../.gitbook/assets/image (3).png>)
 
 **第三步**：填写`New password`，`Confirm new password`和`Old password`，点击下方`Change Password`确认。
 

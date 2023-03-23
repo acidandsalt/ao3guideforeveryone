@@ -4,9 +4,9 @@
 
 当你在AO3打开一篇作品时，你会看到网址链接的书写方式是
 
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>多章节作品</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption><p>多章节作品</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>单章节作品</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>单章节作品</p></figcaption></figure>
 
 即「https://archiveofourown.org/works/一串数字」，这「一串数字」就是作品号，知道了作品号就可以直接靠输入网址打开作品。
 

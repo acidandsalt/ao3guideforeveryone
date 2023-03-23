@@ -51,7 +51,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 **第一步：**点开自己的`Dashboard`（个人主页），找到`Invitation`（邀请）按钮并点击。
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 界面如图所示↓
 

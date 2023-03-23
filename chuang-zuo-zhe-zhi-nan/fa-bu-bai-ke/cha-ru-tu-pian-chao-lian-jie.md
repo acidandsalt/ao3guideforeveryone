@@ -26,7 +26,7 @@
 
 请右键（手机长按）图片后选择「在新页面中打开图片」，并复制新打开的页面的网址。
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (4).png>)
 
 ![](../../.gitbook/assets/MTXX\_MH20230317\_195925995.jpg)
 
@@ -42,7 +42,7 @@
 
 如果图片大小不合适可以拖动四角的蓝色方块进行调整。
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (3).png>)
 
 
 

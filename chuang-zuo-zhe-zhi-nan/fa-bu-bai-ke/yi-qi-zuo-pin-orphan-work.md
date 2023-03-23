@@ -8,6 +8,20 @@
 * 不再被显示为这篇作品的创作者
 * 无法撤销这个选择
 
+orphan\_account长这样：
+
+![](<../../.gitbook/assets/image (6).png>)
+
+或这样：
+
+![](<../../.gitbook/assets/image (1).png>)
+
+你是无法点入这种账号的主页查看的。
+
+被遗弃的作品会变成这样：
+
+![](../../.gitbook/assets/MTXX\_MH20230323\_184318780.jpg)
+
 ## 做法
 
 **第一步：**进入作品编辑界面，点击`Orphan Work`。

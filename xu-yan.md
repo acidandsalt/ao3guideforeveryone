@@ -38,9 +38,9 @@ AO3超话的汇总帖：[https://weibo.com/1837861540/4856705035538664](https://
 
 我个人常用的比较稳定的是：
 
-1 [https://1.ao3-cn.top/](https://1.ao3-cn.top/)（微博@FutureAppleWei）
+1 [https://1.ao3-cn.top/](https://1.ao3-cn.top/)（微博@[FutureAppleWei](https://weibo.com/u/5943706594)）
 
-2 [https://nightalk.cc/](https://nightalk.cc/)（微博@Nightalk-Official）
+2 [https://nightalk.cc/](https://nightalk.cc/)（微博@[Nightalk-Official](https://weibo.com/u/7415255403)）
 
 #### 【可用的梯子】
 

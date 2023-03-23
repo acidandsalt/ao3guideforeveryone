@@ -4,7 +4,7 @@
 
 **第一步：**点击文章略缩图中的`Add Chapter`按钮。
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (2).png>)
 
 **第二步：**填写章节相关信息。
 

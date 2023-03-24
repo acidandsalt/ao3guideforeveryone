@@ -46,7 +46,9 @@
 
 * [前言](ru-he-chi-fan-jin-jie-ban/qian-yan.md)
 * [如何收藏标签](ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
-* [书签/收藏怎么用？](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-zen-mo-yong.md)
+* [书签/收藏（Bookmark）](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
+* [浏览历史（History）](ru-he-chi-fan-jin-jie-ban/liu-lan-li-shi-history.md)
+* [稍后再看（Marked for Later）](ru-he-chi-fan-jin-jie-ban/shao-hou-zai-kan-marked-for-later.md)
 * [合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)
 
 ## 🧭 创作者指南

@@ -71,7 +71,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### Bookmark：书签/收藏
 
-[书签/收藏怎么用？](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-zen-mo-yong.md)
+[书签/收藏怎么用？](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
 
 这是登录用户才有的功能。登录用户可以为一篇作品或系列添加书签；在简单的收藏功能之上，AO3的书签还提供自定义简介、标签、合集的功能，基本就像个便利贴，写啥都可以。
 

@@ -14,7 +14,7 @@ orphan\_account长这样：
 
 或这样：
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 你是无法点入这种账号的主页查看的。
 

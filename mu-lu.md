@@ -107,7 +107,7 @@ description: 手册内容快速检索。
 <summary><strong>六、</strong><a href="broken-reference"><strong>如何吃饭（进阶版）</strong></a><em>——面向注册用户的吃饭指南</em></summary>
 
 1. [前言](ru-he-chi-fan-jin-jie-ban/qian-yan.md)
-2. [书签/收藏怎么用](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-zen-mo-yong.md)
+2. [书签/收藏怎么用](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
 3. [如何收藏标签](ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
 4. [合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)
 

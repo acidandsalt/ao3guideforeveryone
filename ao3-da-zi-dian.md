@@ -138,7 +138,7 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ### **Drabble：涂鸦/短打**
 
-用在画画上指的是随手涂鸦，用在写文上指的就是字数较少的短打。用于短打的还有snippet一词，指小片段。
+用在画画上指的是随手涂鸦，用在写文上指的就是字数较少的短打。用于短打的还有「snippet」一词，指小片段。
 
 ### Draft：草稿箱
 
@@ -273,7 +273,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### Mary Sue：玛丽苏
 
-形容一些人见人爱畅通无阻的外挂型女角色，男性版本叫做Gary Stu。Fun Fact：这个叫法起源于一篇Star Trek同人文女主的名字。
+形容一些人见人爱畅通无阻的外挂型女角色，男性版本叫做「Gary Stu」。Fun Fact：这个叫法起源于一篇Star Trek同人文女主的名字。
 
 ### Meme：梗图
 
@@ -293,7 +293,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### OTP：本命CP
 
-全称One True Pairing，指你最喜欢/最迷恋/最相信/最上头的那一对。相应地衍生出一些其他的表达，比如OT3（本命三人组）、BrOTP（本命CB）等。
+全称One True Pairing，指你最喜欢/最迷恋/最相信/最上头的那一对。相应地衍生出一些其他的表达，比如「OT3」本命三人组、「BrOTP」本命CB等。
 
 ### OTW：再创作组织
 
@@ -432,7 +432,7 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### Ship/Shipping：配对
 
-这个词来源于relationship，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃，萌」。外网的拆逆撕逼就叫做Ship War，喜欢A/B就叫ship A/B。
+这个词来源于relationship，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃，萌」。外网的拆逆撕逼就叫做「Ship War」，喜欢A/B就叫ship A/B。
 
 ### Shit：操/妈的
 
@@ -444,7 +444,7 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### Slash：斜线向
 
-BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的域名mtslash即由此而来。相应地，Femslash指的是GL向。
+BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的域名mtslash即由此而来。相应地，「Femslash」指的是GL向。
 
 ### Smut：不打折扣的肉
 
@@ -474,6 +474,10 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 在打多个标签的时候，标签与标签之间必须用**英文逗号**或Enter键分隔。
 
+### TBC：未完持续
+
+是To Be Continued的缩写。
+
 ### Tik Tok：抖音国际版
 
 短视频网站，很多红人，同人二创视频不少；本人对它的印象仅来自于整活博主。
@@ -491,6 +495,10 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 ### ToS：服务条款
 
 是Terms of Service的缩写→[AO3的ToS](https://archiveofourown.org/tos)
+
+### Trope：梗/桥段
+
+就是经常在行文中用到的桥段，比如假婚、身份误会、破镜重圆等等。
 
 ### Tumblr：汤不热
 

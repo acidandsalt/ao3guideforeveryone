@@ -26,6 +26,12 @@
 
 ## Q\&A
 
+### 我应该在哪里查看我的匿名作品？
+
+匿名的作品并不会出现在你的作品列表中，你可以在作品页面的`Works in Collections`中查看它们。
+
+![](../../.gitbook/assets/Screenshot\_20230324\_105924.jpg)
+
 ### 如果我想解除一篇作品的匿名，又不想让它和我现在的账户关联怎么办呢？
 
 1. 用不同的邮箱注册一个新账户，在[偏好设置](../../xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)的隐私模块中勾选“允许其他人邀请我做共创者”

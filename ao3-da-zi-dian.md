@@ -8,7 +8,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 | ------------------------ | ------------------------ | ------------------------ | ------------------------ | ------------------------ |
 | [A](ao3-da-zi-dian.md#a) | [G](ao3-da-zi-dian.md#g) | [M](ao3-da-zi-dian.md#m) | [S](ao3-da-zi-dian.md#s) | [Y](ao3-da-zi-dian.md#y) |
 | [B](ao3-da-zi-dian.md#b) | [H](ao3-da-zi-dian.md#h) | [N](ao3-da-zi-dian.md#n) | [T](ao3-da-zi-dian.md#t) | [Z](ao3-da-zi-dian.md#z) |
-| [C](ao3-da-zi-dian.md#c) | [I](ao3-da-zi-dian.md#i) | [O](ao3-da-zi-dian.md#o) | [U](ao3-da-zi-dian.md#u) |                          |
+| [C](ao3-da-zi-dian.md#c) | [I](ao3-da-zi-dian.md#i) | [O](ao3-da-zi-dian.md#o) | [U](ao3-da-zi-dian.md#u) | #                        |
 | [D](ao3-da-zi-dian.md#d) | [J](ao3-da-zi-dian.md#j) | [P](ao3-da-zi-dian.md#p) | [V](ao3-da-zi-dian.md#v) |                          |
 | [E](ao3-da-zi-dian.md#e) | [K](ao3-da-zi-dian.md#k) | [Q](ao3-da-zi-dian.md#q) | [W](ao3-da-zi-dian.md#w) |                          |
 | [F](ao3-da-zi-dian.md#f) | [L](ao3-da-zi-dian.md#l) | [R](ao3-da-zi-dian.md#r) | [X](ao3-da-zi-dian.md#x) |                          |
@@ -47,21 +47,37 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 和[所有媒介类型](ao3-da-zi-dian.md#all-media-types-suo-you-mei-jie-lei-xing)一样，这也是个圈子标签的后缀词组，比如**The Eagle - Ambiguous Fandom**既可指电影_Eagle of the Ninth_，也可指电视剧[_Ørnen: En krimi-odyssé_](#user-content-fn-2)[^2]。由于不能确定打着「The Eagle」标签的作品代表哪个圈，这个标签便是「多义」的。
 
+### A/N：作者备注
+
+是Author's Note的缩写。
+
+### Anon：匿名者
+
+全称Anonymous，是对匿名用户的称谓。
+
+### Arc：弧光/剧情线
+
+听起来很高大上的「人物弧光（Character Arc）」就是这个，用来指一个人物或剧情的发展。要塑造好角色，就需要完整且合理地展示角色的心路历程，给予ta完善的人物弧光。一些常见的用法比如Redemption Arc（洗白/救赎历程），New York Destruction Arc（纽约摧毁剧情线）等等。
+
 ## B
+
+### Beta：校对
+
+全称叫Beta Reader，指的是「Alpha Reader」作者本人之后第二个阅读作品的人，负责给作者校对捉虫，一般严格一点的作者会有Beta，作品通过Beta之后才发布。当然相反的也就有一群「No Beta we die like heroes」的作者。
 
 ### Block：拉黑
 
-就是拉黑功能。AO3现在也上线了拉黑用户的功能，可以阻止指定用户与你互动。详细信息请见→【[用户黑名单](hu-dong-yu-jiao-liu/la-hei-ping-bi-gong-neng.md#yong-hu-hei-ming-dan)】
+就是拉黑功能。AO3现在也上线了拉黑用户的功能，可以阻止指定用户与你互动。详细信息请见→[用户黑名单](hu-dong-yu-jiao-liu/la-hei-ping-bi-gong-neng.md#yong-hu-hei-ming-dan)
 
 ### Bookmark：书签/收藏
 
-【[书签/收藏怎么用？](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-zen-mo-yong.md)】
+[书签/收藏怎么用？](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-zen-mo-yong.md)
 
 这是登录用户才有的功能。登录用户可以为一篇作品或系列添加书签；在简单的收藏功能之上，AO3的书签还提供自定义简介、标签、合集的功能，基本就像个便利贴，写啥都可以。
 
 ### Bottom：受/右位
 
-直译就是在下面那个，反义词Top就是攻；表示一个角色是攻写法是「Bottom 角色名」。
+直译就是在下面那个，反义词Top就是攻；表示一个角色是受写法是「Bottom 角色名」。
 
 「He is such a bottom」=「他真的太受了吧」
 
@@ -90,7 +106,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### Collection：合集
 
-【[合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)】
+[合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)
 
 AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集作品本体，也可以收集你为作品加的书签（[Bookmark](ao3-da-zi-dian.md#bookmark-shu-qian-shou-cang)），时常被用作24h这一类的活动/挑战。
 
@@ -102,7 +118,7 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ### Crossover：混合同人
 
-【[如何筛选混合同人？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)】
+[如何筛选混合同人？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
 
 指的是内容包含两个及以上圈子（[Fandom](ao3-da-zi-dian.md#fandom-quan-zi)）的同人，比如哈利波特出现在漫威宇宙、亚当斯一家移居哥谭这种梦幻联动。如果只是单纯HPAU的漫威同人，则标注为AU，不属于混同。
 
@@ -116,9 +132,17 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 「哈哈，我就说了利物浦会输吧！钱拿来！」「**Damn**，老兄，你运气真好。」
 
+### Dead Dove: Do Not Eat：三观不正预警
+
+这个一般是作者加在作品上的标签，意味着作品内可能含有三观不正的内容，而作者出于种种原因没有对它做出批判，执意观看的话后果自负。
+
+### **Drabble：涂鸦/短打**
+
+用在画画上指的是随手涂鸦，用在写文上指的就是字数较少的短打。用于短打的还有snippet一词，指小片段。
+
 ### Draft：草稿箱
 
-【[如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ru-he-bao-cun-wei-cao-gao.md)】
+[如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
 
 AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，从创建开始，草稿只能保存一个月！
 
@@ -150,19 +174,23 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 附一个LOFTER用户@[某草帽家的搬运工](https://starlightjuice.lofter.com/)撰写的[FF使用指南](https://starlightjuice.lofter.com/post/1dda1f42\_1cd28b9ec)。
 
+### Fanon：粉圈公认设定
+
+形容那些被粉丝们推理出来的/在圈子里实在过于流行以至于被大部分人认同的设定，比如某个角色的动物塑，或原著内没有明确提到的角色喜好等。
+
 ### FAQ：常见问题
 
-全称叫做Frequently Asked Questions。AO3有一个非常完善的[FAQ界面](https://archiveofourown.org/faq/tags?language\_id=zh-CN)，基本可以解答你的绝大部分疑问，只要你有耐心去查。页面右上角有栏目可以调语言（只能调这一个模块的语言哦！再说一遍：**AO3目前没有官方中文版！**）。
+是Frequently Asked Questions的缩写。AO3有一个非常完善的[FAQ界面](https://archiveofourown.org/faq/tags?language\_id=zh-CN)，基本可以解答你的绝大部分疑问，只要你有耐心去查。页面右上角有栏目可以调语言（只能调这一个模块的语言哦！再说一遍：**AO3目前没有官方中文版！**）。
 
 ### Favorite Tag：收藏标签
 
-【[如何收藏标签？](ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)】
+[如何收藏标签？](ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
 
-在一个标签页面的右上角会出现「Favorite Tag」的按钮，点击它之后，这个标签会被固定在你的AO3主页（注意不是个人主页）上，更方便访问。若想取消则点击原位置的「Unfavorite Tag」按钮。
+在一个标签页面的右上角会出现`Favorite Tag`的按钮，点击它之后，这个标签会被固定在你的AO3首页上，更方便访问。若想取消则点击原位置的`Unfavorite Tag`按钮。
 
 ### **Filter：筛选**
 
-【[如何使用筛选功能？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/shai-xuan-gong-neng-filter.md)】
+[如何使用筛选功能？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/shai-xuan-gong-neng-filter.md)
 
 在搜索作品的过程中，难免要遇到Filter功能。它的意思是「筛选，过滤」，能够帮助你更精准地定位想要的结果。
 
@@ -178,13 +206,17 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ## H
 
+### Headcanon：私设
+
+形容作者根据自己的逻辑圆出来的私设，比如创作者对某个角色的理解和塑造，在原著之外自己想象的细节等等。
+
 ### Holy Fuck：我了个去
 
 与Holy shit和Holy hell同义，都表达相当震惊和相当火大的意思。偶尔为了喜剧效果被翻译成「神圣的地狱啊」。
 
 ### HTML：超文本标记语言
 
-【[HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)】
+[HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)
 
 简单来说，就是用一些代码符号实现文字与图片的排版。AO3支持简单的HTML语言，可以应用在大部分文字模块上，如作品简介、作者附注、正文、个人简介等等。
 
@@ -239,6 +271,10 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 和HTML类似，它也是一种文本转换语言。Markdown相比HTML要更简洁，但功能相对地就没有那么强大。大部分创作平台也都支持Markdown语法，比如\*_斜体_\*、\*\***加粗**\*\*等。
 
+### Mary Sue：玛丽苏
+
+形容一些人见人爱畅通无阻的外挂型女角色，男性版本叫做Gary Stu。Fun Fact：这个叫法起源于一篇Star Trek同人文女主的名字。
+
 ### Meme：梗图
 
 原义模因，但在冲浪时一般指是配字图片，特征是会被广泛传播并被各种改图。这个词读作\[mim]，最后的那个e不发音，所以不读作「咪咪」「么么」也不读作「买么」。
@@ -248,6 +284,10 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 ### NGL：说实话
 
 是Not Gonna Lie的缩写，我查了五遍才记住。
+
+### NSFW：背后注意
+
+是Not Safe For Work的缩写，泛指18+内容，意思是打开这篇作品的时候小心身后来人，如果别人看到你的屏幕，你可能会社死。
 
 ## O
 
@@ -271,17 +311,17 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 
 ### Preferences：偏好设置
 
-自定义一些浏览习惯、隐私之类的地方。【[如何进行偏好设置](xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)】
+自定义一些浏览习惯、隐私之类的地方。[如何进行偏好设置](xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)
 
 ### Proceed：继续
 
-【如何看文？】
+[如何点开作品？](ru-he-chi-fan-chu-ji-ban/ru-he-dian-kai-zuo-pin.md)
 
 访问带有未分级、成人向或成人级[分级标签](ao3-da-zi-dian.md#rating-fen-ji)的作品时，页面顶部会出现一则黄色警告，提示该作品可能含有成人内容。此时点击Proceed继续就可以正常访问整篇文章了。
 
 ### Profile：个人资料
 
-【[如何自定义个人资料？](xin-shou-she-zhi-yu-xin-xi-geng-gai/bian-ji-ge-ren-zi-liao-profile.md)】
+[如何自定义个人资料？](xin-shou-she-zhi-yu-xin-xi-geng-gai/bian-ji-ge-ren-zi-liao-profile.md)
 
 就像大部分网站一样，AO3也支持个人资料自定义，但感觉似乎很少有人用的样子。
 
@@ -326,6 +366,10 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 
 子博可以设置成你其他平台的用户名以方便读者在AO3找到你，也可以用来归类存储不同圈子的作品、书签。任何人都可以通过你的子博找到你的主账户，因此如果想要避免某些作品与自己的主账户关联的话，更合适的方式是匿名发表或用不同的邮箱创建一个新账号。
 
+### PWP：纯肉
+
+是Porn Without Plot/Plot What Plot的缩写，意为「没有剧情纯走肾」，但有时候也可以做Porn With Plot「剧情肉」解释，总之无论如何肯定是有很露骨的肉。
+
 ## Q
 
 ## R
@@ -356,7 +400,7 @@ AO3支持一切二创配对，包括CP、CB、单人无配对、乙女、梦向�
 
 ### Rich Text：富文本
 
-AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)格式和富文本格式两种。富文本格式就是平时大家在Word文档里使用的那种，靠点击按钮就可以给文字加粗加斜体居中对齐等等。更多介绍参见→发文百科：富文本格式
+AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)格式和富文本格式两种。富文本格式就是平时大家在Word文档里使用的那种，靠点击按钮就可以给文字加粗加斜体居中对齐等等。更多介绍参见→[富文本格式](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/cha-ru-tu-pian-chao-lian-jie.md)
 
 ### RIP：安息
 
@@ -376,19 +420,19 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### RSS：简易信息聚合
 
-通俗来讲，网站向你提供它的RSS就像向你提供了一个监视器，网站更新的内容会实时传输到你的监视屏（RSS阅读器）上。AO3的通用标签支持RSS订阅。更多相关信息见→【[RSS订阅](xiao-zhong-gong-neng/rss-ding-yue.md)】
+通俗来讲，网站向你提供它的RSS就像向你提供了一个监视器，网站更新的内容会实时传输到你的监视屏（RSS阅读器）上。AO3的通用标签支持RSS订阅。更多相关信息见→[RSS订阅](xiao-zhong-gong-neng/rss-ding-yue.md)
 
 ## S
 
 ### Series：系列文
 
-【如何创建系列文】
+[如何创建系列文？](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/bian-ji-zuo-pin/jia-ru-xi-lie.md)
 
 类似于国内平台的合集功能，一般用于存放同属于一个世界观/AU/故事设定下的作品。
 
 ### Ship/Shipping：配对
 
-这个词来源于「relationship」，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃，萌」。外网的拆逆撕逼就叫做Ship War，喜欢A/B就叫ship A/B。
+这个词来源于relationship，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃，萌」。外网的拆逆撕逼就叫做Ship War，喜欢A/B就叫ship A/B。
 
 ### Shit：操/妈的
 
@@ -397,6 +441,14 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 「**Shit**！我又忘了买盐了。」
 
 「成绩出来了。」「……**Shit**.」
+
+### Slash：斜线向
+
+BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的域名mtslash即由此而来。相应地，Femslash指的是GL向。
+
+### Smut：不打折扣的肉
+
+总之就是有比较露骨的性爱内容。
 
 ### S/O：另一半
 
@@ -464,7 +516,7 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 由于GFW[^5]（Great Fire Wall，中国国家防火墙）的设置，很多外国网站在我国大陆无法访问，因此这个工具的终极目的就是帮助墙内的人看到墙外的风景。学会使用梯子是每个资深网络冲浪人的必经之路。
 
-【[AO3超话梯子推荐](xu-yan.md#ke-yong-de-ti-zi)】
+[AO3超话梯子推荐](xu-yan.md#ke-yong-de-ti-zi)
 
 ## W
 
@@ -483,7 +535,7 @@ AO3的一种预警方式，包括
 
 ### WIP：进行中的作品
 
-全称Work In Progress，指未完结、仍在进行的作品。一些人有意避开这种作品，因为它们有朝一日可能会坑掉（[Abandoned](ao3-da-zi-dian.md#abandoned-keng-le)）。
+是Work In Progress的缩写，指未完结、仍在进行的作品。一些人有意避开这种作品，因为它们有朝一日可能会坑掉（[Abandoned](ao3-da-zi-dian.md#abandoned-keng-le)）。
 
 ### WTF：我操
 
@@ -505,9 +557,11 @@ AO3的一种预警方式，包括
 
 
 
+## \#
 
+### !
 
-
+一个英文感叹号，会出现在「Alpha!Bruce」或「Bottom!Reader」这样的标签内。感叹号之前是角色属性，感叹号之后是角色名称。也可能是阶乘符号[^6]。
 
 
 
@@ -522,3 +576,5 @@ AO3的一种预警方式，包括
 [^4]: 似乎不是专业翻译，姑且感觉译作“广性别”更直白
 
 [^5]: 曾经我一直不知道为什么在LOFTER，攻抚慰的首字母会导致审核巨久，直到知道了墙的缩写……
+
+[^6]: 比如：5!=1×2×3×4×5

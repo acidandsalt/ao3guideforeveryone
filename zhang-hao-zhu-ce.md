@@ -23,23 +23,23 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 要注册AO3账号的唯一方式就是得到网站的Invitation（邀请）。获得邀请的途径有两种：让一名已经注册账号的AO3用户给你发送邀请码，或者乖乖去网站首页排队。前者，被邀请即可立刻创建账户，无需等待；后者往往需要等待几天甚至数周。
 
-其实大部分用户都是靠排队注册的，所以先讲这个比较传统的方法。
+大部分用户都是靠排队注册的，所以先讲这个比较传统的方法。
 
 ### #方法一：邮件方法
 
-**第一步**：挂梯子打开原网址[https://archiveofourown.org](https://archiveofourown.org)后，点击首页上的`Get Invited`（邀请我）按钮。
+**第一步**：挂梯子打开原网址[https://archiveofourown.org](https://archiveofourown.org)后，点击首页上的`Get Invited`按钮。
 
 ![AO3主界面的截图，底部有一个Get Invited！按钮，点击它。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step1.jpg)
 
-**第二步**：在输入框内填写邮箱（任何邮箱都可以）并点击`Add me to the list`（把我加入队列）按钮。
+**第二步**：在输入框内填写邮箱（任何邮箱都可以）并点击`Add me to the list`按钮。
 
 ![在新页面填写邮箱，然后点击Add me to the list按钮。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step2.jpg)
 
-**第三步**：界面顶部出现“You've been added to our queue!”的蓝色消息框的时候，证明你已经排上队了。按照预期的时间等待邮件就可以。
+**第三步**：界面顶部出现「You've been added to our queue!」的蓝色消息框的时候，证明你已经排上队了。按照预期的时间等待邮件就可以。
 
 ![界面顶部出现“You've been added to our queue!”的蓝色消息框的时候，证明你已经排上队了。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step3.jpg)
 
-**第四步**：在将近一个周之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的`follow this link to sign up`（点击此链接创建账号），挂好梯子并点击。
+**第四步**：在将近一个周之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的「follow this link to sign up」，挂好梯子并点击。接下来，你就可以进入[创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)步骤了。
 
 ![](<.gitbook/assets/image (2) (1).png>)
 
@@ -49,7 +49,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 **邀请者需要做什么？**
 
-**第一步：**点开自己的`Dashboard`（个人主页），找到`Invitation`（邀请）按钮并点击。
+**第一步：**点开自己的个人主页（Dashboard），找到`Invitations`按钮并点击。
 
 <figure><img src=".gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +61,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 {% tabs %}
 {% tab title="1" %}
-**方法一：**在`Email address`中填入被邀请者想要用来注册的邮箱，选择一个邀请码，然后点击`Send Invitation`。之后应该跳转到这个界面↓
+**方法一：**在Email address中填入被邀请者想要用来注册的邮箱，选择一个邀请码，然后点击`Send Invitation`。之后应该跳转到这个界面↓
 
 ![](.gitbook/assets/MTXX\_MH20230313\_113908201.jpg)
 
@@ -71,11 +71,11 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 
 ![](<.gitbook/assets/image (36).png>)
 
-请ta找到如图的`follow this link to sign up`（点击此链接创建账号），**挂好梯子**并点击。接下来的操作请参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
+请ta找到如图的「follow this link to sign up」，**挂好梯子**并点击。接下来的操作请参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
 {% endtab %}
 
 {% tab title="2" %}
-**方法二：**在Invite a friend界面选择`Manage Invitations`（管理邀请）和`Unsent`（未送出），如图。然后，复制`copy and use`这个超链接的网址（不是点开！是复制链接！）。
+**方法二：**在Invite a friend界面选择`Manage Invitations`和`Unsent`，如图。然后，复制`copy and use`这个超链接的网址（不是点开！是复制链接！）。
 
 * 在Windows系统电脑上：右键该链接，然后选择「复制链接地址」
 * 在MacOS系统电脑上：同时按下control键并点击链接，然后选择「复制链接」
@@ -87,13 +87,13 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 {% endtab %}
 
 {% tab title="3" %}
-**方法三：**直接把邀请码那一长串字符复制并发送给被邀请者，请ta**挂好梯子**，在浏览器的地址栏输入「https://archiveofourown.org/signup/####」，并将「####」替换为邀请码字符串；替换完成后的链接会导向注册页面。接下来的操作参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
+**方法三：**直接把邀请码那一长串字符复制并发送给被邀请者，请对方**挂好梯子**，在浏览器的地址栏输入「https://archiveofourown.org/signup/####」，并将「####」替换为邀请码字符串；替换完成后的链接会导向注册页面。接下来的操作参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
 {% endtab %}
 {% endtabs %}
 
 **如何查看自己的邀请码状态？**
 
-在Invite a friend界面选择`Manage Invitations`（管理邀请），在Manage那一栏可以看见。
+在Invite a friend界面选择`Manage Invitations`，在Manage那一栏可以看见。
 
 「Unsent」是未送出的，「Sent But Unused」是送出但未被认领的，「Used」就是已使用作废的。
 
@@ -105,7 +105,7 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 **注意：全程需挂梯子使用原网址。**
 {% endhint %}
 
-现在，你来到了Creat Account（创建账号）界面。你需要填写的信息是
+现在，你来到了「Creat Account」界面。你需要填写的信息是
 
 1. **User name**：用户名，只能含有大小写英文字母、数字和下划线（这个东西“\_”）且不能以下划线开头结尾
 2. **Password**：密码，长度6到40个字符
@@ -120,15 +120,15 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 
 ![](<.gitbook/assets/image (11).png>)
 
-在这之后你来到了一个告诉你Almost Done!（快完成了！）的界面，这意味着你即将收到第二封邮件。
+在这之后你来到了一个告诉你「Almost Done!」的界面，这意味着你即将收到第二封邮件。
 
 ![](.gitbook/assets/MTXX\_MH20230316\_085757484.jpg)
 
-在第二封邮件中寻找`follow this link to activate your account`（点击此链接以激活账户），**挂好梯子**，点击它。
+在第二封邮件中寻找「follow this link to activate your account」，**挂好梯子**，点击它。
 
 ![](.gitbook/assets/MTXX\_MH20230316\_090016400.jpg)
 
-此时你来到一个顶端有蓝色消息框告诉你Account activation complete! Please log in.（账户已激活！请登录。）的界面。第一行填的是用户名或邮箱，第二行填写密码；勾选`Remember me`的话下一次打开网站会自动登录。最后点击`Log in`（登录），你面前的就是完全体的AO3了。
+此时你来到一个顶端有蓝色消息框告诉你「Account activation complete! Please log in.」的界面。第一行填的是用户名或邮箱，第二行填写密码；勾选`Remember me`的话下一次打开网站会自动登录。最后点击`Log in`，你面前的就是完全体的AO3了。
 
 ![](.gitbook/assets/MTXX\_MH20230316\_091957776.jpg)
 
@@ -138,11 +138,11 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 
 ### 怎么查看我有没有排上队？
 
-打开第二步中的页面，点击标黄的链接「check your position on the waiting list」（查看你在等候列表上的位置）。标红的数字是表示现在有多少人在排队。
+打开第二步中的页面，点击标黄的链接「check your position on the waiting list」。标红的数字是表示现在有多少人在排队。
 
 <figure><img src=".gitbook/assets/image (24) (2).png" alt=""><figcaption></figcaption></figure>
 
-在新界面中填入你申请用的邮箱，然后点击「Look me up」（查一查），下方即会出现查询结果。
+在新界面中填入你申请用的邮箱，然后点击「Look me up」，下方即会出现查询结果。
 
 <figure><img src=".gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 

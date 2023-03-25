@@ -29,6 +29,15 @@
 * [※搜索框里的大学问](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-li-de-da-xue-wen.md)
 * [Q\&A](ru-he-chi-fan-chu-ji-ban/q-and-a.md)
 
+## 🥘 如何吃饭（进阶版）
+
+* [前言](ru-he-chi-fan-jin-jie-ban/qian-yan.md)
+* [如何收藏标签](ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
+* [书签/收藏（Bookmark）](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
+* [浏览历史（History）](ru-he-chi-fan-jin-jie-ban/liu-lan-li-shi-history.md)
+* [稍后再看（Marked for Later）](ru-he-chi-fan-jin-jie-ban/shao-hou-zai-kan-marked-for-later.md)
+* [合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)
+
 ## ⚙ 新手设置与信息更改
 
 * [新手指导消息框](xin-shou-she-zhi-yu-xin-xi-geng-gai/xin-shou-zhi-dao-xiao-xi-kuang.md)
@@ -41,15 +50,6 @@
 * [网站快速换肤（Site Skin）](xin-shou-she-zhi-yu-xin-xi-geng-gai/wang-zhan-kuai-su-huan-fu-site-skin.md)
 * [找回密码](xin-shou-she-zhi-yu-xin-xi-geng-gai/zhao-hui-mi-ma.md)
 * [注销账号](xin-shou-she-zhi-yu-xin-xi-geng-gai/zhu-xiao-zhang-hao.md)
-
-## 🥘 如何吃饭（进阶版）
-
-* [前言](ru-he-chi-fan-jin-jie-ban/qian-yan.md)
-* [如何收藏标签](ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
-* [书签/收藏（Bookmark）](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
-* [浏览历史（History）](ru-he-chi-fan-jin-jie-ban/liu-lan-li-shi-history.md)
-* [稍后再看（Marked for Later）](ru-he-chi-fan-jin-jie-ban/shao-hou-zai-kan-marked-for-later.md)
-* [合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)
 
 ## 🧭 创作者指南
 

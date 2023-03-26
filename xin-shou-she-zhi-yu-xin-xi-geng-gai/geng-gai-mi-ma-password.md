@@ -6,7 +6,7 @@
 
 **第二步**：点击`Change Password`
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 **第三步**：填写`New password`，`Confirm new password`和`Old password`，点击下方`Change Password`确认。
 

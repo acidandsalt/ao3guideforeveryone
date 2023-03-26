@@ -14,7 +14,7 @@ orphan\_account长这样：
 
 或这样：
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 你是无法点入这种账号的主页查看的。
 
@@ -24,11 +24,11 @@ orphan\_account长这样：
 
 ## 做法
 
-**第一步：**进入作品编辑界面，点击`Orphan Work`。
+1. 进入作品编辑界面，点击`Orphan Work`。
 
 ![](../../.gitbook/assets/MTXX\_MH20230315\_144010958.jpg)
 
-**第二步：**选择是否要保留用户名，然后点击`Yes, I'm sure`。
+2. 选择是否要保留用户名，然后点击`Yes, I'm sure`。
 
 ![](../../.gitbook/assets/MTXX\_MH20230315\_145550858.jpg)
 

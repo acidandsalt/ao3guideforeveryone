@@ -25,57 +25,57 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 大部分用户都是靠排队注册的，所以先讲这个比较传统的方法。
 
-### #方法一：邮件方法
+### 方法一：邮件方法
 
-**第一步**：挂梯子打开原网址[https://archiveofourown.org](https://archiveofourown.org)后，点击首页上的`Get Invited`按钮。
+1. 挂梯子打开原网址[https://archiveofourown.org](https://archiveofourown.org)后，点击首页上的`Get Invited`按钮。
 
 ![AO3主界面的截图，底部有一个Get Invited！按钮，点击它。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step1.jpg)
 
-**第二步**：在输入框内填写邮箱（任何邮箱都可以）并点击`Add me to the list`按钮。
+2. 在输入框内填写邮箱（任何邮箱都可以）并点击`Add me to the list`按钮。
 
 ![在新页面填写邮箱，然后点击Add me to the list按钮。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step2.jpg)
 
-**第三步**：界面顶部出现「You've been added to our queue!」的蓝色消息框的时候，证明你已经排上队了。按照预期的时间等待邮件就可以。
+3. 界面顶部出现「You've been added to our queue!」的蓝色消息框的时候，证明你已经排上队了。按照预期的时间等待邮件就可以。
 
 ![界面顶部出现“You've been added to our queue!”的蓝色消息框的时候，证明你已经排上队了。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step3.jpg)
 
-**第四步**：在将近一个周之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的「follow this link to sign up」，挂好梯子并点击。接下来，你就可以进入[创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)步骤了。
+4. 在将近一个周之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的「follow this link to sign up」，挂好梯子并点击。接下来，你就可以进入[创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)步骤了。
 
-![](<.gitbook/assets/image (2) (1).png>)
+![](<.gitbook/assets/image (2) (1) (1).png>)
 
-### #方法二：邀请码法
+
+
+### 方法二：邀请码法
+
+<details>
+
+<summary>内容较长，已折叠</summary>
 
 请注意：每个已注册用户拥有的邀请码数量是有限的，被使用过的邀请码即作废；另外，被邀请者在使用邀请码创建账号后，用户名和邮箱将对邀请者可见。
 
 **邀请者需要做什么？**
 
-**第一步：**点开自己的个人主页（Dashboard），找到`Invitations`按钮并点击。
+1. 点开自己的个人主页（Dashboard），找到`Invitations`按钮并点击。
 
-<figure><img src=".gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<img src=".gitbook/assets/image (6) (1) (2).png" alt="" data-size="original">
 
 界面如图所示↓
 
 ![](<.gitbook/assets/image (1) (3).png>)
 
-**第二步：**向受邀者发送邀请码有三种方法。
+2. 向受邀者发送邀请码有三种方法。
 
-{% tabs %}
-{% tab title="1" %}
 **方法一：**在Email address中填入被邀请者想要用来注册的邮箱，选择一个邀请码，然后点击`Send Invitation`。之后应该跳转到这个界面↓
 
 ![](.gitbook/assets/MTXX\_MH20230313\_113908201.jpg)
-
-PS. 在此情况下无需使用「copy and use」链接，其用法见本条**方法二**。
 
 不久，被邀请者就应该收到一封邮件↓
 
 ![](<.gitbook/assets/image (36).png>)
 
 请ta找到如图的「follow this link to sign up」，**挂好梯子**并点击。接下来的操作请参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
-{% endtab %}
 
-{% tab title="2" %}
-**方法二：**在Invite a friend界面选择`Manage Invitations`和`Unsent`，如图。然后，复制`copy and use`这个超链接的网址（不是点开！是复制链接！）。
+**方法二：**如图，在Invite a friend界面选择`Manage Invitations`和`Unsent`。然后，复制`copy and use`这个超链接的网址（不是点开！是复制链接！）。
 
 * 在Windows系统电脑上：右键该链接，然后选择「复制链接地址」
 * 在MacOS系统电脑上：同时按下control键并点击链接，然后选择「复制链接」
@@ -83,19 +83,17 @@ PS. 在此情况下无需使用「copy and use」链接，其用法见本条**�
 
 最后把链接发给你想邀请的人，请ta点开链接按照「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」操作即可（**别忘了挂梯子**）。
 
-<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
-{% endtab %}
+<img src=".gitbook/assets/image (40).png" alt="" data-size="original">
 
-{% tab title="3" %}
 **方法三：**直接把邀请码那一长串字符复制并发送给被邀请者，请对方**挂好梯子**，在浏览器的地址栏输入「https://archiveofourown.org/signup/####」，并将「####」替换为邀请码字符串；替换完成后的链接会导向注册页面。接下来的操作参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
-{% endtab %}
-{% endtabs %}
 
 **如何查看自己的邀请码状态？**
 
 在Invite a friend界面选择`Manage Invitations`，在Manage那一栏可以看见。
 
 「Unsent」是未送出的，「Sent But Unused」是送出但未被认领的，「Used」就是已使用作废的。
+
+</details>
 
 
 

@@ -426,7 +426,7 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### Series：系列文
 
-[如何创建系列文？](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/bian-ji-zuo-pin/jia-ru-xi-lie.md)
+[如何创建系列文？](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/guan-yu-xi-lie.md)
 
 类似于国内平台的合集功能，一般用于存放同属于一个世界观/AU/故事设定下的作品。
 

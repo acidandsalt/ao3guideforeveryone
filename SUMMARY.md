@@ -37,6 +37,7 @@
 * [浏览历史（History）](ru-he-chi-fan-jin-jie-ban/liu-lan-li-shi-history.md)
 * [稍后再看（Marked for Later）](ru-he-chi-fan-jin-jie-ban/shao-hou-zai-kan-marked-for-later.md)
 * [合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)
+* [AO3外挂](ru-he-chi-fan-jin-jie-ban/ao3-wai-gua.md)
 
 ## ⚙ 新手设置与信息更改
 
@@ -60,16 +61,16 @@
   * [插入图片/超链接](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/cha-ru-tu-pian-chao-lian-jie.md)
   * [匿名发文](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ni-ming-fa-wen.md)
   * [如何保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
-  * [编辑作品](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/bian-ji-zuo-pin/README.md)
-    * [加入系列](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/bian-ji-zuo-pin/jia-ru-xi-lie.md)
-    * [增加章节](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/bian-ji-zuo-pin/zeng-jia-zhang-jie.md)
+  * [编辑作品](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/bian-ji-zuo-pin.md)
+  * [关于系列](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/guan-yu-xi-lie.md)
+  * [增加章节](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/zeng-jia-zhang-jie.md)
   * [遗弃作品（Orphan Work）](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/yi-qi-zuo-pin-orphan-work.md)
   * [删除作品](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/shan-chu-zuo-pin.md)
   * [批量编辑作品](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/pi-liang-bian-ji-zuo-pin.md)
 * [分享作品方法](chuang-zuo-zhe-zhi-nan/fen-xiang-zuo-pin-fang-fa.md)
 * [HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)
 * [合集与挑战赛](chuang-zuo-zhe-zhi-nan/he-ji-yu-tiao-zhan-sai.md)
-* [作品皮肤](chuang-zuo-zhe-zhi-nan/zuo-pin-pi-fu.md)
+* [作品皮肤（Work Skin）](chuang-zuo-zhe-zhi-nan/zuo-pin-pi-fu-work-skin.md)
 
 ## 🍻 互动与交流
 

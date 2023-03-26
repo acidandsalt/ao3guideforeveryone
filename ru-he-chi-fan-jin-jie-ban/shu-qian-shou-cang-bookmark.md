@@ -16,7 +16,7 @@ AO3没有查看kudos记录的功能，所以为了不丢失辛辛苦苦淘来的
 
 注意：由于创建书签有一定的延迟，有时数字的显示会有差别。
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 你也可以收藏站外作品，只需点击上图中的`Bookmark External Work`按钮，然后在新出现的页面内按要求填写即可。
 

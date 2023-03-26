@@ -85,7 +85,7 @@ _**注意：并不是定时发布！日期无法超过你选用时区的当天�
 
 ![](../../.gitbook/assets/MTXX\_MH20230313\_213620845.jpg)
 
-15. **Select Work Skin：**选择[作品皮肤](../zuo-pin-pi-fu.md)；高级功能，后面再讲。
+15. **Select Work Skin：**选择[作品皮肤](../zuo-pin-pi-fu-work-skin.md)；高级功能，后面再讲。
 
 ## 隐私设置（Privacy）
 

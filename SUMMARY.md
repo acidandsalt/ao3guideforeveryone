@@ -1,12 +1,12 @@
 # Table of contents
 
-* [❣ 注意！](README.md)
-* [🗂 目录](mu-lu.md)
+* [❣️ 注意！](README.md)
+* [🗂️ 目录](mu-lu.md)
 * [🎬 序言](xu-yan.md)
 * [🔮 账号注册](zhang-hao-zhu-ce.md)
 * [📘 AO3大字典](ao3-da-zi-dian.md)
 
-## 🍽 如何吃饭（初级版）
+## 🍽️ 如何吃饭（初级版）
 
 * [前言](ru-he-chi-fan-chu-ji-ban/qian-yan.md)
 * [网页翻译中文](ru-he-chi-fan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
@@ -39,7 +39,7 @@
 * [合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)
 * [AO3外挂](ru-he-chi-fan-jin-jie-ban/ao3-wai-gua.md)
 
-## ⚙ 新手设置与信息更改
+## ⚙️ 新手设置与信息更改
 
 * [新手指导消息框](xin-shou-she-zhi-yu-xin-xi-geng-gai/xin-shou-zhi-dao-xiao-xi-kuang.md)
 * [偏好设置（Preferences）](xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)

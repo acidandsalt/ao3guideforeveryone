@@ -34,32 +34,36 @@ description: 在同人圈奔走几年来，惊觉大部分做饭的和吃饭的�
 
 #### 【可用的镜像网站】
 
-AO3超话的汇总帖：[https://weibo.com/1837861540/4856705035538664](https://weibo.com/1837861540/4856705035538664)
+AO3超话的汇总帖：~~https://weibo.com/1837861540/4856705035538664~~
 
 我个人常用的比较稳定的是：
 
-1 [https://1.ao3-cn.top/](https://1.ao3-cn.top/)（微博@[FutureAppleWei](https://weibo.com/u/5943706594)）
+1 [https://1.ao3-cn.top/](https://1.ao3-cn.top/)（微博@[FutureAppleWei](https://weibo.com/u/5943706594)）\[2025.1.11测试可用]
 
-2 [https://nightalk.cc/](https://nightalk.cc/)（微博@[Nightalk-Official](https://weibo.com/u/7415255403)）
+2 ~~https://nightalk.cc/~~（微博@[Nightalk-Official](https://weibo.com/u/7415255403)）\[已失效]
 
 #### 【可用的梯子】
 
 不直接推荐，上AO3超话帖子。
 
-1 [https://weibo.com/6196199444/4839849792115087](https://weibo.com/6196199444/4839849792115087)
+1 ~~https://weibo.com/6196199444/4839849792115087~~
 
 2 [https://weibo.com/6985473814/4797688519069799](https://weibo.com/6985473814/4797688519069799)
 
-3 [https://weibo.com/5653712531/4838747928269343](https://weibo.com/5653712531/4838747928269343)
+3 ~~https://weibo.com/5653712531/4838747928269343~~
 
 4 [https://weibo.com/5665152263/4811952000074317](https://weibo.com/5665152263/4811952000074317)
 
 5 [https://weibo.com/7454666679/4840554121136874](https://weibo.com/7454666679/4840554121136874)
 
-6 [https://weibo.com/7373871514/4834767205307587](https://weibo.com/7373871514/4834767205307587)
+6 ~~https://weibo.com/7373871514/4834767205307587~~
 
 学会用梯子是每个互联网冲浪人的必经之路，多问多搜，迟早能用到的。
 
+
+
+_\*注：2025.1.11更新，部分网址已失效。_
+
 [^1]: 资料来源：[https://zh.wikipedia.org/wiki/AO3%E4%BD%9C%E5%93%81%E5%BA%93](https://zh.wikipedia.org/wiki/AO3%E4%BD%9C%E5%93%81%E5%BA%93)
 
-[^2]: 资料来源：[https://archiveofourown.org/admin\_posts/4049#main](https://archiveofourown.org/admin\_posts/4049#main)
+[^2]: 资料来源：[https://archiveofourown.org/admin\_posts/4049#main](https://archiveofourown.org/admin_posts/4049#main)

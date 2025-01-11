@@ -58,6 +58,8 @@ PS. 如果想让AO3记住密码自动登录，勾选登录框里的“Remember m
 
 关于文库符号解释请参见→[AO3文库符号解释](ao3-wen-ku-fu-hao-jie-shi.md)
 
-<figure><img src="../.gitbook/assets/Screenshot_20230310_124032 (1).jpeg" alt=""><figcaption><p>搜索结果</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4A4396C82C140EA980808929E8FF4E9D.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/9D1DADE7F168356A3F49A1A70DFC50D4.jpg" alt=""><figcaption><p>搜索结果</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}

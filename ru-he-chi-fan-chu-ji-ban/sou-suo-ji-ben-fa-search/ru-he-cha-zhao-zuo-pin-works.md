@@ -5,18 +5,18 @@ description: 精准定位你想看的类型。
 # 如何查找作品（Works）
 
 {% hint style="info" %}
-**适用于：**你已经知道作品的标题/标题中的关键词；知道自己想找什么样的作品（字数、是否完结、甜虐、车等等）
+**适用于：**&#x4F60;已经知道作品的标题/标题中的关键词；知道自己想找什么样的作品（字数、是否完结、甜虐、车等等）
 {% endhint %}
 
 {% hint style="warning" %}
-**注意：**AO3搜索无法抓取正文内容，故搜索正文内关键词无用。
+**注意：**&#x41;O3搜索无法抓取正文内容，故搜索正文内关键词无用。
 {% endhint %}
 
 > 比如，我听说有一位用户名叫做abc的文手为你CP写了一篇叫《花吐症》的文，发在AO3，怎么搜？
 >
 > 比如，我想吃《狂飙》中的高启强/陈书婷的文，要连载文，总字数5万以下，不要和别的作品联动，要中文作品，要成人级，要有主要人物死亡，要有徐江出场，要虐心虐肺，还要看赞数最多的那一篇，怎么搜？
 
-**第一步：**点击搜索中的Work（作品）栏
+**第一步：**&#x70B9;击搜索中的Work（作品）栏
 
 <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>作品</p></figcaption></figure>
 
@@ -50,7 +50,7 @@ description: 精准定位你想看的类型。
 
 更多关于其他标签的信息，请参考→[Additional Tag](../../ao3-da-zi-dian.md#additional-tags-qi-ta-biao-qian)
 
-**Work Stats（作品数据）**的查找方式与上文内**Word Count（字数）**填写方式类似，故不做赘述。
+**Work Stats（作品数据）**&#x7684;查找方式与上文内**Word Count（字数）**&#x586B;写方式类似，故不做赘述。
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>排序</p></figcaption></figure>
 
@@ -60,16 +60,16 @@ description: 精准定位你想看的类型。
 >
 > 答：
 >
-> 1. 在Completion status勾选**Complete works only，**只看完结
-> 2. 在Crossover栏勾选**Exclude crossovers，**不看联动
-> 3. 在Word Count栏填写**<50000，**少于五万字
-> 4. 在Language栏选择**中文-普通话 国语，**中文作品
-> 5. 在Ratings栏选择**Explicit，**成人级
-> 6. 在Warnings栏选择**Major Character Death，**主要人物死亡
-> 7. 在Characters栏填入**徐江，**包含角色徐江
-> 8. 在Relationships栏填入**陈书婷/高启强，**顺序是首字母原因
-> 9. 在Additional Tags栏填入**angst，**虐心
-> 10. 最后在Sort by栏选择**Kudos，**按赞数排序
+> 1. 在Completion status勾选**Complete works only，**&#x53EA;看完结
+> 2. 在Crossover栏勾选**Exclude crossovers，**&#x4E0D;看联动
+> 3. 在Word Count栏填&#x5199;**<50000，**&#x5C11;于五万字
+> 4. 在Language栏选择**中文-普通话 国语，**&#x4E2D;文作品
+> 5. 在Ratings栏选择**Explicit，**&#x6210;人级
+> 6. 在Warnings栏选择**Major Character Death，**&#x4E3B;要人物死亡
+> 7. 在Characters栏填入**徐江，**&#x5305;含角色徐江
+> 8. 在Relationships栏填入**陈书婷/高启强，**&#x987A;序是首字母原因
+> 9. 在Additional Tags栏填入**angst，**&#x8650;心
+> 10. 最后在Sort by栏选择**Kudos，**&#x6309;赞数排序
 > 11. 点击Search
 >
 > 当然，这是一个非常具体的夸张的例子，一般搜索时只需要填写2-3个栏目，后续可以再用Filter继续筛选或看Tag筛选。

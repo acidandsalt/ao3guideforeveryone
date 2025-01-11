@@ -1,7 +1,7 @@
 # 注销账号
 
 {% hint style="danger" %}
-**注意：**删除账号后你名下所有的作品也都会删除，如果想注销账号但保留作品可以使用[遗弃作品](../chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/yi-qi-zuo-pin-orphan-work.md)功能。
+**注意：**&#x5220;除账号后你名下所有的作品也都会删除，如果想注销账号但保留作品可以使用[遗弃作品](../chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/yi-qi-zuo-pin-orphan-work.md)功能。
 
 你留过的评论不会消失，但用户名会变成「账号已注销」；你留过的kudos会变成游客kudos。
 {% endhint %}
@@ -14,8 +14,8 @@
 
 登录账号，打开你的Dashboard，点击`Delete My Account`。
 
-![](../.gitbook/assets/MTXX\_MH20230317\_165310996.jpg)
+![](../.gitbook/assets/MTXX_MH20230317_165310996.jpg)
 
 此时AO3会弹窗提醒你此操作不可撤回，是否确认此操作；点击`OK`。
 
-![](../.gitbook/assets/XUDTER}$SOWZMKNYP\`\)CE\_6.png)
+![](../.gitbook/assets/XUDTER}$SOWZMKNYP`\)CE_6.png)

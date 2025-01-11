@@ -26,7 +26,7 @@ _——简单来讲就是大家搜索东西时本能敲上去的东西_
 
 _PS. 英文双引号""的作用是精确搜索，意思是搜索结果中只会包含slow burn这个词组，两个词不会分开也不会颠倒顺序。_
 
-__
+
 
 **#「限定条件」（Work Properties）**
 
@@ -36,9 +36,9 @@ _——顾名思义，给你用来限定想看什么样的文章的_
 
 _**注意：这里使用的标点符号均为英文标点！**_
 
-1. **按章节数量筛选：**expected\_number\_of\_chapters: 1 （一发完） -expected\_number\_of\_chapters: 1 （多章）
-2. **按作者筛选：**creators: 用户名 （单独筛选某用户的作品） -creators: 用户名 （去除某用户的作品）
-3. **洁癖筛选法：**otp: true （筛选出来的作品只打了一对CP的标签，会筛选掉所有A/B是背景板或A/B但有其他配对的作品；测试性功能）
+1. **按章节数量筛选：**&#x65;xpected\_number\_of\_chapters: 1 （一发完） -expected\_number\_of\_chapters: 1 （多章）
+2. **按作者筛选：**&#x63;reators: 用户名 （单独筛选某用户的作品） -creators: 用户名 （去除某用户的作品）
+3. **洁癖筛选法：**&#x6F;tp: true （筛选出来的作品只打了一对CP的标签，会筛选掉所有A/B是背景板或A/B但有其他配对的作品；测试性功能）
 4. **极限单推人狂喜：**-relationship\_ids: \* （筛选出不含任何CP或CB配对标签的作品）
 
 <details>
@@ -49,13 +49,13 @@ _**注意：这里使用的标点符号均为英文标点！**_
 2. **按作品皮肤筛选：** work\_skin\_id: 277（应用了某一个特殊作品皮肤的作品）
 3. **按导入站点筛选：** imported\_from\_url: xyz（筛选出从xyz网址导入的作品，比如“username.dreamwidth.org”）
 4. **按字符串筛选：** notes: 字符串 或 endnotes: 字符串（筛选出开头附注或结尾附注里含有你输入的字符串的作品，可以使用""进行精确搜索）；summary: 字符串（筛选出简介里含有你输入的字符串的作品）；series.title: 字符串（筛选出系列名称中含有你输入的字符串的作品）
-5. **筛选出日期回溯的作品：**backdate: true（回溯了） backdate: false（没回溯）
-6. **按是否在合集内筛选：**collection\_ids: \*（筛选出在合集内的作品）
-7. **按是否是系列文筛选：**series.title: \*（筛选出系列文） -series.title: \*（筛选出非系列文）
+5. **筛选出日期回溯的作品：**&#x62;ackdate: true（回溯了） backdate: false（没回溯）
+6. **按是否在合集内筛选：**&#x63;ollection\_ids: \*（筛选出在合集内的作品）
+7. **按是否是系列文筛选：**&#x73;eries.title: \*（筛选出系列文） -series.title: \*（筛选出非系列文）
 
 </details>
 
-****
+
 
 **#「排序依据」（Sorting）**
 
@@ -73,7 +73,7 @@ _——由你自己选择上菜顺序_
 6. **按互动排序**：sort:kudos（最多点赞在前）sort:>kudos（反过来）【同理，“kudos”也可换成“bookmarks”（书签收藏）、“hits”（点击量）或“comments”（评论）】
 7. **限定范围**：words:1000（恰好1000字的作品）words>1000 （1000字以上的作品）words<1000（1000字以下的作品）words:1000-5000 （1000字到5000字之间的作品）
 
-****
+
 
 **#总结**
 
@@ -83,4 +83,4 @@ A/B AND fluff otp: true words<5000 sort:kudos
 
 
 
-资料来源：AO3的Hidden search operators cheatsheet：[https://archiveofourown.org/admin\_posts/10851](https://archiveofourown.org/admin\_posts/10851)
+资料来源：AO3的Hidden search operators cheatsheet：[https://archiveofourown.org/admin\_posts/10851](https://archiveofourown.org/admin_posts/10851)

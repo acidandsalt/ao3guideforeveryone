@@ -29,15 +29,15 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 1. 挂梯子打开原网址[https://archiveofourown.org](https://archiveofourown.org)后，点击首页上的`Get Invited`按钮。
 
-![AO3主界面的截图，底部有一个Get Invited！按钮，点击它。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step1.jpg)
+![AO3主界面的截图，底部有一个Get Invited！按钮，点击它。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site_1/step1.jpg)
 
 2. 在输入框内填写邮箱（任何邮箱都可以）并点击`Add me to the list`按钮。
 
-![在新页面填写邮箱，然后点击Add me to the list按钮。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step2.jpg)
+![在新页面填写邮箱，然后点击Add me to the list按钮。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site_1/step2.jpg)
 
 3. 界面顶部出现「You've been added to our queue!」的蓝色消息框的时候，证明你已经排上队了。按照预期的时间等待邮件就可以。
 
-![界面顶部出现“You've been added to our queue!”的蓝色消息框的时候，证明你已经排上队了。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/step3.jpg)
+![界面顶部出现“You've been added to our queue!”的蓝色消息框的时候，证明你已经排上队了。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site_1/step3.jpg)
 
 4. 在将近一个周之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的「follow this link to sign up」，挂好梯子并点击。接下来，你就可以进入[创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)步骤了。
 
@@ -65,9 +65,9 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 2. 向受邀者发送邀请码有三种方法。
 
-**方法一：**在Email address中填入被邀请者想要用来注册的邮箱，选择一个邀请码，然后点击`Send Invitation`。之后应该跳转到这个界面↓
+**方法一：**&#x5728;Email address中填入被邀请者想要用来注册的邮箱，选择一个邀请码，然后点击`Send Invitation`。之后应该跳转到这个界面↓
 
-![](.gitbook/assets/MTXX\_MH20230313\_113908201.jpg)
+![](.gitbook/assets/MTXX_MH20230313_113908201.jpg)
 
 不久，被邀请者就应该收到一封邮件↓
 
@@ -75,7 +75,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 请ta找到如图的「follow this link to sign up」，**挂好梯子**并点击。接下来的操作请参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
 
-**方法二：**如图，在Invite a friend界面选择`Manage Invitations`和`Unsent`。然后，复制`copy and use`这个超链接的网址（不是点开！是复制链接！）。
+**方法二：**&#x5982;图，在Invite a friend界面选择`Manage Invitations`和`Unsent`。然后，复制`copy and use`这个超链接的网址（不是点开！是复制链接！）。
 
 * 在Windows系统电脑上：右键该链接，然后选择「复制链接地址」
 * 在MacOS系统电脑上：同时按下control键并点击链接，然后选择「复制链接」
@@ -85,7 +85,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 <img src=".gitbook/assets/image (40).png" alt="" data-size="original">
 
-**方法三：**直接把邀请码那一长串字符复制并发送给被邀请者，请对方**挂好梯子**，在浏览器的地址栏输入「https://archiveofourown.org/signup/####」，并将「####」替换为邀请码字符串；替换完成后的链接会导向注册页面。接下来的操作参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
+**方法三：**&#x76F4;接把邀请码那一长串字符复制并发送给被邀请者，请对方**挂好梯子**，在浏览器的地址栏输入「https://archiveofourown.org/signup/####」，并将「####」替换为邀请码字符串；替换完成后的链接会导向注册页面。接下来的操作参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
 
 **如何查看自己的邀请码状态？**
 
@@ -112,7 +112,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 最后点击`Create Account`就可以了。
 
-![](.gitbook/assets/MTXX\_MH20230313\_115645155.jpg)
+![](.gitbook/assets/MTXX_MH20230313_115645155.jpg)
 
 ![](<.gitbook/assets/image (7) (1).png>)
 
@@ -120,21 +120,21 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 在这之后你来到了一个告诉你「Almost Done!」的界面，这意味着你即将收到第二封邮件。
 
-![](.gitbook/assets/MTXX\_MH20230316\_085757484.jpg)
+![](.gitbook/assets/MTXX_MH20230316_085757484.jpg)
 
 在第二封邮件中寻找「follow this link to activate your account」，**挂好梯子**，点击它。
 
-![](.gitbook/assets/MTXX\_MH20230316\_090016400.jpg)
+![](.gitbook/assets/MTXX_MH20230316_090016400.jpg)
 
 此时你来到一个顶端有蓝色消息框告诉你「Account activation complete! Please log in.」的界面。第一行填的是用户名或邮箱，第二行填写密码；勾选`Remember me`的话下一次打开网站会自动登录。最后点击`Log in`，你面前的就是完全体的AO3了。
 
-![](.gitbook/assets/MTXX\_MH20230316\_091957776.jpg)
+![](.gitbook/assets/MTXX_MH20230316_091957776.jpg)
 
 
 
 ## 可能遇到的问题
 
-### 怎么查看我有没有排上队？
+### **怎么查看我有没有排上队？**
 
 打开第二步中的页面，点击标黄的链接「check your position on the waiting list」。标红的数字是表示现在有多少人在排队。
 
@@ -152,7 +152,7 @@ AO3基本每时每刻都在有新的加入者，排队人数以万计量，即�
 
 假如你在填写邮箱申请后报错「Email is already part of the queue」或「电子邮件已经是我们队列的一部分」，说明你已经在队列内，已经或者即将收到邮件，无需重复申请。
 
-![](.gitbook/assets/Screenshot\_20230313\_121218.jpg)
+![](.gitbook/assets/Screenshot_20230313_121218.jpg)
 
 ### **第二封邮件什么时候来？**
 
@@ -162,13 +162,13 @@ AO3基本每时每刻都在有新的加入者，排队人数以万计量，即�
 
 如果提示「Login has been taken」或「登录已经被接受」意味着用户名重复，请更换注册用户名。
 
-![](.gitbook/assets/MTXX\_MH20230316\_084716448.jpg)
+![](.gitbook/assets/MTXX_MH20230316_084716448.jpg)
 
 ### 「Login must begin and end with a letter or number; it may also contain underscores but no other characters」
 
 用户名含有非法字符或用下划线开头结尾了。
 
-![](.gitbook/assets/MTXX\_MH20230316\_085033452.jpg)
+![](.gitbook/assets/MTXX_MH20230316_085033452.jpg)
 
 ### 「Password confirmation doesn't match new password」
 

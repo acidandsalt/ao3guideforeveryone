@@ -17,7 +17,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### Abandoned：坑了
 
-似乎是很多单词书的第一个单词，在这里形容这个作品被作者放弃了，已坑。
+似乎是很多单词书的第一个单词，在这里意味着这个作品被作者放弃了，已坑。
 
 ### Additional Tags：其他标签
 
@@ -45,7 +45,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### Ambiguous Fandom：多义同人圈 <a href="#ambiguousfandom" id="ambiguousfandom"></a>
 
-和[所有媒介类型](ao3-da-zi-dian.md#all-media-types-suo-you-mei-jie-lei-xing)一样，这也是个圈子标签的后缀词组，比如**The Eagle - Ambiguous Fandom**既可指电影_Eagle of the Ninth_，也可指电视剧[_Ørnen: En krimi-odyssé_](#user-content-fn-2)[^2]。由于不能确定打着「The Eagle」标签的作品代表哪个圈，这个标签便是「多义」的。
+和[所有媒介类型](ao3-da-zi-dian.md#all-media-types-suo-you-mei-jie-lei-xing)一样，这也是个圈子标签的后缀词组，比如**The Eagle - Ambiguous Fandom**既可指电&#x5F71;_&#x45;agle of the Ninth_，也可指电视剧[_Ørnen: En krimi-odyssé_](#user-content-fn-2)[^2]。由于不能确定打着「The Eagle」标签的作品代表哪个圈，这个标签便是「多义」的。
 
 ### A/N：作者备注
 
@@ -79,8 +79,6 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 直译就是在下面那个，反义词Top就是攻；表示一个角色是受写法是「Bottom 角色名」。
 
-「He is such a bottom」=「他真的太受了吧」
-
 ## C
 
 ### Categories：分类
@@ -99,8 +97,8 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 有的角色标签名字之后还会有括号、竖线或后缀，这是为了防止撞tag，比如
 
 * **Thanos (Marvel)** 指的就是漫威里的Thanos，而不是别的作品里的Thanos
-* **Anakin Skywalker | Darth Vader** 意味着竖线前后的两个名字指代同一个角色，适用于有代号、假名、多语言的情况（对不起，好像给没看过星战的剧透了.jpg）
-* **Buffy the Vampire Slayer - Character** __ 表示Buffy这个角色，「- Character」的后缀是防止与「Buffy the Vampire Slayer」这个原作品标签混淆
+* **Frigga | Freyja (Marvel)** 意味着竖线前后的两个名字指代同一个角色，适用于有代号、假名、多语言的情况
+* **Buffy the Vampire Slayer - Character** 表示Buffy这个角色，「- Character」的后缀是防止与「Buffy the Vampire Slayer」这个原作品标签混淆
 
 一般作者在加角色tag时会把戏份多的标上，但也有洋洋洒洒把沾点边的都标上的情况。
 
@@ -110,7 +108,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集作品本体，也可以收集你为作品加的书签（[Bookmark](ao3-da-zi-dian.md#bookmark-shu-qian-shou-cang)），时常被用作24h这一类的活动/挑战。
 
-本人曾试过用合集整理书签，但体验较差，不推荐。如果你是想整理你自己的作品——或许看看系列（[Series](ao3-da-zi-dian.md#a)）呢？
+本人曾试过用合集整理书签，但体验较麻烦，不推荐。如果你是想整理你自己的作品——或许看看系列（[Series](ao3-da-zi-dian.md#a)）呢？
 
 ### Credit：原作者是
 
@@ -122,15 +120,9 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 指的是内容包含两个及以上圈子（[Fandom](ao3-da-zi-dian.md#fandom-quan-zi)）的同人，比如哈利波特出现在漫威宇宙、亚当斯一家移居哥谭这种梦幻联动。如果只是单纯HPAU的漫威同人，则标注为AU，不属于混同。
 
-混合同人中有时候会出现一些很邪门的拉郎CP，比如伏地魔/林黛玉；这种作品的质量往往参差不齐，有的让人拍案叫绝也有的让人五官皱缩，谨慎食用。
+混合同人中有时候会出现一些很邪门的拉郎CP，比如伏地魔/林黛玉。
 
 ## D
-
-### Damn：见鬼/该死
-
-和[Shit](ao3-da-zi-dian.md#all-media-types-suo-you-mei-jie-lei-xing)有点类似，但听起来相对更文明一些。
-
-「哈哈，我就说了利物浦会输吧！钱拿来！」「**Damn**，老兄，你运气真好。」
 
 ### Dead Dove: Do Not Eat：三观不正预警
 
@@ -150,11 +142,9 @@ AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，�
 
 ### E-mail：电子邮箱
 
-发现有小朋友不知道电子邮箱是什么的时候我是很崩溃的……崩溃的……溃的……的……难道现在小学初中都没有电脑课了吗！
+电子邮箱，顾名思义，是一套电子的邮政系统，人们注册了邮箱之后就相当于在自家互联网门口安了个信箱，只要知道别人的邮箱地址就可以互相送信（邮件）。
 
-电子邮箱，顾名思义，是一套电子的邮政系统，人们注册了邮箱之后就相当于在自家互联网门口安了个信箱，只要知道别人的邮箱地址就可以互相送信（邮件）。如果你连邮政系统都不知道……你不会是刚移民来地球吧？
-
-比较常用的邮箱网址国内的有126、163、QQ邮箱等，国外常用的有outlook和gmail，一般大学也都有独立的邮箱网址给学生和教职工使用。有些时候外国网站的注册用外国邮箱会更顺畅。要注册邮箱请直接百度搜索电子邮箱。
+比较常用的国内邮箱网址有126、163、QQ邮箱等，国外常用的有outlook和gmail，一般大学也都有独立的邮箱网址给学生和教职工使用。有些时候外国网站的注册用外国邮箱会更顺畅。要注册邮箱请直接百度搜索电子邮箱。
 
 ## F
 
@@ -162,17 +152,17 @@ AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，�
 
 大名鼎鼎的脸谱网，一直只闻其名不见其人；曾经名号非常响当当，似乎还贡献了一些经久不衰的CP……
 
-### Fandom：圈子
+### Fandom：粉丝圈
 
-在AO3，Fandom指的是同人圈。不过在外国文娱中，这是一个囊括了「粉丝、粉圈文化、同人二创」等含义的词语。外国创作者口中的「混圈」就是in the fandom，「星球大战圈」就是Star Wars Fandom，形容一个圈子粉丝有毒那就是Toxic Fandom，「退圈」就是leave the fandom。一切的活动、社交和创作都是建立在fandom的大社区之上的。
+在AO3，Fandom指的是同人圈。不过在外国文娱中，这是一个囊括了「粉丝、粉圈文化、同人二创」等含义的词语。外国创作者口中的「混圈」就是in the fandom，「星球大战圈」就是Star Wars Fandom，形容一个圈子粉丝有毒那就是Toxic Fandom，「退圈」就是leave the fandom。粉丝的大部分活动、社交和创作都是建立在fandom社区之上的。
 
-Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fandom.com](https://www.fandom.com)，绝大部分圈子都在这里有网站。
+Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fandom.com](https://www.fandom.com)，绝大部分圈子在这里都有网站。
 
 ### Fanfiction：FF或FFN
 
-外网同人文网站，比AO3早十年多，汇聚了不少古早粮。网址是：[www.fanfiction.net/](https://www.fanfiction.net/)。据说网页要翻墙但APP不用。界面相对不如AO3赏心悦目，但有社区（Community）和论坛（Forum）板块，养出来很多经典文梗。
+外网同人文网站，比AO3早十年多，汇聚了不少古早粮。网址是：[www.fanfiction.net/](https://www.fanfiction.net/)。据说网页要翻墙但APP不用。界面相对古早，但有社区（Community）和论坛（Forum）板块，滋养过很多经典文梗。
 
-附一个LOFTER用户@[某草帽家的搬运工](https://starlightjuice.lofter.com/)撰写的[FF使用指南](https://starlightjuice.lofter.com/post/1dda1f42\_1cd28b9ec)。
+附一个LOFTER用户@[某草帽家的搬运工](https://starlightjuice.lofter.com/)撰写的[FF使用指南](https://starlightjuice.lofter.com/post/1dda1f42_1cd28b9ec)。
 
 ### Fanon：粉圈公认设定
 
@@ -180,7 +170,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### FAQ：常见问题
 
-是Frequently Asked Questions的缩写。AO3有一个非常完善的[FAQ界面](https://archiveofourown.org/faq/tags?language\_id=zh-CN)，基本可以解答你的绝大部分疑问，只要你有耐心去查。页面右上角有栏目可以调语言（只能调这一个模块的语言哦！再说一遍：**AO3目前没有官方中文版！**）。
+是Frequently Asked Questions的缩写。AO3有一个非常完善的[FAQ界面](https://archiveofourown.org/faq/tags?language_id=zh-CN)，基本可以解答你的绝大部分疑问，只要你有耐心去查。页面右上角有栏目可以调语言（只能调这一个模块的语言哦！**AO3目前没有官方中文版！**）。
 
 ### Favorite Tag：收藏标签
 
@@ -192,7 +182,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 [如何使用筛选功能？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/shai-xuan-gong-neng-filter.md)
 
-在搜索作品的过程中，难免要遇到Filter功能。它的意思是「筛选，过滤」，能够帮助你更精准地定位想要的结果。
+在搜索作品的过程中，Filter（筛选）功能可以帮助你更精准地定位想要的结果。
 
 ### FPF：虚拟人物同人
 
@@ -202,7 +192,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### Google Chrome：谷歌浏览器
 
-总之是很厉害的浏览器，但是很多功能因为被墙在国内已经很难用到了。网页翻译功能相当优秀。
+很优秀的浏览器，但是很多功能因为被墙在国内已经很难用到了。内置的网页翻译功能蛮好用的。
 
 ## H
 
@@ -210,19 +200,15 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 形容作者根据自己的逻辑圆出来的私设，比如创作者对某个角色的理解和塑造，在原著之外自己想象的细节等等。
 
-### Holy Fuck：我了个去
-
-与Holy shit和Holy hell同义，都表达相当震惊和相当火大的意思。偶尔为了喜剧效果被翻译成「神圣的地狱啊」。
-
 ### HTML：超文本标记语言
 
-[HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)
+比较常用的部分HTML语法：[HTML备忘录](chuang-zuo-zhe-zhi-nan/html-bei-wang-lu.md)
 
 简单来说，就是用一些代码符号实现文字与图片的排版。AO3支持简单的HTML语言，可以应用在大部分文字模块上，如作品简介、作者附注、正文、个人简介等等。
 
 注意，在正文里使用HTML时，必须是在**Plain text with limited HTML**格式下，在Rich Text模式下HTML是不会生效的。
 
-几种比较常用的HTML：
+几种AO3支持的比较常用的HTML：
 
 * **斜体：**\<em>需要变斜体的文字\</em>
 * **加粗：**\<strong>需要加粗的文字\</strong>
@@ -237,17 +223,17 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 「漫威的新电影真的好烂啊！」
 
-「**IKR？？**他们到底在干什么啊！」
+「**IKR？？**&#x4ED6;们到底在干什么啊！」
 
 ### Image Hosting：图床
 
 很多互联网平台在发布图片时不能直接从本地上传，而需要借助互联网图床——一个为用户提供图片代存服务并提供图片url的平台——进行图片的读取。把图片上传至图床后，你就可以通过插入图片网址将其应用在文章中了。
 
-目前国内的图床有[路过图床](https://imgtu.com/)、[ImgURL](https://imgurl.org/)等，国外的有[Postimage](https://postimages.org/)等，其他的可以在[这个知乎帖](https://zhuanlan.zhihu.com/p/403554101?ivk\_sa=1024320u)中进一步了解；你也可以用GitHub或七牛云服务器等为自己建造私人图床。需要注意的是，国内的图床大部分都禁黄，上传图片之前建议先看清网站的服务条款。
+目前国内的图床有[路过图床](https://imgtu.com/)、[ImgURL](https://imgurl.org/)等，国外的有[Postimage](https://postimages.org/)等，其他的可以在[这个知乎帖](https://zhuanlan.zhihu.com/p/403554101?ivk_sa=1024320u)中进一步了解；你也可以用GitHub或七牛云服务器等为自己建造私人图床。需要注意的是，国内的图床大部分都禁黄，上传图片之前建议先看清网站的服务条款。
 
 ### Instagram：ins或IG
 
-正式译名「照片墙」（立刻感觉逼格大降），一个图片为主的社交应用，小红书对标的就是它。
+正式译名「照片墙」，一个图片为主的社交应用，小红书对标的就是它。
 
 因为主图片所以适合画手，大部分真人明星也都在那里有号，适合去观赏美图。
 
@@ -325,13 +311,13 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 
 就像大部分网站一样，AO3也支持个人资料自定义，但感觉似乎很少有人用的样子。
 
-个人资料的默认项显示别名(Pseud)、加入日期、用户名和用户ID。
+个人资料的默认项显示笔名(Pseud)、加入日期、用户名和用户ID。
 
 个人资料由标题(Title)、地址(Location)、出生日期(Date of Birth)、邮箱(Email Address)和关于我(About Me)组成。
 
 * **标题**：即个人资料页的名称，可以是用户名或一句引言。
 * **地址**：可以随便填（当然建议不要泄露真实地址……应该也不会有人老实填的吧）。
-* **出生日期**：填了的话就是年月日都有，如果不想填全就在「关于我」那一栏写；只有打开偏好设置中的「公开展示出生日期」别人才会看到。
+* **出生日期**：若填写必须完整填写年月日；只有打开偏好设置中的「公开展示出生日期」才会公开展示。
 * **邮箱**：默认不显示，也是在偏好设置中选是否展示。
 * **关于我**：个人简介，可以写人称代词、所在的同人圈、是否允许二创、其他平台账号等，至多2000字，还可应用少量HTML格式。
 
@@ -351,16 +337,16 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 * **Transgender/Trans**：跨性别（生理与心理性别不同）
 * **FTM/MTF**：Female-to-male/Male-to-female，女跨男（生理女心理男）/男跨女（生理男心理女）
 * **Non-binary/genderqueer**：非二元性别，自我认同不属于男性也不属于女性
-* **Agender：**无性别，自我认同不属于任何一种性别
+* **Agender：**&#x65E0;性别，自我认同不属于任何一种性别
 * **Gender-expansive：**「拓展性别[^4]」，形容性别认同更加灵活的人，有时与非二元性别混为一谈
-* **Sexual orientation：**性取向
-* **Intersex：**双性人，不等于非二元性别
+* **Sexual orientation：**&#x6027;取向
+* **Intersex：**&#x53CC;性人，不等于非二元性别
 
-### Pseud：别名
+### Pseud：笔名
 
-【如何创建别名？】
+【如何创建笔名？】
 
-全称为pseudonym，也译作「笔名」，个人感觉叫做「子博」也可以。
+全称为pseudonym，个人感觉叫做「子博」也可以。
 
 你可以在自己注册的用户名下创建新的子博（目前没有查到是否有数量限制），这个子博的名字可以与其他用户重复，因为它会和你的主用户名关联，显示成「子博名（主用户名）」的形式，避免混淆。
 
@@ -388,7 +374,7 @@ AO3相当出名的分级系统，分为
 
 ### Relationship：配对，关系
 
-AO3支持一切二创配对，包括CP、CB、单人无配对、乙女、梦向等等。
+AO3的tag系统支持一切类型的配对，包括CP、CB、单人无配对、乙女、梦向等等。
 
 * CP向使用斜线「/」（也叫slash，欧美同人论坛随缘居的域名mtslash即由此而来）
 * CB向亲情向使用联合符号「&」
@@ -434,14 +420,6 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 这个词来源于relationship，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃，萌」。外网的拆逆撕逼就叫做「Ship War」，喜欢A/B就叫ship A/B。
 
-### Shit：操/妈的
-
-和更多表达满头问号的WTF比起来，Shit就有一种懊恼/无奈/既来之则安之的感觉，更多用来发泄怒火。文明和谐版是Shoot。
-
-「**Shit**！我又忘了买盐了。」
-
-「成绩出来了。」「……**Shit**.」
-
 ### Slash：斜线向
 
 BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的域名mtslash即由此而来。相应地，「Femslash」指的是GL向。
@@ -460,7 +438,7 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 ### Spotify：外国音乐软件
 
-很火很大的一个音乐平台。
+一个声名远扬的音乐平台。
 
 ### Suspended：停更
 
@@ -472,7 +450,7 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 一种用于标示作品信息的、大众共用并公认的标注体系。不要打成Tap，那是水龙头；也不要打成Tab，那是电脑上的制表键……
 
-在打多个标签的时候，标签与标签之间必须用**英文逗号**或Enter键分隔。
+在打多个标签的时候，标签与标签之间可以用逗号或Enter键分隔。
 
 ### TBC：未完持续
 
@@ -480,17 +458,15 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 ### Tik Tok：抖音国际版
 
-短视频网站，很多红人，同人二创视频不少；本人对它的印象仅来自于整活博主。
+短视频网站。
 
 ### TL;DR：太长不看
 
-放在一段话开头，给不想看全文的人做概括用的。
+意为「Too Long; Don't Read」。放在一段话开头，给不想看全文的人做概括用的。
 
 ### Top：攻/左位
 
 直译就是在上面那个，反义词Bottom就是受；表示一个角色是攻写法是「Top 角色名」。
-
-「He is such a top」=「他真的太攻了吧」
 
 ### ToS：服务条款
 
@@ -504,7 +480,7 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 正式的译名是「汤博乐」，全球最大的始祖级轻博客网站。网址是：[https://www.tumblr.com/](https://www.tumblr.com/)
 
-个人使用体验感觉五星满分可以打四分，有一点像具备了tag系统的QQ空间，尤其神似的是氛围：多媒体，多群体，疯狂混乱，兼容社交与创作，经常可以看到有人吵架。胜在确实是内容多姿多彩，从文字到视频都支持，我最喜欢在那边收集我推美图、同担口嗨和互联网冷笑话，揪着一个tag能刷通宵。
+个人使用体验是有点像具备了tag系统的QQ空间，主要是氛围很类似：多媒体，多群体，疯狂混乱，兼容社交与创作，经常可以看到有人吵架。内容确实多姿多彩，从文字到视频都支持。
 
 ### TW：触发性内容预警
 
@@ -512,7 +488,7 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 ### Twitter：Twi/推/推特
 
-大名鼎鼎的小蓝鸟，地球村社交中心，明星和牛人遍地，同人圈也很发达。本人没怎么用过，听说有很多人性化的魅力功能，但最近好像马斯克搞了很多怪事，不知道未来会怎么样。
+大名鼎鼎的小蓝鸟，地球村社交中心，同人圈也很发达。现更名为「X」，绰号「黑叉」。
 
 ## U
 
@@ -520,9 +496,9 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 ### VPN：梯子
 
-全称虚拟专用网络（Virtual Private Network），又称「科学上网」「开眼看世界」「翻墙」等，一般的形态是APP，不同的运营商提供的APP形态和步骤略有不同，因此请自己百度一下。
+全称虚拟专用网络（Virtual Private Network），又称「科学上网」「翻墙」等，一般的形态是APP，不同的运营商提供的APP形态和步骤略有不同，请自己检索学习。
 
-由于GFW[^5]（Great Fire Wall，中国国家防火墙）的设置，很多外国网站在我国大陆无法访问，因此这个工具的终极目的就是帮助墙内的人看到墙外的风景。学会使用梯子是每个资深网络冲浪人的必经之路。
+由于GFW[^5]（Great Fire Wall，中国国家防火墙）的设置，很多外国网站在我国大陆无法访问，此工具遂应运而生。
 
 [AO3超话梯子推荐](xu-yan.md#ke-yong-de-ti-zi)
 
@@ -539,19 +515,11 @@ AO3的一种预警方式，包括
 * Underage（未成年性行为）
 * Rape/Non-Con（强奸/非自愿性行为）
 
-作者使用第一种的话有时候是为了防止警告剧透内容，比如有主要角色死亡；有些作者可能会在章节前面的附注里才标上警告。警告里没有写的，作者也可能在附加其他标签里标注。
+作者使用第一种的话有时候是为了防止警告剧透内容，比如有主要角色死亡；有些作者可能会在章节前面的附注里才标上警告。警告里没有写的，作者也可能在附加的标签里标注。
 
 ### WIP：进行中的作品
 
 是Work In Progress的缩写，指未完结、仍在进行的作品。一些人有意避开这种作品，因为它们有朝一日可能会坑掉（[Abandoned](ao3-da-zi-dian.md#abandoned-keng-le)）。
-
-### WTF：我操
-
-是What The Fuck的缩写，译作「我操」或「搞什么」，可以表达多种不同且微妙的情感，一般带有不可思议的感觉。文明和谐版是What the hell。
-
-「AO3刚刚崩了！」「**WTF？**」
-
-「嘿，你的作业我拿走了哈。」「Yo bro **WTF**？」
 
 ## X
 
@@ -559,7 +527,7 @@ AO3的一种预警方式，包括
 
 ### YouTube：油管
 
-世界级视频网站，包罗万象，我最喜欢在上面听视频小作文和影评。
+世界级视频网站，包罗万象。
 
 ## Z
 
@@ -573,7 +541,7 @@ AO3的一种预警方式，包括
 
 
 
-【注】本文部分内容摘自AO3的[中文FAQ](https://archiveofourown.org/faq/tags?language\_id=zh-CN)。
+【注】本文部分内容摘自AO3的[中文FAQ](https://archiveofourown.org/faq/tags?language_id=zh-CN)。
 
 [^1]: 具体AU种类有Canon (原作向)、Gender Changes (性转)、Vampires (吸血鬼)、Omega Verse (ABO)等等，可以说无所不包
 

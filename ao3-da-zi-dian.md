@@ -342,7 +342,9 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 
 ### Preferences：偏好设置
 
-自定义一些浏览习惯、隐私之类的地方。[如何进行偏好设置](xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)
+[如何进行偏好设置](xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)
+
+自定义一些浏览习惯、隐私之类的地方。
 
 ### Proceed：继续
 
@@ -477,7 +479,7 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### Ship/Shipping：配对
 
-这个词来源于relationship，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃，萌」。外网的拆逆撕逼就叫做「Ship War」，喜欢A/B就叫ship A/B。
+这个词来源于relationship，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃，萌」。外网的拆逆撕逼就叫做「Ship War」，喜欢A/B就叫「ship A/B」。
 
 ### Slash：斜线向
 

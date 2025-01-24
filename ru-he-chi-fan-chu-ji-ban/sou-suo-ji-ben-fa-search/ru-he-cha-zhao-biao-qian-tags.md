@@ -54,10 +54,6 @@ description: 找到你家的tag就找到了粮仓。
 
 搜索结果中，通用Tag会黑体加粗。
 
-**第四步**：选择你是否想查找官方认证的通用Tag。一般比较热门的圈子都有规范的通用Tag，勾选Canonical能更快速地定位大Tag，但小圈子冷圈子勾选Canonical之后可能就搜不出来东西了。
-
-搜索结果中，通用Tag会黑体加粗。
-
 <figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Tag是否规范</p></figcaption></figure>
 
 **第五步**：点击Search Tags，在底下出现的结果中选择你想看的那个就好啦。

@@ -12,4 +12,4 @@
 
 假如你可以打开原站，请复制「**https://archiveofourown.org/works/**」然后将那串数字加在后面即可。
 
-假如你使用的是镜像网站，则把「**archiveofourown.org**」换成你使用的镜像网站的域名，比如「**nightalk.cc**」。
+假如你使用的是镜像网站，则把「**archiveofourown.org**」换成你使用的镜像网站的域名。

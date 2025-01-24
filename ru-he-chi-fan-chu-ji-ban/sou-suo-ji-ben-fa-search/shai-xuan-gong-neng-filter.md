@@ -20,7 +20,7 @@ description: 筛选拯救洁癖。
 {% tab title="唤之即来" %}
 _——也就是进一步定位你想看什么。_
 
-首先，长条的第一项是排序依据，默认按照更新时间排序；一般我们会改为「Kudos」那一项，意味着按点赞数从高到低排列。
+首先，长条的第一项是排序依据，默认按照更新时间排序；如果想要从最热门的作品开始，那就改为「Kudos」那一项，意味着按点赞数从高到低排列。
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,8 +40,6 @@ Characters（角色）和Relationships（配对）的勾选原则也是同理：
 不过请注意：「Include」的工作原理是，假设A、B、C为三个不同的通用标签，进入A标签时，搜索结果内存在AB、AC、ABC这三种tag搭配。勾选A之后，结果还是AB、AC、ABC；但假如勾选了B，结果会变成AB、ABC。
 
 举例：当我在Harry Hart/Eggsy的通用标签中筛选时（如图），勾选配对中的Harry/Eggsy并不会实现洁癖人狂喜，而是与原本的结果一模一样。
-
-<img src="../../.gitbook/assets/fotor_2023-3-12_20_41_7.png" alt="" data-size="original">
 {% endhint %}
 
 关于Additional Tags（其他标签）的筛选，理解其含义是必要的。更多信息请参照→[其他标签](../../ao3-da-zi-dian.md#additional-tags-qi-ta-biao-qian)

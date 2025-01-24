@@ -4,14 +4,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 # 📘 AO3大字典
 
-| A-F                      | G-L                      | M-R                      | S-X                      | Y-Z                              |
-| ------------------------ | ------------------------ | ------------------------ | ------------------------ | -------------------------------- |
-| [A](ao3-da-zi-dian.md#a) | [G](ao3-da-zi-dian.md#g) | [M](ao3-da-zi-dian.md#m) | [S](ao3-da-zi-dian.md#s) | [Y](ao3-da-zi-dian.md#y)         |
-| [B](ao3-da-zi-dian.md#b) | [H](ao3-da-zi-dian.md#h) | [N](ao3-da-zi-dian.md#n) | [T](ao3-da-zi-dian.md#t) | [Z](ao3-da-zi-dian.md#z)         |
-| [C](ao3-da-zi-dian.md#c) | [I](ao3-da-zi-dian.md#i) | [O](ao3-da-zi-dian.md#o) | [U](ao3-da-zi-dian.md#u) | [#](ao3-da-zi-dian.md#undefined) |
-| [D](ao3-da-zi-dian.md#d) | [J](ao3-da-zi-dian.md#j) | [P](ao3-da-zi-dian.md#p) | [V](ao3-da-zi-dian.md#v) |                                  |
-| [E](ao3-da-zi-dian.md#e) | [K](ao3-da-zi-dian.md#k) | [Q](ao3-da-zi-dian.md#q) | [W](ao3-da-zi-dian.md#w) |                                  |
-| [F](ao3-da-zi-dian.md#f) | [L](ao3-da-zi-dian.md#l) | [R](ao3-da-zi-dian.md#r) | [X](ao3-da-zi-dian.md#x) |                                  |
+<table data-full-width="true"><thead><tr><th>A-F</th><th>G-L</th><th>M-R</th><th>S-X</th><th>Y-Z</th></tr></thead><tbody><tr><td><a href="ao3-da-zi-dian.md#a">A</a></td><td><a href="ao3-da-zi-dian.md#g">G</a></td><td><a href="ao3-da-zi-dian.md#m">M</a></td><td><a href="ao3-da-zi-dian.md#s">S</a></td><td><a href="ao3-da-zi-dian.md#y">Y</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#b">B</a></td><td><a href="ao3-da-zi-dian.md#h">H</a></td><td><a href="ao3-da-zi-dian.md#n">N</a></td><td><a href="ao3-da-zi-dian.md#t">T</a></td><td><a href="ao3-da-zi-dian.md#z">Z</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#c">C</a></td><td><a href="ao3-da-zi-dian.md#i">I</a></td><td><a href="ao3-da-zi-dian.md#o">O</a></td><td><a href="ao3-da-zi-dian.md#u">U</a></td><td><a href="ao3-da-zi-dian.md#undefined">#</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#d">D</a></td><td><a href="ao3-da-zi-dian.md#j">J</a></td><td><a href="ao3-da-zi-dian.md#p">P</a></td><td><a href="ao3-da-zi-dian.md#v">V</a></td><td></td></tr><tr><td><a href="ao3-da-zi-dian.md#e">E</a></td><td><a href="ao3-da-zi-dian.md#k">K</a></td><td><a href="ao3-da-zi-dian.md#q">Q</a></td><td><a href="ao3-da-zi-dian.md#w">W</a></td><td></td></tr><tr><td><a href="ao3-da-zi-dian.md#f">F</a></td><td><a href="ao3-da-zi-dian.md#l">L</a></td><td><a href="ao3-da-zi-dian.md#r">R</a></td><td><a href="ao3-da-zi-dian.md#x">X</a></td><td></td></tr></tbody></table>
 
 ## &#x20;A
 
@@ -54,6 +47,10 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 ### Anon：匿名者
 
 全称Anonymous，是对匿名用户的称谓。
+
+### Anti：反对派/黑粉
+
+这个词缀本身就是「反对」的意思，在同人语境里通常指那些对某人/角色/配对持反对意见（且大概率积极表达此类反感）的人。
 
 ### Arc：弧光/剧情线
 
@@ -124,6 +121,10 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ## D
 
+### Dad Joke：老掉牙的冷笑话
+
+顾名思义，这个词组指父亲常讲的冷笑话。这种笑话通常包含双关语或谐音梗，往往让人无语凝噎。
+
 ### Dead Dove: Do Not Eat：三观不正预警
 
 这个一般是作者加在作品上的标签，意味着作品内可能含有三观不正的内容，而作者出于种种原因没有对它做出批判，执意观看的话后果自负。
@@ -190,6 +191,10 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ## G
 
+### Gen Z：Z世代
+
+即Generation Z，是指1995年至2009年之间出生的一代人，也被称为「网生代」。这一代人深受互联网的影响，被认为是数字技术的原住民，他们的生活、工作、购物和社交都高度依赖互联网和移动设备‌。在外网同人语境下，往往被用来打趣/讽刺角色。
+
 ### Google Chrome：谷歌浏览器
 
 很优秀的浏览器，但是很多功能因为被墙在国内已经很难用到了。内置的网页翻译功能蛮好用的。
@@ -239,11 +244,11 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 是joking的简写，有时也直接被略缩成字母J。常见用法比如：我真的想去抢银行了/j
 
-
-
 ## K
 
-KYS：去死
+### KYS：去死
+
+是Kill Yourself的缩写。这句话涉及鼓励自杀，在外网属于很严重的人身攻击，遇到这样的情况请务必谨慎对待。
 
 ## L
 
@@ -280,6 +285,10 @@ KYS：去死
 是Not Safe For Work的缩写，泛指18+内容，意思是打开这篇作品的时候小心身后来人，如果别人看到你的屏幕，你可能会社死。
 
 ## O
+
+### One-shot：一发完
+
+一般公认one-shot指的是一次性发出的小短篇，但也有人认为只要是一次性发出，无论多少字都算一发完。
 
 ### OTP：本命CP
 
@@ -494,7 +503,15 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 大名鼎鼎的小蓝鸟，地球村社交中心，同人圈也很发达。现更名为「X」，绰号「黑叉」。
 
+### TY：谢谢你
+
+是Thank You的缩写。
+
 ## U
+
+### URL：网络地址
+
+全称URL格式（Uniform Resource Locator），指的就是网站网址。
 
 ## V
 
@@ -527,6 +544,10 @@ AO3的一种预警方式，包括
 
 ## X
 
+### XD：闭眼张嘴笑的表情
+
+是外网常用的系列表情之一，同系列的比如「微笑 :)」「眨眼微笑 ;)」「张嘴 :0」等。
+
 ## Y
 
 ### YouTube：油管
@@ -541,7 +562,7 @@ AO3的一种预警方式，包括
 
 ### !
 
-一个英文感叹号，会出现在「Alpha!Bruce」或「Bottom!Reader」这样的标签内。感叹号之前是角色属性，感叹号之后是角色名称。也可能是阶乘符号[^6]。
+一个英文感叹号，会出现在「Alpha!Bruce」或「Bottom!Reader」这样的标签内；感叹号之前是角色属性，感叹号之后是角色名称。（它偶尔也可能是阶乘符号[^6]。）
 
 
 

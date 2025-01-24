@@ -2,11 +2,11 @@
 description: 手册内容快速检索。
 ---
 
-# 🗂 目录
+# 🗂️ 目录
 
 <details>
 
-<summary><strong>一、</strong><a href="xu-yan.md"><strong>序言</strong></a><em>——解答基本小白问题，对AO3无了解的先看它</em></summary>
+<summary><strong>一、</strong><a href="xu-yan.md"><strong>序言</strong></a>——解答基本小白问题，对AO3无了解的先看它</summary>
 
 1. 简单科普&问题解答
 2. [可用的镜像网站](xu-yan.md#ke-yong-de-jing-xiang-wang-zhan)
@@ -16,7 +16,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>二、</strong><a href="zhang-hao-zhu-ce.md"><strong>账号注册</strong></a><em>——如何注册AO3账号</em></summary>
+<summary><strong>二、</strong><a href="zhang-hao-zhu-ce.md"><strong>账号注册</strong></a>——如何注册AO3账号</summary>
 
 1. [注册账号的优点](zhang-hao-zhu-ce.md#zhu-ce-zhang-hao-de-you-dian)
 2. [如何获得邀请](zhang-hao-zhu-ce.md#ru-he-huo-de-yao-qing)
@@ -27,40 +27,15 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>三、</strong><a href="ao3-da-zi-dian.md"><strong>AO3大字典</strong></a><em>——AO3冲浪需要认识的大部分词语都在这儿了</em></summary>
+<summary><strong>三、</strong><a href="ao3-da-zi-dian.md"><strong>AO3大字典</strong></a>——AO3冲浪需要认识的大部分词语都在这儿了</summary>
 
-* [A](ao3-da-zi-dian.md#a)
-* [B](ao3-da-zi-dian.md#b)
-* [C](ao3-da-zi-dian.md#c)
-* [D](ao3-da-zi-dian.md#d)
-* [E](ao3-da-zi-dian.md#e)
-* [F](ao3-da-zi-dian.md#f)
-* [G](ao3-da-zi-dian.md#g)
-* [H](ao3-da-zi-dian.md#h)
-* [I](ao3-da-zi-dian.md#i)
-* [J](ao3-da-zi-dian.md#j)
-* [K](ao3-da-zi-dian.md#k)
-* [L](ao3-da-zi-dian.md#l)
-* [M](ao3-da-zi-dian.md#m)
-* [N](ao3-da-zi-dian.md#n)
-* [O](ao3-da-zi-dian.md#o)
-* [P](ao3-da-zi-dian.md#p)
-* [Q](ao3-da-zi-dian.md#q)
-* [R](ao3-da-zi-dian.md#r)
-* [S](ao3-da-zi-dian.md#s)
-* [T](ao3-da-zi-dian.md#t)
-* [U](ao3-da-zi-dian.md#u)
-* [V](ao3-da-zi-dian.md#v)
-* [W](ao3-da-zi-dian.md#w)
-* [X](ao3-da-zi-dian.md#x)
-* [Y](ao3-da-zi-dian.md#y)
-* [Z](ao3-da-zi-dian.md#z)
+[A](ao3-da-zi-dian.md#a)｜[B](ao3-da-zi-dian.md#b)｜[C](ao3-da-zi-dian.md#c)｜[D](ao3-da-zi-dian.md#d)｜[E](ao3-da-zi-dian.md#e)｜[F](ao3-da-zi-dian.md#f)｜[G](ao3-da-zi-dian.md#g)｜[H](ao3-da-zi-dian.md#h)｜[I](ao3-da-zi-dian.md#i)｜[J](ao3-da-zi-dian.md#j)｜[K](ao3-da-zi-dian.md#k)｜[L](ao3-da-zi-dian.md#l)｜[M](ao3-da-zi-dian.md#m)｜[N](ao3-da-zi-dian.md#n)｜[O](ao3-da-zi-dian.md#o)｜[P](ao3-da-zi-dian.md#p)｜[Q](ao3-da-zi-dian.md#q)｜[R](ao3-da-zi-dian.md#r)｜[S](ao3-da-zi-dian.md#s)｜[T](ao3-da-zi-dian.md#t)｜[U](ao3-da-zi-dian.md#u)｜[V](ao3-da-zi-dian.md#v)｜[W](ao3-da-zi-dian.md#w)｜[X](ao3-da-zi-dian.md#x)｜[Y](ao3-da-zi-dian.md#y)｜[Z](ao3-da-zi-dian.md#z)｜
 
 </details>
 
 <details>
 
-<summary><strong>四、</strong><a href="broken-reference"><strong>如何吃饭（初级版）</strong></a><em>——主要面向无账号浏览者的看文教程</em></summary>
+<summary><strong>四、</strong><a href="broken-reference"><strong>如何吃饭（初级版）</strong></a>——主要面向无账号浏览者的看文教<em>程</em></summary>
 
 1. [前言](ru-he-chi-fan-chu-ji-ban/qian-yan.md)
 2. [网页翻译中文](ru-he-chi-fan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
@@ -87,7 +62,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>五、</strong><a href="broken-reference"><strong>新手设置与信息更改</strong></a><em>——为注册用户奉上完整自定义指南</em></summary>
+<summary><strong>五、</strong><a href="broken-reference"><strong>新手设置与信息更改</strong></a>——为注册用户奉上完整自定义指南</summary>
 
 1. [新手指导消息框](xin-shou-she-zhi-yu-xin-xi-geng-gai/xin-shou-zhi-dao-xiao-xi-kuang.md)
 2. [偏好设置](xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)
@@ -104,7 +79,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>六、</strong><a href="broken-reference"><strong>如何吃饭（进阶版）</strong></a><em>——面向注册用户的吃饭指南</em></summary>
+<summary><strong>六、</strong><a href="broken-reference"><strong>如何吃饭（进阶版）</strong></a>——面向注册用户的吃饭指南</summary>
 
 1. [前言](ru-he-chi-fan-jin-jie-ban/qian-yan.md)
 2. [书签/收藏怎么用](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
@@ -115,7 +90,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>七、</strong><a href="broken-reference"><strong>创作者指南</strong></a><em>——面向创作者的百科全书</em></summary>
+<summary><strong>七、</strong><a href="broken-reference"><strong>创作者指南</strong></a>—<em>—</em>面向创作者的百科全书</summary>
 
 1. [作品发布礼仪](chuang-zuo-zhe-zhi-nan/zuo-pin-fa-bu-li-yi.md)
 2. [发文百科](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/)
@@ -127,7 +102,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>八、</strong><a href="broken-reference"><strong>互动与交流</strong></a><em>——如何在AO3与创作者/读者互动</em></summary>
+<summary><strong>八、</strong><a href="broken-reference"><strong>互动与交流</strong></a>——如何在AO3与创作者/读者互动</summary>
 
 1. 点赞与评论
 2. [订阅/关注功能](hu-dong-yu-jiao-liu/ding-yue-guan-zhu-gong-neng.md)
@@ -137,7 +112,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary>九、<a href="broken-reference">小众功能</a><em>——那些一般人不知道的「鸡肋」</em></summary>
+<summary>九、<a href="broken-reference"><strong>小众功能</strong></a>——那些一般人不知道的“鸡肋”</summary>
 
 
 

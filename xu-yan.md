@@ -40,7 +40,7 @@ description: 在同人圈奔走几年来，惊觉大部分做饭的和吃饭的�
 
 3 [https://x.winsloweric.com/](https://x.winsloweric.com/)
 
-4 [https://yamo.me/](https://yamo.me/)
+4 [https://nav.ao33.site/](https://nav.ao33.site/)
 
 #### 【可用的梯子】
 

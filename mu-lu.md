@@ -118,7 +118,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary>九、<a href="broken-reference"><strong>小众功能</strong></a>——那些一般人不知道的“鸡肋”</summary>
+<summary><strong>九、</strong><a href="broken-reference"><strong>小众功能</strong></a>——那些一般人不知道的“鸡肋”</summary>
 
 
 

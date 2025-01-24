@@ -17,9 +17,11 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### Abandoned：坑了
 
+经常出现在单词书第一页的词语，被广大学生党们所熟知。在这里它的意思是「此文已坑」，作者大概率不会再继续创作它，徒留跳坑的读者心碎断肠。
+
 ### Additional Tags：其他标签
 
-也叫作自由标签。它是用来给作品做补充说明的，比如
+也叫作自由标签/附加标签。它是用来给作品做补充说明的，比如
 
 * **攻受**：由[Top](ao3-da-zi-dian.md#aka-ye-jiu-shi) (左位)和[Bottom](ao3-da-zi-dian.md#a) (右位)标示，一般格式为「Top A」「Bottom B」
 * **AU**：是Alternate Universe的缩写，也就是平行宇宙，一般格式为「Alternate Universe - 具体AU种类[^1]」
@@ -126,7 +128,7 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 这个一般是作者加在作品上的标签，意味着作品内可能含有三观不正的内容，而作者出于种种原因没有对它做出批判，执意观看的话后果自负。
 
-### **Drabble：涂鸦/短打**
+### Drabble：涂鸦/短打
 
 用在画画上指的是随手涂鸦，用在写文上指的就是字数较少的短打。用于短打的还有「snippet」一词，指小片段。
 
@@ -176,7 +178,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 在一个标签页面的右上角会出现`Favorite Tag`的按钮，点击它之后，这个标签会被固定在你的AO3首页上，更方便访问。若想取消则点击原位置的`Unfavorite Tag`按钮。
 
-### **Filter：筛选**
+### Filter：筛选
 
 [如何使用筛选功能？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/shai-xuan-gong-neng-filter.md)
 
@@ -217,11 +219,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### IKR：就是说啊！/你说得对啊！
 
-是I Know Right的缩写。
-
-「漫威的新电影真的好烂啊！」
-
-「**IKR？？**&#x4ED6;们到底在干什么啊！」
+是I Know Right?的缩写。
 
 ### Image Hosting：图床
 
@@ -236,6 +234,8 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 因为主图片所以适合画手，大部分真人明星也都在那里有号，适合去观赏美图。
 
 ## J
+
+### JK：开玩笑的
 
 ## K
 

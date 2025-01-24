@@ -4,13 +4,17 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 # 📘 AO3大字典
 
-<table data-full-width="true"><thead><tr><th>A-F</th><th>G-L</th><th>M-R</th><th>S-X</th><th>Y-Z</th></tr></thead><tbody><tr><td><a href="ao3-da-zi-dian.md#a">A</a></td><td><a href="ao3-da-zi-dian.md#g">G</a></td><td><a href="ao3-da-zi-dian.md#m">M</a></td><td><a href="ao3-da-zi-dian.md#s">S</a></td><td><a href="ao3-da-zi-dian.md#y">Y</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#b">B</a></td><td><a href="ao3-da-zi-dian.md#h">H</a></td><td><a href="ao3-da-zi-dian.md#n">N</a></td><td><a href="ao3-da-zi-dian.md#t">T</a></td><td><a href="ao3-da-zi-dian.md#z">Z</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#c">C</a></td><td><a href="ao3-da-zi-dian.md#i">I</a></td><td><a href="ao3-da-zi-dian.md#o">O</a></td><td><a href="ao3-da-zi-dian.md#u">U</a></td><td><a href="ao3-da-zi-dian.md#undefined">#</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#d">D</a></td><td><a href="ao3-da-zi-dian.md#j">J</a></td><td><a href="ao3-da-zi-dian.md#p">P</a></td><td><a href="ao3-da-zi-dian.md#v">V</a></td><td></td></tr><tr><td><a href="ao3-da-zi-dian.md#e">E</a></td><td><a href="ao3-da-zi-dian.md#k">K</a></td><td><a href="ao3-da-zi-dian.md#q">Q</a></td><td><a href="ao3-da-zi-dian.md#w">W</a></td><td></td></tr><tr><td><a href="ao3-da-zi-dian.md#f">F</a></td><td><a href="ao3-da-zi-dian.md#l">L</a></td><td><a href="ao3-da-zi-dian.md#r">R</a></td><td><a href="ao3-da-zi-dian.md#x">X</a></td><td></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>A-F</th><th>G-L</th><th>M-R</th><th>S-X</th><th>Y-Z</th></tr></thead><tbody><tr><td><a href="ao3-da-zi-dian.md#a">A</a></td><td><a href="ao3-da-zi-dian.md#g">G</a></td><td><a href="ao3-da-zi-dian.md#m">M</a></td><td><a href="ao3-da-zi-dian.md#s">S</a></td><td><a href="ao3-da-zi-dian.md#y">Y</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#b">B</a></td><td><a href="ao3-da-zi-dian.md#h">H</a></td><td><a href="ao3-da-zi-dian.md#n">N</a></td><td><a href="ao3-da-zi-dian.md#t">T</a></td><td><a href="ao3-da-zi-dian.md#z">Z</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#c">C</a></td><td><a href="ao3-da-zi-dian.md#i">I</a></td><td><a href="ao3-da-zi-dian.md#o">O</a></td><td><a href="ao3-da-zi-dian.md#u">U</a></td><td><a href="ao3-da-zi-dian.md#undefined">#</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#d">D</a></td><td><a href="ao3-da-zi-dian.md#j">J</a></td><td><a href="ao3-da-zi-dian.md#p">P</a></td><td><a href="ao3-da-zi-dian.md#v">V</a></td><td></td></tr><tr><td><a href="ao3-da-zi-dian.md#e">E</a></td><td><a href="ao3-da-zi-dian.md#k">K</a></td><td><a href="ao3-da-zi-dian.md#q">Q</a></td><td><a href="ao3-da-zi-dian.md#w">W</a></td><td></td></tr><tr><td><a href="ao3-da-zi-dian.md#f">F</a></td><td><a href="ao3-da-zi-dian.md#l">L</a></td><td><a href="ao3-da-zi-dian.md#r">R</a></td><td><a href="ao3-da-zi-dian.md#x">X</a></td><td></td></tr></tbody></table>
 
 ## &#x20;A
 
 ### Abandoned：坑了
 
 经常出现在单词书第一页的词语，被广大学生党们所熟知。在这里它的意思是「此文已坑」，作者大概率不会再继续创作它，徒留跳坑的读者心碎断肠。
+
+### Acc：账号
+
+是Account的简写。
 
 ### Additional Tags：其他标签
 
@@ -35,6 +39,10 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 ### All Media Types：所有媒介类型
 
 这个词组往往作为后缀出现在一个圈子标签（[Fandom](ao3-da-zi-dian.md#fandom-quan-zi) Tag）之中，适用于有多重媒介载体的圈子。比如**Les Misérables - All Media Types**就包含了《悲惨世界》原书、音乐剧、电影等所有形式的作品。
+
+### ALT：其他账号
+
+是Alternate的简写，一般挂在简介或置顶用来指路账号拥有者的其他账号。（键盘上也有这个键，就在空格旁边。）
 
 ### Ambiguous Fandom：多义同人圈 <a href="#ambiguousfandom" id="ambiguousfandom"></a>
 
@@ -107,6 +115,10 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 本人曾试过用合集整理书签，但体验较麻烦，不推荐。如果你是想整理你自己的作品——或许看看系列（[Series](ao3-da-zi-dian.md#a)）呢？
 
+### Commission：有偿委托/约稿
+
+语义等同我们所说的「约稿」，一般由乙方（被约稿方）使用。Open Commission=开放约稿，Commission XXX=向XXX约稿。
+
 ### Credit：原作者是
 
 一般是用在搬运他人作品或对他人作品进行三创时，需要标注「Credit: 某人」，以此表明这个作品的来源。Give credit就是「标注来源」的意思。
@@ -119,6 +131,10 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 混合同人中有时候会出现一些很邪门的拉郎CP，比如伏地魔/林黛玉。
 
+### CW：内容警告
+
+是Content Warning的缩写，一般挂在账号简介或置顶用来警告关注者这个账号可能出现的内容有什么。
+
 ## D
 
 ### Dad Joke：老掉牙的冷笑话
@@ -128,6 +144,10 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 ### Dead Dove: Do Not Eat：三观不正预警
 
 这个一般是作者加在作品上的标签，意味着作品内可能含有三观不正的内容，而作者出于种种原因没有对它做出批判，执意观看的话后果自负。
+
+### DNI：强拒/勿入
+
+是Deny的谐音，意思类似中文同人圈的「强拒」，一般被挂在账号简介或置顶用来表明态度和属性。比如，Minors DNI的意思就是「未成年勿入」。
 
 ### Drabble：涂鸦/短打
 
@@ -189,6 +209,10 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 和[RPF](ao3-da-zi-dian.md#rpf-zhen-ren-tong-ren)相对应，FPF指的是Fictional Person Fiction，也即为虚拟人物创作的同人。
 
+### FUB：关注取关拉黑
+
+是Follow Unfollow Block的缩写，常见用法是FUB Free，意思是「关注/取关/拉黑随意」。
+
 ## G
 
 ### Gen Z：Z世代
@@ -225,6 +249,10 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 ### IKR：就是说啊！/你说得对啊！
 
 是I Know Right?的缩写。
+
+### IRL：在现实中
+
+是In Real Life的缩写。
 
 ### Image Hosting：图床
 
@@ -272,7 +300,11 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### Meme：梗图
 
-原义模因，但在冲浪时一般指是配字图片，特征是会被广泛传播并被各种改图。这个词读作\[mim]，最后的那个e不发音，所以不读作「咪咪」「么么」也不读作「买么」。
+原义模因，但在冲浪时一般指是配字图片，特征是会被广泛传播并被各种改图。这个词读作\[mim]，最后的那个e不发音，所以不读作「咪咪」也不读作「么么」。
+
+### Merch：周边
+
+全称是merchandise，意为「商品」，在同人语境一般指的是各种周边/谷子。
 
 ## N
 
@@ -354,6 +386,20 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 * **Gender-expansive：**「拓展性别[^4]」，形容性别认同更加灵活的人，有时与非二元性别混为一谈
 * **Sexual orientation：**&#x6027;取向
 * **Intersex：**&#x53CC;性人，不等于非二元性别
+
+### Proship：支持配对自由；不健康配对
+
+在外网，这个词有两个通用义项。
+
+**义项1：支持配对自由（Pro-Ship）**
+
+Pro被作为词缀使用，意味着「支持、赞成」；Proshipper们鼓励人们自由地选择自己喜爱的配对而不为世俗观念（年龄差、身份差、相处模式、血缘关系、性别、种族等）所阻碍。Proship往往也意味着同人创作全肯定，把同人创作与真实世界相分离，不对同人创作进行伦理道德的制约。
+
+**义项2：不健康配对（Problematic Ship）**
+
+Pro被作为Problematic的简写使用，意味着「有问题的」；Proshipper指的是喜欢「存在问题的、不健康的」（年龄差、血缘关系等，实际上每个人对Problematic的定义都不同）配对的人。
+
+这两个义项有一定程度的重叠，但含义又不同，因此在使用上往往引发严重的争议。
 
 ### Pseud：笔名
 
@@ -556,7 +602,9 @@ AO3的一种预警方式，包括
 
 ## Z
 
+### Zine：合志
 
+更专业一点的解释是「由业余爱好者而非专业人员编写的爱好者杂志」，在同人语境里基本就是同人合志的意思。它可以是线上的也可以是实体的。
 
 ## \#
 

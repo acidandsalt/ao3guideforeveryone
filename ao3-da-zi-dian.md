@@ -288,6 +288,8 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 是joking的简写，另一种类似写法是「HJ」（Half Joking，半开玩笑），有时也直接被略缩成字母J。常见用法比如：我真的想去抢银行了/j
 
+[更多外网常用的语调示意词](ao3-da-zi-dian.md#yi-xie-wai-wang-chang-yong-de-ju-mo-suo-xie)
+
 ## K
 
 ### Ko-fi
@@ -656,7 +658,7 @@ AO3的一种预警方式，包括
 
 <details>
 
-<summary><a data-footnote-ref href="#user-content-fn-7"><strong>一些外网常用的句末缩写</strong></a></summary>
+<summary><a data-footnote-ref href="#user-content-fn-7"><strong>一些外网常用的句末缩写</strong></a><strong>（语调示意词）</strong></summary>
 
 <img src=".gitbook/assets/a guide to tone indicators_page-0001 (1).png" alt="" data-size="original">
 

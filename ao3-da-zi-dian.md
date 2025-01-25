@@ -97,6 +97,10 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 * Multi（多人行或多种关系）
 * Other（其他，比如跨种族、人外、多性等）
 
+### CC：内容创作者
+
+是Content Creator的缩写。在相同语境下与之对应的是「C」，指Character（虚拟角色）。这两个缩写在角色扮演中比较常见，用于区分角色扮演者（cc）和ta扮演的角色（c）。
+
 ### Character：角色
 
 有的角色标签名字之后还会有括号、竖线或后缀，这是为了防止撞tag，比如
@@ -145,19 +149,31 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 这个一般是作者加在作品上的标签，意味着作品内可能含有三观不正的内容，而作者出于种种原因没有对它做出批判，执意观看的话后果自负。
 
+### Discord
+
+一款外网常用的聊天软件。
+
+### DM：私信
+
+是Direct Message的缩写，意为直接联系，在社交平台上一般指的就是私信。
+
 ### DNI：强拒/勿入
 
 是Deny的谐音，意思类似中文同人圈的「强拒」，一般被挂在账号简介或置顶用来表明态度和属性。比如，Minors DNI的意思就是「未成年勿入」。
 
 ### Drabble：涂鸦/短打
 
-用在画画上指的是随手涂鸦，用在写文上指的就是字数较少的短打。用于短打的还有「snippet」一词，指小片段。
+用在画画上指的是随手涂鸦（同义词：Doodle），用在写文上指的就是字数较少的短打。用于短打的还有「snippet」一词，指小片段。
 
 ### Draft：草稿箱
 
 [如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
 
 AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，从创建开始，草稿只能保存一个月！
+
+### Duo：双人组/搭档
+
+这个词本身就是「搭档」的意思，常见用法是作为配对名称的后缀来表示这是一个双人组合。
 
 ## E
 
@@ -270,9 +286,13 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### JK：开玩笑的
 
-是joking的简写，有时也直接被略缩成字母J。常见用法比如：我真的想去抢银行了/j
+是joking的简写，另一种类似写法是「HJ」（Half Joking，半开玩笑），有时也直接被略缩成字母J。常见用法比如：我真的想去抢银行了/j
 
 ## K
+
+### Ko-fi
+
+一个比[Patreon](ao3-da-zi-dian.md#patreon)更随意一点的打赏平台，一些外网创作者用它来接稿/接受点图/营利。
 
 ### KYS：去死
 
@@ -336,9 +356,17 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ## P
 
+### Patreon
+
+一个可以订阅创作者和给创作者打赏的平台，或许类似国内的爱发电。很多体量较小的创作者依靠它来获取经济支持。
+
 ### **Plain text with limited HTML：支持有限HTML语言的纯文本**
 
 AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)。
+
+### POS：积极语气
+
+是Positive的简写，一般用法是「一句话/pos」，表示这句话是用积极的语气说出来的。
 
 ### Preferences：偏好设置
 
@@ -457,6 +485,10 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 一般指网站的规划蓝图。关于AO3的请参见→[AO3 Roadmap](xiao-zhong-gong-neng/ao3-roadmap.md)
 
+### RP：角色扮演
+
+是Role Play的缩写，类似我们平时所说的「语C」。不过，RP不仅限于文字，也包括通过其他媒介进行的表演。
+
 ### RPF：真人同人
 
 全称为Real Person Fiction，指的是现实世界里的三次元立体人的同人。一般打标签时会写为「原作名称+RPF」，比如来自霍比特人的两个演员的同人，其圈子标签应该写为「The Hobbit RPF」。
@@ -483,7 +515,7 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### Slash：斜线向
 
-BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的域名mtslash即由此而来。相应地，「Femslash」指的是GL向。
+BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的域名mtslash即由此而来。相应地，Femslash指的是GL向，Pre-slash指的是还没捅破窗户纸的暧昧中。
 
 ### Smut：不打折扣的肉
 
@@ -614,6 +646,34 @@ AO3的一种预警方式，包括
 
 一个英文感叹号，会出现在「Alpha!Bruce」或「Bottom!Reader」这样的标签内；感叹号之前是角色属性，感叹号之后是角色名称。（它偶尔也可能是阶乘符号[^6]。）
 
+### /
+
+一个斜杠，它可能用在：
+
+1. 角色配对中，表示CP向（角色名左右不代表攻受，一般按照首字母排序）
+2. 一句话的结尾，表示这句话的语气（比如[/jk](ao3-da-zi-dian.md#jk-kai-wan-xiao-de)）
+3. 两个单词中间，表示「或者」；两个数字中间，表示「除」
+
+<details>
+
+<summary><a data-footnote-ref href="#user-content-fn-7"><strong>一些外网常用的句末缩写</strong></a></summary>
+
+<img src=".gitbook/assets/a guide to tone indicators_page-0001 (1).jpg" alt="" data-size="original">
+
+
+
+</details>
+
+
+
+## 俗语
+
+### No Beta We Die Like XXX
+
+这句话常常在AO3的tag里出现，直译为「没有校对，我们像xxx一样赴死」，主要表达一种自嘲/对xxx角色死法的调侃；这句话指的是这篇文章没有经过细致的校对，可能存在错误。
+
+
+
 
 
 【注】本文部分内容摘自AO3的[中文FAQ](https://archiveofourown.org/faq/tags?language_id=zh-CN)。
@@ -629,3 +689,5 @@ AO3的一种预警方式，包括
 [^5]: 曾经我一直不知道为什么在LOFTER，攻抚慰的首字母会导致审核巨久，直到知道了墙的缩写……
 
 [^6]: 比如：5!=1×2×3×4×5
+
+[^7]: 资料来自[https://toneindicators.carrd.co/](https://toneindicators.carrd.co/)

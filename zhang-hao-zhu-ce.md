@@ -134,7 +134,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 ## 可能遇到的问题
 
-### **怎么查看我有没有排上队？**
+### 怎么查看我有没有排上队？
 
 打开第二步中的页面，点击标黄的链接「check your position on the waiting list」。标红的数字是表示现在有多少人在排队。
 
@@ -144,33 +144,33 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 <figure><img src=".gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
-### **第一封邮件为什么迟迟不来？**
+### 第一封邮件为什么迟迟不来？
 
 AO3基本每时每刻都在有新的加入者，排队人数以万计量，即使AO3每天发出六千份邀请，要排到你也得几天甚至几周。在你申请的时候，申请已受理的界面上也会告诉你收到邮件的预估时间。如果超过预估时间太久没有收到，请查看自己是否已经排上队；如果没有，重新申请。
 
-### **「Email is already part of the queue」**
+### Email is already part of the queue
 
 假如你在填写邮箱申请后报错「Email is already part of the queue」或「电子邮件已经是我们队列的一部分」，说明你已经在队列内，已经或者即将收到邮件，无需重复申请。
 
 ![](.gitbook/assets/Screenshot_20230313_121218.jpg)
 
-### **第二封邮件什么时候来？**
+### 第二封邮件什么时候来？
 
 第二封邮件一般会在Almost Done!页面出现后的几分钟之内收到。如果没有，可以查看一下自己邮箱的垃圾桶，看看是否被当成垃圾邮件拦截了，或搜索来自do-not-reply@archiveofourown.org的邮件。如果超过24小时没有收到，请联系AO3官方支持。
 
-### **「Login has been taken」**
+### Login has been taken
 
 如果提示「Login has been taken」或「登录已经被接受」意味着用户名重复，请更换注册用户名。
 
 ![](.gitbook/assets/MTXX_MH20230316_084716448.jpg)
 
-### 「Login must begin and end with a letter or number; it may also contain underscores but no other characters」
+### Login must begin and end with a letter or number; it may also contain underscores but no other characters
 
 用户名含有非法字符或用下划线开头结尾了。
 
 ![](.gitbook/assets/MTXX_MH20230316_085033452.jpg)
 
-### 「Password confirmation doesn't match new password」
+### Password confirmation doesn't match new password
 
 第二遍密码输错了。
 

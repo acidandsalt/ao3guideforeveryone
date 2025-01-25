@@ -56,7 +56,7 @@ description: 在同人圈奔走几年来，惊觉大部分做饭的和吃饭的�
 
 
 
-_\*注：2025.1.24更新，部分网址已失效，故移除。_
+【注】：2025.1.24更新，部分网址已失效，故移除。
 
 [^1]: 资料来源：[https://zh.wikipedia.org/wiki/AO3%E4%BD%9C%E5%93%81%E5%BA%93](https://zh.wikipedia.org/wiki/AO3%E4%BD%9C%E5%93%81%E5%BA%93)
 

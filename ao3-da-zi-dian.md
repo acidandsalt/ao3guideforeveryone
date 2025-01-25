@@ -288,7 +288,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 是joking的简写，另一种类似写法是「HJ」（Half Joking，半开玩笑），有时也直接被略缩成字母J。常见用法比如：我真的想去抢银行了/j
 
-[更多外网常用的语调示意词](ao3-da-zi-dian.md#yi-xie-wai-wang-chang-yong-de-ju-mo-suo-xie)
+[更多外网常用的语调示意词](ao3-da-zi-dian.md#yi-xie-wai-wang-chang-yong-de-ju-mo-suo-xie-yu-diao-shi-yi-ci)
 
 ## K
 
@@ -534,6 +534,10 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 ### Spotify：外国音乐软件
 
 一个声名远扬的音乐平台。
+
+### Stan：铁粉
+
+常见用法比如I stan XXX（我推XXX），XXX Stan（XXX的铁粉）。
 
 ### Suspended：停更
 

@@ -658,9 +658,9 @@ AO3的一种预警方式，包括
 
 <summary><a data-footnote-ref href="#user-content-fn-7"><strong>一些外网常用的句末缩写</strong></a></summary>
 
-<img src=".gitbook/assets/a guide to tone indicators_page-0001 (1).jpg" alt="" data-size="original">
+<img src=".gitbook/assets/a guide to tone indicators_page-0001 (1).png" alt="" data-size="original">
 
-
+（看不清可以右键在新标签页打开或放大网页）
 
 </details>
 

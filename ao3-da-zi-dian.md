@@ -20,9 +20,9 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 也叫作自由标签/附加标签。它是用来给作品做补充说明的，比如
 
-* **攻受**：由[Top](ao3-da-zi-dian.md#aka-ye-jiu-shi) (左位)和[Bottom](ao3-da-zi-dian.md#a) (右位)标示，一般格式为「Top A」「Bottom B」
+* **攻受**：由[Top](ao3-da-zi-dian.md#aka-ye-jiu-shi) (左位)和[Bottom](ao3-da-zi-dian.md#a) (右位)标示，一般格式为「Top XXX」「Bottom XXX」
 * **AU**：是Alternate Universe的缩写，也就是平行宇宙，一般格式为「Alternate Universe - 具体AU种类[^1]」
-* **内容属性**：一般作者会把文的属性标注出来，比如fluff (小甜饼)、angst (虐心)、hurt/comfort (虐转甜)、Enemies to Lovers (敌人变爱人)、Gentle Sex (温柔性爱)等等
+* **内容属性**：一般作者会把文的属性标注出来，比如fluff (小甜饼)、angst (虐)、hurt/comfort (虐完治愈)、Enemies to Lovers (敌人变爱人)、Gentle Sex (温柔性爱)等等
 * **警告**：一些在Warning里没提到的会标出来，比如incest (乱伦)、suicide thoughts (自杀想法)、minor character death (副角色死亡)等
 * **作者碎碎念**：很多作者有在附加标签里碎碎念的习惯，吐槽剧情自嘲心虚道歉都是常有的
 
@@ -38,7 +38,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### All Media Types：所有媒介类型
 
-这个词组往往作为后缀出现在一个圈子标签（[Fandom](ao3-da-zi-dian.md#fandom-quan-zi) Tag）之中，适用于有多重媒介载体的圈子。比如**Les Misérables - All Media Types**就包含了《悲惨世界》原书、音乐剧、电影等所有形式的作品。
+这个词组往往作为后缀出现在一个圈子标签（[Fandom](ao3-da-zi-dian.md#fandom-quan-zi) Tag）之中，适用于有多重媒介载体的圈子。比如Les Misérables - All Media Types就包含了《悲惨世界》原书、音乐剧、电影等所有形式的作品。
 
 ### ALT：其他账号
 
@@ -46,7 +46,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### Ambiguous Fandom：多义同人圈 <a href="#ambiguousfandom" id="ambiguousfandom"></a>
 
-和[所有媒介类型](ao3-da-zi-dian.md#all-media-types-suo-you-mei-jie-lei-xing)一样，这也是个圈子标签的后缀词组，比如**The Eagle - Ambiguous Fandom**既可指电&#x5F71;_&#x45;agle of the Ninth_，也可指电视剧[_Ørnen: En krimi-odyssé_](#user-content-fn-2)[^2]。由于不能确定打着「The Eagle」标签的作品代表哪个圈，这个标签便是「多义」的。
+和[所有媒介类型](ao3-da-zi-dian.md#all-media-types-suo-you-mei-jie-lei-xing)一样，这也是个圈子标签的后缀词组，比如The Eagle - Ambiguous Fandom既可指电影Eagle of the Ninth，也可指电视剧[Ørnen: En krimi-odyssé](#user-content-fn-2)[^2]。由于不能确定打着「The Eagle」标签的作品代表哪个圈，这个标签便是「多义」的。
 
 ### A/N：作者备注
 
@@ -62,13 +62,13 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 ### Arc：弧光/剧情线
 
-听起来很高大上的「人物弧光（Character Arc）」就是这个，用来指一个人物或剧情的发展。要塑造好角色，就需要完整且合理地展示角色的心路历程，给予ta完善的人物弧光。一些常见的用法比如Redemption Arc（洗白/救赎历程），New York Destruction Arc（纽约摧毁剧情线）等等。
+听起来很高大上的「人物弧光（Character Arc）」就是这个，指一个人物或剧情的发展。要塑造好角色，就需要完整且合理地展示角色的心路历程，给予ta完善的人物弧光。一些常见的用法比如Redemption Arc（洗白/救赎历程），New York Destruction Arc（纽约摧毁剧情线）等等。
 
 ## B
 
 ### Beta：校对
 
-全称叫Beta Reader，指的是「Alpha Reader」作者本人之后第二个阅读作品的人，负责给作者校对捉虫，一般严格一点的作者会有Beta，作品通过Beta之后才发布。当然相反的也就有一群「No Beta we die like heroes」的作者。
+全称叫Beta Reader，指的是「Alpha Reader」（作者本人）之后第二个阅读作品的人，负责给作者校对捉虫，一般严格一点的作者会有Beta，作品通过Beta之后才发布。当然相反的也就有一群「No Beta we die like heroes」的作者。
 
 ### Block：拉黑
 
@@ -78,7 +78,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 [书签/收藏怎么用？](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
 
-这是登录用户才有的功能。登录用户可以为一篇作品或系列添加书签；在简单的收藏功能之上，AO3的书签还提供自定义简介、标签、合集的功能，基本就像个便利贴，写啥都可以。
+这是登录用户才有的功能。登录用户可以为一篇作品或系列添加书签；在简单的收藏功能之上，AO3的书签还提供自定义简介、标签、合集的功能，基本就像个便利贴，写什么都可以。
 
 ### Bottom：受/右位
 
@@ -115,7 +115,7 @@ description: 在AO3常见的词语，也有一些同人圈用语，按英文首�
 
 [合集是什么？怎么用？](ru-he-chi-fan-jin-jie-ban/he-ji-shi-shi-mo-zen-mo-yong.md)
 
-AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集作品本体，也可以收集你为作品加的书签（[Bookmark](ao3-da-zi-dian.md#bookmark-shu-qian-shou-cang)），时常被用作24h这一类的活动/挑战。
+AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集作品本体，也可以收集你为作品加的书签（[Bookmark](ao3-da-zi-dian.md#bookmark-shu-qian-shou-cang)）；在AO3，24h这一类的活动经常用合集进行收集整理和定时公开。
 
 本人曾试过用合集整理书签，但体验较麻烦，不推荐。如果你是想整理你自己的作品——或许看看系列（[Series](ao3-da-zi-dian.md#a)）呢？
 
@@ -125,7 +125,7 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ### Credit：原作者是
 
-一般是用在搬运他人作品或对他人作品进行三创时，需要标注「Credit: 某人」，以此表明这个作品的来源。Give credit就是「标注来源」的意思。
+一般在搬运他人作品或对他人作品进行三创时，需要标注「Credit: 某人」，以此表明这个作品的来源。Give credit就是「标注来源」的意思。
 
 ### Crossover：混合同人
 
@@ -133,25 +133,25 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 指的是内容包含两个及以上圈子（[Fandom](ao3-da-zi-dian.md#fandom-quan-zi)）的同人，比如哈利波特出现在漫威宇宙、亚当斯一家移居哥谭这种梦幻联动。如果只是单纯HPAU的漫威同人，则标注为AU，不属于混同。
 
-混合同人中有时候会出现一些很邪门的拉郎CP，比如伏地魔/林黛玉。
+有一些很邪门的拉郎CP即来自于混同，比如伏地魔/林黛玉。
 
 ### CW：内容警告
 
-是Content Warning的缩写，一般挂在账号简介或置顶用来警告关注者这个账号可能出现的内容有什么。
+是Content Warning的缩写，一般挂在账号简介或帖子开头用来警告这个账号/帖子可能出现的内容有什么。
 
 ## D
 
 ### Dad Joke：老掉牙的冷笑话
 
-顾名思义，这个词组指父亲常讲的冷笑话。这种笑话通常包含双关语或谐音梗，往往让人无语凝噎。
+顾名思义，这个词组指父亲常讲的冷笑话。这种笑话常常包含双关语或谐音梗，冷得令人无语凝噎。
 
 ### Dead Dove: Do Not Eat：三观不正预警
 
 这个一般是作者加在作品上的标签，意味着作品内可能含有三观不正的内容，而作者出于种种原因没有对它做出批判，执意观看的话后果自负。
 
-### Discord
+### Discord：外国聊天软件
 
-一款外网常用的聊天软件。
+一款外网常用的聊天软件，有文字、语音、群聊等功能。
 
 ### DM：私信
 
@@ -163,17 +163,17 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ### Drabble：涂鸦/短打
 
-用在画画上指的是随手涂鸦（同义词：Doodle），用在写文上指的就是字数较少的短打。用于短打的还有「snippet」一词，指小片段。
+用在画画上指的是随手涂鸦（同义词：Doodle），用在写文上指的就是字数较少的短打。用于短打的还有snippet一词，指小片段。
 
 ### Draft：草稿箱
 
 [如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
 
-AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，从创建开始，草稿只能保存一个月！
+AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，从创建开始，草稿只能保存一个月！而且如果你在发布时不重新选择日期，正式发布的日期将会被设置为你创建草稿的那一天。
 
 ### Duo：双人组/搭档
 
-这个词本身就是「搭档」的意思，常见用法是作为配对名称的后缀来表示这是一个双人组合。
+这个词本身就是「搭档」的意思，常见用法是作为配对名称的后缀来表示这是一个双人组合，比如Emerald Duo。
 
 ## E
 
@@ -181,7 +181,7 @@ AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，�
 
 电子邮箱，顾名思义，是一套电子的邮政系统，人们注册了邮箱之后就相当于在自家互联网门口安了个信箱，只要知道别人的邮箱地址就可以互相送信（邮件）。
 
-比较常用的国内邮箱网址有126、163、QQ邮箱等，国外常用的有outlook和gmail，一般大学也都有独立的邮箱网址给学生和教职工使用。有些时候外国网站的注册用外国邮箱会更顺畅。要注册邮箱请直接百度搜索电子邮箱。
+比较常用的国内邮箱网址有126、163、QQ邮箱等，国外常用的有Outlook和Gmail，一般大学也都有独立的邮箱网址给学生和教职工使用。有些时候外国网站的注册用外国邮箱会更顺畅。要注册邮箱请直接百度搜索电子邮箱。
 
 ## F
 
@@ -191,11 +191,11 @@ AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，�
 
 ### Fandom：粉丝圈
 
-在AO3，Fandom指的是同人圈。不过在外国文娱中，这是一个囊括了「粉丝、粉圈文化、同人二创」等含义的词语。外国创作者口中的「混圈」就是in the fandom，「星球大战圈」就是Star Wars Fandom，形容一个圈子粉丝有毒那就是Toxic Fandom，「退圈」就是leave the fandom。粉丝的大部分活动、社交和创作都是建立在fandom社区之上的。
+在AO3，Fandom指的是同人圈。不过在外国文娱中，这是一个囊括了「粉丝、粉圈文化、同人二创」等含义的词语。外国创作者口中的「混圈」就是in the fandom，「星球大战圈」就是Star Wars Fandom，形容一个圈子粉丝有毒那就是Toxic Fandom，「退圈」就是leave the fandom。粉丝的大部分活动、社交和创作都是建立在粉丝圈社区之上的。
 
 Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fandom.com](https://www.fandom.com)，绝大部分圈子在这里都有网站。
 
-### Fanfiction：FF或FFN
+### Fanfiction：FF/FFN
 
 外网同人文网站，比AO3早十年多，汇聚了不少古早粮。网址是：[www.fanfiction.net/](https://www.fanfiction.net/)。据说网页要翻墙但APP不用。界面相对古早，但有社区（Community）和论坛（Forum）板块，滋养过很多经典文梗。
 
@@ -225,7 +225,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 和[RPF](ao3-da-zi-dian.md#rpf-zhen-ren-tong-ren)相对应，FPF指的是Fictional Person Fiction，也即为虚拟人物创作的同人。
 
-### FUB：关注取关拉黑
+### FUB：关注&取关&拉黑
 
 是Follow Unfollow Block的缩写，常见用法是FUB Free，意思是「关注/取关/拉黑随意」。
 
@@ -234,6 +234,10 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 ### Gen Z：Z世代
 
 即Generation Z，是指1995年至2009年之间出生的一代人，也被称为「网生代」。这一代人深受互联网的影响，被认为是数字技术的原住民，他们的生活、工作、购物和社交都高度依赖互联网和移动设备‌。在外网同人语境下，往往被用来打趣/讽刺角色。
+
+### GG：干得漂亮/游戏愉快
+
+是Good Game的缩写，一种游戏结束后互相致意的礼貌用语。
 
 ### Google Chrome：谷歌浏览器
 
@@ -258,11 +262,10 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 * **斜体：**\<em>需要变斜体的文字\</em>
 * **加粗：**\<strong>需要加粗的文字\</strong>
 * **加超链接：**\<a href="这里放链接地址">这里写文字\</a>
-* **换行**：\</br>
 
 ## I
 
-### IKR：就是说啊！/你说得对啊！
+### IKR：就是说啊/你说得对
 
 是I Know Right?的缩写。
 
@@ -276,11 +279,11 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 目前国内的图床有[路过图床](https://imgtu.com/)、[ImgURL](https://imgurl.org/)等，国外的有[Postimage](https://postimages.org/)等，其他的可以在[这个知乎帖](https://zhuanlan.zhihu.com/p/403554101?ivk_sa=1024320u)中进一步了解；你也可以用GitHub或七牛云服务器等为自己建造私人图床。需要注意的是，国内的图床大部分都禁黄，上传图片之前建议先看清网站的服务条款。
 
-### Instagram：ins或IG
+### Instagram：ins/IG
 
 正式译名「照片墙」，一个图片为主的社交应用，小红书对标的就是它。
 
-因为主图片所以适合画手，大部分真人明星也都在那里有号，适合去观赏美图。
+因为主图片所以适合画手，大部分真人明星也都在那里有号。
 
 ## J
 
@@ -292,7 +295,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ## K
 
-### Ko-fi
+### Ko-fi：外国打赏平台
 
 一个比[Patreon](ao3-da-zi-dian.md#patreon)更随意一点的打赏平台，一些外网创作者用它来接稿/接受点图/营利。
 
@@ -301,6 +304,10 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 是Kill Yourself的缩写。这句话涉及鼓励自杀，在外网属于很严重的人身攻击，遇到这样的情况请务必谨慎对待。
 
 ## L
+
+### L：失败者/太逊了
+
+是Loser的简写，常用的嘲讽说法。有时搭配「大拇指和食指张开呈L字形放在额头上」的肢体动作使用。
 
 ### LMAO：笑死我了
 
@@ -332,7 +339,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### NGL：说实话
 
-是Not Gonna Lie的缩写，我查了五遍才记住。
+是Not Gonna Lie的缩写（我查了五遍才记住）。
 
 ### NSFW：背后注意/公共场合注意
 
@@ -358,7 +365,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ## P
 
-### Patreon
+### Patreon：外国打赏平台
 
 一个可以订阅创作者和给创作者打赏的平台，或许类似国内的爱发电。很多体量较小的创作者依靠它来获取经济支持。
 
@@ -370,6 +377,8 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 
 是Positive的简写，一般用法是「一句话/pos」，表示这句话是用积极的语气说出来的。
 
+[更多外网常用的语调示意词](ao3-da-zi-dian.md#yi-xie-wai-wang-chang-yong-de-ju-mo-suo-xie-yu-diao-shi-yi-ci)
+
 ### Preferences：偏好设置
 
 [如何进行偏好设置](xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)
@@ -380,7 +389,7 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 
 [如何点开作品？](ru-he-chi-fan-chu-ji-ban/ru-he-dian-kai-zuo-pin.md)
 
-访问带有未分级、成人向或成人级[分级标签](ao3-da-zi-dian.md#rating-fen-ji)的作品时，页面顶部会出现一则黄色警告，提示该作品可能含有成人内容。此时点击Proceed继续就可以正常访问整篇文章了。
+访问带有未分级、成人向或成人级[分级标签](ao3-da-zi-dian.md#rating-fen-ji)的作品时，页面顶部会出现一则黄色警告，提示该作品可能含有成人内容。此时点击`Proceed`就可以正常访问整篇文章了。
 
 ### Profile：个人资料
 
@@ -441,7 +450,7 @@ Pro被作为Problematic的简写使用，意味着「有问题的」；Proshippe
 
 你可以在自己注册的用户名下创建新的子博（目前没有查到是否有数量限制），这个子博的名字可以与其他用户重复，因为它会和你的主用户名关联，显示成「子博名（主用户名）」的形式，避免混淆。
 
-子博可以设置成你其他平台的用户名以方便读者在AO3找到你，也可以用来归类存储不同圈子的作品、书签。任何人都可以通过你的子博找到你的主账户，因此如果想要避免某些作品与自己的主账户关联的话，更合适的方式是匿名发表或用不同的邮箱创建一个新账号。
+子博可以设置成你其他平台的用户名以方便读者在AO3找到你，也可以用来归类存储不同圈子的作品、书签。任何人都可以通过你的子博找到你的主账户，因此如果想要避免某些作品与自己的主账户关联的话，更合适的方式是[匿名发表](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ni-ming-fa-wen.md)或用不同的邮箱创建一个新账号。
 
 ### PWP：纯肉
 
@@ -513,11 +522,13 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### Ship/Shipping：配对
 
-这个词来源于relationship，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃，萌」。外网的拆逆撕逼就叫做「Ship War」，喜欢A/B就叫「ship A/B」。
+这个词来源于relationship，直译叫「船」，其实就是「一对CP」的意思；也做动词，意思是「吃/萌」。外网的拆逆撕逼就叫做Ship War，喜欢A/B就叫ship A/B。
 
 ### Slash：斜线向
 
 BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的域名mtslash即由此而来。相应地，Femslash指的是GL向，Pre-slash指的是还没捅破窗户纸的暧昧中。
+
+[更多关于斜线的信息](ao3-da-zi-dian.md#undefined-2)
 
 ### Smut：不打折扣的肉
 
@@ -541,7 +552,7 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 ### Suspended：停更
 
-这部作品的作者暂停更新了。「Suspended indefinitely」就是不知道什么时候会重新开更的意思。一般一停就是几年，蹲在坑里的人眼泪都流干了。
+这部作品的作者暂停更新了。Suspended indefinitely就是不知道什么时候会重新开更的意思。一般一停就是几年，蹲在坑里的人眼泪都流干了。
 
 ## T
 
@@ -561,7 +572,7 @@ BL配对使用的斜线符号「/」就叫slash，欧美同人论坛随缘居的
 
 ### TL;DR：太长不看
 
-意为「Too Long; Don't Read」。放在一段话开头，给不想看全文的人做概括用的。
+意为「Too Long; Don't Read」。放在一段话开头（或结尾），给不想看全文的人做概括用的。
 
 ### Top：攻/左位
 
@@ -676,7 +687,7 @@ AO3的一种预警方式，包括
 
 ### No Beta We Die Like XXX
 
-这句话常常在AO3的tag里出现，直译为「没有校对，我们像xxx一样赴死」，主要表达一种自嘲/对xxx角色死法的调侃；这句话指的是这篇文章没有经过细致的校对，可能存在错误。
+这句话常常在AO3的tag里出现，直译为「没有校对，我们像XXX一样赴死」，主要表达一种自嘲/对XXX角色死法的调侃；这句话指的是这篇文章没有经过细致的校对，可能存在错误。
 
 
 

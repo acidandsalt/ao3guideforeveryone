@@ -9,8 +9,8 @@ description: 手册内容快速检索。
 <summary><strong>一、</strong><a href="xu-yan.md"><strong>序言</strong></a>——解答基本小白问题，对AO3无了解的先看它</summary>
 
 1. 简单科普&问题解答
-2. [可用的镜像网站](xu-yan.md#ke-yong-de-jing-xiang-wang-zhan)
-3. [可用的梯子](xu-yan.md#ke-yong-de-ti-zi)
+2. 可用的镜像网站
+3. 可用的梯子
 
 </details>
 

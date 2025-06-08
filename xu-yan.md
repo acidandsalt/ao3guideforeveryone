@@ -48,7 +48,7 @@ description: 在同人圈奔走几年来，惊觉大部分做饭的和吃饭的�
 
 鉴于目前的复杂情况，此处信息请通过如下方式获取：
 
-以「<mark style="color:red;">**AO3镜像入口**</mark>」为<mark style="background-color:red;">主题（标题）</mark>向<mark style="color:blue;">ashadeofblue194052@gmail.com</mark>发送邮件，即可获得包含镜像链接的回复。如果您没有收到自动回复，请查看您的垃圾邮件。
+以「<mark style="color:red;">**AO3镜像入口**</mark>」为<mark style="color:red;">**主题（标题）**</mark>向<mark style="color:blue;">ashadeofblue194052@gmail.com</mark>发送邮件，即可获得包含镜像链接的回复。如果您没有收到自动回复，请查看您的垃圾邮件。
 
 
 

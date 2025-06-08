@@ -24,7 +24,7 @@ description: 一些说明。
 
 任何针对本文档的报错、疑问和建议都可以通过以下联系方式向我反馈。
 
-{% hint style="success" %}
+{% hint style="info" %}
 <mark style="color:blue;">**联系方式：**</mark><mark style="color:blue;">ashadeofblue194052@gmail.com</mark>
 {% endhint %}
 

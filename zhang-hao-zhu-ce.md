@@ -97,7 +97,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 <div data-full-width="true"><figure><img src=".gitbook/assets/MEITU_20250609_133158979.jpg" alt="" width="563"><figcaption></figcaption></figure></div>
 
-`Unsent`是未送出的，<kbd>Sent But Unused</kbd>是送出但未被认领的，Used就是已使用作废的。
+`Unsent`是未送出的，`Sent But Unused`是送出但未被认领的，`Used`就是已使用作废的。
 
 </details>
 
@@ -156,7 +156,7 @@ AO3基本每时每刻都在有新的加入者，排队人数以万计量，即�
 
 ### Email is already part of the queue
 
-假如你在填写邮箱申请后报错<mark style="background-color:red;">「Email is already part of the queue」</mark>或<mark style="background-color:red;">「电子邮件已经是我们队列的一部分」</mark>，说明你已经在队列内，已经或者即将收到邮件，无需重复申请。
+假如你在填写邮箱申请后报错<mark style="color:red;">「Email is already part of the queue」</mark>或<mark style="color:red;">「电子邮件已经是我们队列的一部分」</mark>，说明你已经在队列内，已经或者即将收到邮件，无需重复申请。
 
 ![](.gitbook/assets/Screenshot_20230313_121218.jpg)
 

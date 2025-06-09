@@ -48,19 +48,13 @@ description: 在同人圈奔走几年来，惊觉大部分做饭的和吃饭的�
 
 鉴于目前的复杂情况，此处信息请通过如下方式获取：
 
-以「<mark style="color:red;">**AO3镜像入口**</mark>」为<mark style="color:red;">**主题（标题）**</mark>向<mark style="color:blue;">ashadeofblue194052@gmail.com</mark>发送邮件，即可获得包含镜像链接的回复。如果您没有收到自动回复，请查看您的垃圾邮件。
+以「<mark style="color:red;">**AO3镜像入口**</mark>」为<mark style="color:red;">**主题（标题）**</mark>向<mark style="color:blue;">ashadeofblue194052@gmail.com</mark>发送邮件（为确保不被自动拦截，建议提前将此邮箱加入白名单），即可获得包含镜像链接的回复。如果您没有收到自动回复，请查看您的垃圾邮件。
 
 
 
 #### 【可用的梯子】
 
-鉴于目前的复杂情况，此手册不做直接推荐，以下是一些相关的AO3超话帖子。
-
-1 [https://weibo.com/6985473814/4797688519069799](https://weibo.com/6985473814/4797688519069799)
-
-2 [https://weibo.com/5665152263/4811952000074317](https://weibo.com/5665152263/4811952000074317)
-
-3 [https://weibo.com/7454666679/4840554121136874](https://weibo.com/7454666679/4840554121136874)
+鉴于目前的复杂情况，此手册不做直接推荐；请各位自行于互联网检索，或至AO3超话内查看相关帖子。
 
 {% hint style="danger" %}
 <mark style="color:red;">**注意：提高甄别能力，不要随便点击陌生人分享的链接/加入陌生人分享的群聊！不要随意泄露自己的身份信息！不要轻易通过未经认证的渠道付款！**</mark>

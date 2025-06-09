@@ -50,6 +50,10 @@ description: 在同人圈奔走几年来，惊觉大部分做饭的和吃饭的�
 
 以「<mark style="color:red;">**AO3镜像入口**</mark>」为<mark style="color:red;">**主题（标题）**</mark>向<mark style="color:blue;">ashadeofblue194052@gmail.com</mark>发送邮件（为确保不被自动拦截，建议提前将此邮箱加入白名单），即可获得包含镜像链接的回复。如果您没有收到自动回复，请查看您的垃圾邮件。
 
+{% hint style="danger" %}
+<mark style="color:red;">**注意：镜像网站存在信息泄露的风险，请根据自身情况谨慎选择使用。**</mark>
+{% endhint %}
+
 
 
 #### 【可用的梯子】
@@ -57,7 +61,7 @@ description: 在同人圈奔走几年来，惊觉大部分做饭的和吃饭的�
 鉴于目前的复杂情况，此手册不做直接推荐；请各位自行于互联网检索，或至AO3超话内查看相关帖子。
 
 {% hint style="danger" %}
-<mark style="color:red;">**注意：提高甄别能力，不要随便点击陌生人分享的链接/加入陌生人分享的群聊！不要随意泄露自己的身份信息！不要轻易通过未经认证的渠道付款！**</mark>
+<mark style="color:red;">**注意：提高甄别能力，不要随便点击陌生人分享的链接或加入陌生人分享的群聊！不要随意泄露自己的身份信息！不要轻易通过未经认证的渠道付款！**</mark>
 {% endhint %}
 
 [^1]: 资料来源：[https://zh.wikipedia.org/wiki/AO3%E4%BD%9C%E5%93%81%E5%BA%93](https://zh.wikipedia.org/wiki/AO3%E4%BD%9C%E5%93%81%E5%BA%93)

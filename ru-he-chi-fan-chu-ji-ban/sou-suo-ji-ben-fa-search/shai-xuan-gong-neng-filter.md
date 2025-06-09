@@ -112,13 +112,15 @@ Filter的第三项是与**Include**内容完全一样但功能完全相反的**E
 {% tab title="进阶应用" %}
 这一部分也都来自于微博AO3超话教程。
 
+
+
 **在乙游Fandom标签中排除乙女腐**
 
-第一步：在「Include」→「Character」中勾选你推的角色名。
+第一步：在Include→Character中勾选<mark style="color:green;">你推的角色名</mark>。
 
-第二步：在「Exclude」→「Categories」中叉除「M/M」的标签。
+第二步：在Exclude→Categories中叉除<mark style="color:red;">M/M</mark>的标签。
 
-第三步：在「Search within results」中填写「NOT "乙女腐"」。
+第三步：在Search within results中填写「<mark style="color:orange;">NOT "乙女腐"</mark>」。
 
 这三步基本就能排除绝大部分的乙女腐内容。
 

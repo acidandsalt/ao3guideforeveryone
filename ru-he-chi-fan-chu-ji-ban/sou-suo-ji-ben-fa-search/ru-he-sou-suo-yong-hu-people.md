@@ -2,11 +2,11 @@
 
 **第一步：**&#x70B9;击搜索中的People（用户）栏。
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt="" width="328"><figcaption></figcaption></figure>
 
 **第二步：**&#x5728;Name中输入你想查找的用户名称，然后点击Search People。
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt="" width="462"><figcaption></figcaption></figure>
 
 <details>
 

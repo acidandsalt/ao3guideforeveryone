@@ -1,7 +1,3 @@
----
-description: 筛选拯救洁癖。
----
-
 # 筛选功能（Filter）
 
 {% hint style="danger" %}

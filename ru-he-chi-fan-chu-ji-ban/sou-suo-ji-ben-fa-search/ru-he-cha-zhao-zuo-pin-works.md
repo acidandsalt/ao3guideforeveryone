@@ -1,5 +1,5 @@
 ---
-description: 精准定位你想看的类型。
+description: 精准定位你想看的类型
 ---
 
 # 如何查找作品（Works）

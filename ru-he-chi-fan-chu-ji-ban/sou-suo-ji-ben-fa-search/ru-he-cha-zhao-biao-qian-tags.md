@@ -1,5 +1,5 @@
 ---
-description: 找到你家的tag就找到了粮仓。
+description: 找到你家的tag就找到了粮仓
 ---
 
 # 如何查找标签（Tags）

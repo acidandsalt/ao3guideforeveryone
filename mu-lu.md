@@ -29,13 +29,7 @@ description: 手册内容快速检索。
 
 <summary><strong>三、</strong><a href="ao3-da-zi-dian.md"><strong>AO3大字典</strong></a>——AO3冲浪需要认识的大部分词语都在这儿了</summary>
 
-[A](ao3-da-zi-dian.md#a)｜[B](ao3-da-zi-dian.md#b)｜[C](ao3-da-zi-dian.md#c)｜[D](ao3-da-zi-dian.md#d)｜[E](ao3-da-zi-dian.md#e)｜[F](ao3-da-zi-dian.md#f)｜[G](ao3-da-zi-dian.md#g)
-
-[H](ao3-da-zi-dian.md#h)｜[I](ao3-da-zi-dian.md#i)｜[J](ao3-da-zi-dian.md#j)｜[K](ao3-da-zi-dian.md#k)｜[L](ao3-da-zi-dian.md#l)｜[M](ao3-da-zi-dian.md#m)｜[N](ao3-da-zi-dian.md#n)
-
-[O](ao3-da-zi-dian.md#o)｜[P](ao3-da-zi-dian.md#p)｜[Q](ao3-da-zi-dian.md#q)｜[R](ao3-da-zi-dian.md#r)｜[S](ao3-da-zi-dian.md#s)｜[T](ao3-da-zi-dian.md#t)｜[U](ao3-da-zi-dian.md#u)
-
-[V](ao3-da-zi-dian.md#v)｜[W](ao3-da-zi-dian.md#w)｜[X](ao3-da-zi-dian.md#x)｜[Y](ao3-da-zi-dian.md#y)｜[Z](ao3-da-zi-dian.md#z)｜[#](ao3-da-zi-dian.md#undefined)
+[A](ao3-da-zi-dian.md#a)     [B](ao3-da-zi-dian.md#b)     [C](ao3-da-zi-dian.md#c)     [D](ao3-da-zi-dian.md#d)     [E](ao3-da-zi-dian.md#e)     [F](ao3-da-zi-dian.md#f)     [G](ao3-da-zi-dian.md#g)     [H](ao3-da-zi-dian.md#h)     [I](ao3-da-zi-dian.md#i)     [J](ao3-da-zi-dian.md#j)     [K](ao3-da-zi-dian.md#k)     [L](ao3-da-zi-dian.md#l)     [M](ao3-da-zi-dian.md#m)     [N](ao3-da-zi-dian.md#n)     [O](ao3-da-zi-dian.md#o)     [P](ao3-da-zi-dian.md#p)     [Q](ao3-da-zi-dian.md#q)     [R](ao3-da-zi-dian.md#r)     [S](ao3-da-zi-dian.md#s)     [T](ao3-da-zi-dian.md#t)     [U](ao3-da-zi-dian.md#u)     [V](ao3-da-zi-dian.md#v)     [W](ao3-da-zi-dian.md#w)     [X](ao3-da-zi-dian.md#x)     [Y](ao3-da-zi-dian.md#y)     [Z](ao3-da-zi-dian.md#z)     [#](ao3-da-zi-dian.md#undefined)
 
 </details>
 
@@ -48,17 +42,17 @@ description: 手册内容快速检索。
 3. [AO3各界面信息略解](ru-he-chi-fan-chu-ji-ban/ao3-ge-jie-mian-xin-xi-lve-jie.md)
 4. [AO3文库符号解释](ru-he-chi-fan-chu-ji-ban/ao3-wen-ku-fu-hao-jie-shi.md)
 5. [常用Tag百科](ru-he-chi-fan-chu-ji-ban/chang-yong-tag-bai-ke.md)
-6. [搜索基本法](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/)
-   1. [如何查找标签](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-cha-zhao-biao-qian-tags.md)
-   2. [如何查找作品](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-cha-zhao-zuo-pin-works.md)
-   3. [如何搜索用户](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-sou-suo-yong-hu-people.md)
-   4. [编辑搜索](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/bian-ji-sou-suo-edit-your-search.md)
-   5. [筛选功能](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/shai-xuan-gong-neng-filter.md)
+6. [搜索基本法（Search）](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/)
+   1. [如何查找标签（Tags）](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-cha-zhao-biao-qian-tags.md)
+   2. [如何查找作品（Works）](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-cha-zhao-zuo-pin-works.md)
+   3. [如何搜索用户（People）](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-sou-suo-yong-hu-people.md)
+   4. [编辑搜索（Edit Your Search）](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/bian-ji-sou-suo-edit-your-search.md)
+   5. [筛选功能（Filter）](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/shai-xuan-gong-neng-filter.md)
    6. [如何筛选混合同人](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
    7. [作者主页内筛选](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/zuo-zhe-zhu-ye-nei-shai-xuan.md)
 7. [如何点开作品](ru-he-chi-fan-chu-ji-ban/ru-he-dian-kai-zuo-pin.md)
 8. [如何使用作品号（神秘数字）](ru-he-chi-fan-chu-ji-ban/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)
-9. [如何阅读作品](ru-he-chi-fan-chu-ji-ban/zuo-pin-nei-an-niu-gong-neng.md)
+9. [作品内按钮功能](ru-he-chi-fan-chu-ji-ban/zuo-pin-nei-an-niu-gong-neng.md)
 10. [如何下载作品](ru-he-chi-fan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
 11. [巧用他人书签](ru-he-chi-fan-chu-ji-ban/qiao-yong-ta-ren-shu-qian.md)
 12. [※搜索框里的大学问](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-li-de-da-xue-wen.md)

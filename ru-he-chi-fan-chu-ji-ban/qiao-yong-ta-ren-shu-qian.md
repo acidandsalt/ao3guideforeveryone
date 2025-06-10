@@ -15,11 +15,11 @@ description: 顺藤摸瓜，惠及天下。
 
 **其次，**&#x6478;到他们的书签列表。
 
-![](../.gitbook/assets/MTXX_MH20230313_154905094.jpg)
+
 
 **第三，**&#x7528;Filter进行筛选。
 
-![](../.gitbook/assets/MTXX_MH20230313_155200390.jpg)
+
 
 点开Filter之后发现和我们平时在tag里用的差不多，用法也的确差不多，相同的地方都可以按照[筛选功能](sou-suo-ji-ben-fa-search/shai-xuan-gong-neng-filter.md)中的讲解进行筛选。
 

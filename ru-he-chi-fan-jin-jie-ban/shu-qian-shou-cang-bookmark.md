@@ -10,7 +10,13 @@ AO3没有查看kudos记录的功能，所以为了不丢失辛辛苦苦淘来的
 
 ![](../.gitbook/assets/MTXX_MH20230324_215306266.jpg)
 
-想要了解关于书签的更多信息请参照→[巧用他人书签](../ru-he-chi-fan-chu-ji-ban/qiao-yong-ta-ren-shu-qian.md)
+一个书签分为「原作品信息」和「书签添加者信息」。
+
+为一篇作品加书签时，原作品信息会自动保留；加书签的人可以在书签内加入标签或备注简介用于分类。
+
+当然一般大部分人都只是简单地Bookmark一下了事，最多打个关于字数或配对的标签以备检索。
+
+想要了解关于书签的更多信息请参照→[巧用他人书签](../ru-he-chi-fan-chu-ji-ban/ru-he-li-yong-ta-ren-de-shu-qian.md)
 
 你可以在Bookmarks页面查看你所有的收藏。
 

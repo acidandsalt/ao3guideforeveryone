@@ -4,7 +4,7 @@ AO3所有的作品都是允许免费下载的。只需点击作品页面上的`D
 
 其中Kindle电子书支持图中的全部格式，EPUB、MOBI和PDF格式基本通用于所有电子阅读器，而电脑上常用的是PDF或HTML格式。
 
-<figure><img src="../.gitbook/assets/09d893abbe151719657cc6114f1c0e21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/09d893abbe151719657cc6114f1c0e21.png" alt="" width="558"><figcaption></figcaption></figure>
 
 一些媒体文件，比如音乐或视频等，在下载的过程中会丢失；文章中的图片如果过大也有丢失的可能性。
 

@@ -129,7 +129,7 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ### Crossover：混合同人
 
-[如何筛选混合同人？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
+[如何筛选混合同人？](ru-he-chi-fan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
 
 指的是内容包含两个及以上圈子（[Fandom](ao3-da-zi-dian.md#fandom-quan-zi)）的同人，比如哈利波特出现在漫威宇宙、亚当斯一家移居哥谭这种梦幻联动。如果只是单纯HPAU的漫威同人，则标注为AU，不属于混同。
 
@@ -217,7 +217,7 @@ Fandom也可以指一个大型集成粉丝wiki网站，网址是[https://www.fan
 
 ### Filter：筛选
 
-[如何使用筛选功能？](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/shai-xuan-gong-neng-filter.md)
+[如何使用筛选功能？](ru-he-chi-fan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/shai-xuan-gong-neng-filter.md)
 
 在搜索作品的过程中，Filter（筛选）功能可以帮助你更精准地定位想要的结果。
 

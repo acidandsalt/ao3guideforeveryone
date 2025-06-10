@@ -1,6 +1,6 @@
 # 如何点开作品
 
-当你找到你想阅读的作品之后，点击它的<mark style="color:red;">**标题**</mark>——一般而言是显示在最前面的那个含超链接的部分。
+当你找到你想阅读的作品之后，点击它的<mark style="color:red;">**标题**</mark>——一般而言是显示在最前面的那个含超链接的部分。点击过一次后，标题超链接会变成灰色，表示你已经进入过这个链接。
 
 <figure><img src="../.gitbook/assets/MEITU_20250609_175249551.jpg" alt="" width="375"><figcaption></figcaption></figure>
 

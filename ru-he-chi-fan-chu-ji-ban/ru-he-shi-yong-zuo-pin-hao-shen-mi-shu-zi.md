@@ -8,8 +8,8 @@
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>单章节作品</p></figcaption></figure>
 
-即「https://archiveofourown.org/works/一串数字」，这「一串数字」就是作品号，知道了作品号就可以直接靠输入网址打开作品。
+即<mark style="color:red;">https://archiveofourown.org/works/一串数字</mark>，这「一串数字」就是作品号，知道了作品号就可以直接靠输入网址打开作品。
 
-假如你可以打开原站，请复制「**https://archiveofourown.org/works/**」然后将那串数字加在后面即可。
+假如你可以打开原站，请复制<mark style="color:red;">**https://archiveofourown.org/works/**</mark>然后将那串数字加在后面即可。
 
-假如你使用的是镜像网站，则把「**archiveofourown.org**」换成你使用的镜像网站的域名。
+假如你使用的是镜像网站，则把<mark style="color:red;">**archiveofourown.org**</mark>换成你使用的镜像网站的域名。

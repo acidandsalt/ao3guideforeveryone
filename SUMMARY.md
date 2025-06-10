@@ -23,7 +23,7 @@
   * [作者主页内筛选](ru-he-chi-fan-chu-ji-ban/sou-suo-ji-ben-fa-search/zuo-zhe-zhu-ye-nei-shai-xuan.md)
 * [如何点开作品](ru-he-chi-fan-chu-ji-ban/ru-he-dian-kai-zuo-pin.md)
 * [如何使用作品号（神秘数字）](ru-he-chi-fan-chu-ji-ban/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)
-* [如何阅读作品](ru-he-chi-fan-chu-ji-ban/ru-he-yue-du-zuo-pin.md)
+* [作品内按钮功能](ru-he-chi-fan-chu-ji-ban/zuo-pin-nei-an-niu-gong-neng.md)
 * [如何下载作品](ru-he-chi-fan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
 * [巧用他人书签](ru-he-chi-fan-chu-ji-ban/qiao-yong-ta-ren-shu-qian.md)
 * [※搜索框里的大学问](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-li-de-da-xue-wen.md)

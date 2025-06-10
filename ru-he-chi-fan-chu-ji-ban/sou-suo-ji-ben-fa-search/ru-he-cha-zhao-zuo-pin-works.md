@@ -58,20 +58,21 @@ description: 精准定位你想看的类型
 
 > 答：
 >
-> 在Title栏填写**花吐症**，在Author栏填写**abc**，点Search。
+> 在Title栏填写**花吐症**，在Author栏填写**abc**，点`Search`。
 >
 > 答：
 >
-> 1. 在Completion status勾选**Complete works only，**&#x53EA;看完结
-> 2. 在Crossover栏勾选**Exclude crossovers，**&#x4E0D;看联动
-> 3. 在Word Count栏填&#x5199;**<50000，**&#x5C11;于五万字
-> 4. 在Language栏选择**中文-普通话 国语，**&#x4E2D;文作品
-> 5. 在Ratings栏选择**Explicit，**&#x6210;人级
-> 6. 在Warnings栏选择**Major Character Death，**&#x4E3B;要人物死亡
-> 7. 在Characters栏填入**C，**&#x5305;含角色C
-> 8. 在Relationships栏填入**A/B，**&#x987A;序是首字母原因
-> 9. 在Additional Tags栏填入**angst，**&#x8650;心
-> 10. 最后在Sort by栏选择**Kudos，**&#x6309;赞数排序
-> 11. 点击Search
+> 1. 在Completion status勾选**Complete works only**（只看完结）
+> 2. 在Crossover栏勾选**Exclude crossovers**（不看联动）
+> 3. 在Word Count栏填&#x5199;**<50000**（少于五万字）
+> 4. 在Language栏选择**中文-普通话 国语**（中文作品）
+> 5. 在Ratings栏选择**Explicit**（成人级）
+> 6. 在Fandom栏填写**xxxx**（作品圈子名）
+> 7. 在Warnings栏选择**Major Character Death**（主要人物死亡）
+> 8. 在Characters栏填入**C**（包含角色C）
+> 9. 在Relationships栏填入**A/B**（顺序是首字母原因）
+> 10. 在Additional Tags栏填入**angst**（虐心）
+> 11. 最后在Sort by栏选择**Kudos**（按赞数排序）
+> 12. 点击`Search`
 >
 > 当然，这是一个具体到夸张的例子，一般搜索时只需要填写2-3个栏目，后续可以再用Filter继续筛选或看Tag筛选。

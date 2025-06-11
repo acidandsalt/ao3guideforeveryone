@@ -12,17 +12,17 @@ description: 对AO3的几个主要界面进行标注。
 
 **未登录的用户**看到的界面是这样的↓
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption><p>未登录用户</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/21f3832052a9624cf5acfce048994678.jpg" alt="" width="375"><figcaption><p>未登录用户</p></figcaption></figure>
 
 **登录用户**看到的是这样的↓
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt="" width="563"><figcaption><p>登录用户</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/f9852fec913b5ada4b17ebf053415056.jpg" alt="" width="375"><figcaption><p>登录用户</p></figcaption></figure>
 
-关于收藏Tag，请参见→[如何收藏标签](../ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
+关于收藏标签，请参见→[如何收藏标签](../ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
 
-关于搜索框的使用，请参见→[※搜索框里的大学问](sou-suo-kuang-zuo-bi-fa-xiang-jie.md)
+关于搜索框的使用，请参见→[※内嵌搜索运算符](nei-qian-sou-suo-yun-suan-fu.md)
 
-PS. 如果想让AO3记住密码自动登录，勾选登录框里的“Remember me”选项。
+PS. 如果想让AO3记住密码自动登录，勾选登录框里的`Remember me`选项。
 {% endtab %}
 
 {% tab title="同人圈" %}

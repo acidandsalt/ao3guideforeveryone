@@ -6,7 +6,7 @@ description: 欢迎来到新世界！
 
 本章节针对的是有AO3账号的注册用户。
 
-你们可以享受到
+你们可以享受到：
 
 * 无障碍阅读所有作品
 * [收藏标签](ru-he-shou-cang-biao-qian.md)

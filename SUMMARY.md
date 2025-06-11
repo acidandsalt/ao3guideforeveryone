@@ -26,7 +26,7 @@
 * [作品内按钮功能](ru-he-chi-fan-chu-ji-ban/zuo-pin-nei-an-niu-gong-neng.md)
 * [如何下载作品](ru-he-chi-fan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
 * [如何利用他人的书签](ru-he-chi-fan-chu-ji-ban/ru-he-li-yong-ta-ren-de-shu-qian.md)
-* [※搜索框作弊法详解](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-zuo-bi-fa-xiang-jie.md)
+* [※内嵌搜索运算符](ru-he-chi-fan-chu-ji-ban/nei-qian-sou-suo-yun-suan-fu.md)
 * [Q\&A](ru-he-chi-fan-chu-ji-ban/q-and-a.md)
 
 ## 🥘 如何吃饭（进阶版）

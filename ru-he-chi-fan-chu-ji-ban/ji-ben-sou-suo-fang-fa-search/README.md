@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/MEITU_20250609_142332505.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-如何使用搜索框实现精准搜索在这里讲解→[※搜索框里的大学问](../sou-suo-kuang-zuo-bi-fa-xiang-jie.md)
+如何使用搜索框实现精准搜索在这里讲解→[※搜索框里的大学问](../nei-qian-sou-suo-yun-suan-fu.md)
 
 在进行搜索之前，请确认你已经对AO3有了最最基本的了解——没有也没关系，只要你知道你想要什么，跟着教程点就没错。
 

@@ -27,19 +27,23 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 ### 方法一：邮件方法
 
-1. 挂梯子打开原网址[https://archiveofourown.org](https://archiveofourown.org)后，点击首页上的`Get Invited`按钮。
+1. 挂梯子打开原网址[https://archiveofourown.org](https://archiveofourown.org)后，点击首页上的`Get Invited!`按钮。
 
-![AO3主界面的截图，底部有一个Get Invited！按钮，点击它。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site_1/step1.jpg)
+<figure><img src=".gitbook/assets/ee12fe142b5ad1547222949947501c9d.png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. 在输入框内填写邮箱（任何邮箱都可以）并点击`Add me to the list`按钮。
+2. 在输入框内填写邮箱（任何邮箱都可以，但出于安全考虑建议使用不会绑定个人身份的邮箱如Outlook或Gmail）并点击`Add me to the list`按钮。
 
-![在新页面填写邮箱，然后点击Add me to the list按钮。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site_1/step2.jpg)
+<figure><img src=".gitbook/assets/de7102fcec59e119a9b06fefee57a3fc.png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. 界面顶部出现<mark style="background-color:blue;">「You've been added to our queue!」</mark>的蓝色消息框的时候，证明你已经排上队了。AO3将以5000条/12小时的速度发放邀请，按照预期的时间等待邮件就可以。
+3.  界面顶部出现<mark style="background-color:blue;">「You've been added to our queue!」</mark>的蓝色消息框的时候，证明你已经排上队了。AO3将以5000条/12小时的速度发放邀请（并不是均匀发送的，人数不一定时刻变化）。
 
-![界面顶部出现“You've been added to our queue!”的蓝色消息框的时候，证明你已经排上队了。](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site_1/step3.jpg)
+    消息框中，<mark style="color:red;">红线标示的是预计收到邮件的时间</mark>；黑线标示的是会给你发送邮件的邮箱。如果希望能正常收到邮件，避免邮件被拦截或进入垃圾箱，可以先把<mark style="color:blue;">do-not-reply@archiveofourown.org</mark>加入邮箱联系人或白名单。
 
-4. 在将近一个周之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的<mark style="color:red;">follow this link to sign up</mark>，挂好梯子并点击。接下来，你就可以进入[创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)步骤了。
+<figure><img src=".gitbook/assets/652d016dde277c5c3dd11e1b79700768.png" alt="" width="563"><figcaption></figcaption></figure>
+
+4. 在漫长的等待之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的<mark style="color:red;">follow this link to sign up</mark>，挂好梯子并点击。接下来，你就可以进入[创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)步骤了。
+
+
 
 ![](<.gitbook/assets/image (2) (1) (1).png>)
 

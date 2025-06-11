@@ -55,7 +55,7 @@ description: 手册内容快速检索。
 9. [作品内按钮功能](ru-he-chi-fan-chu-ji-ban/zuo-pin-nei-an-niu-gong-neng.md)
 10. [如何下载作品](ru-he-chi-fan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
 11. [如何利用他人的书签](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
-12. [※搜索框作弊法详解](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-zuo-bi-fa-xiang-jie.md)
+12. [※内嵌搜索运算符](ru-he-chi-fan-chu-ji-ban/nei-qian-sou-suo-yun-suan-fu.md)
 13. [Q\&A](ru-he-chi-fan-chu-ji-ban/q-and-a.md)
 
 </details>

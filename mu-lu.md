@@ -35,7 +35,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>四、</strong><a href="broken-reference"><strong>如何吃饭（初级版）</strong></a>——主要面向无账号浏览者的看文教<em>程</em></summary>
+<summary><strong>四、</strong><a href="broken-reference"><strong>如何吃饭（初级版）</strong></a>——主要面向无账号浏览者的看文教程</summary>
 
 1. [前言](ru-he-chi-fan-chu-ji-ban/qian-yan.md)
 2. [网页翻译中文](ru-he-chi-fan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
@@ -55,7 +55,7 @@ description: 手册内容快速检索。
 9. [作品内按钮功能](ru-he-chi-fan-chu-ji-ban/zuo-pin-nei-an-niu-gong-neng.md)
 10. [如何下载作品](ru-he-chi-fan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
 11. [如何利用他人的书签](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
-12. [※搜索框里的大学问](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-li-de-da-xue-wen.md)
+12. [※搜索框作弊法详解](ru-he-chi-fan-chu-ji-ban/sou-suo-kuang-zuo-bi-fa-xiang-jie.md)
 13. [Q\&A](ru-he-chi-fan-chu-ji-ban/q-and-a.md)
 
 </details>

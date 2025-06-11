@@ -146,7 +146,7 @@ words:1000-5000（1000字到5000字之间的作品）
 
 如果我想找到一篇配对为A/B且没有其他配对的、标签中含有「小甜饼」、字数在5000以下的作品，并按点赞数由高到低排序，那么我的搜索输入为：
 
-<mark style="color:green;">A/B</mark> <mark style="color:orange;">AND</mark> <mark style="color:green;">fluff</mark> <mark style="color:orange;">otp: true</mark> <mark style="color:purple;">words<5000</mark> <mark style="color:yellow;">sort:kudos</mark>
+<mark style="color:green;">A/B</mark> <mark style="color:orange;">AND</mark> <mark style="color:green;">fluff</mark> <mark style="color:red;">otp: true</mark> <mark style="color:purple;">words<5000</mark> <mark style="color:blue;">sort:kudos</mark>
 
 
 

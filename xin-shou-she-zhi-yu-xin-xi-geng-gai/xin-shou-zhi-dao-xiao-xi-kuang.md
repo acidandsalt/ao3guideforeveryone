@@ -4,9 +4,9 @@ description: 在完成注册之后，你会看到在你的Dashboard（个人主�
 
 # 新手指导消息框
 
-长这样↓
+长这样：
 
-![](https://cdn.jsdelivr.net/gh/acidandsalt/ohsnap/site\_1/banner.png)
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt="" width="440"><figcaption></figcaption></figure>
 
 这就是新手指导。
 

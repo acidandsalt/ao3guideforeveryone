@@ -63,23 +63,25 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 1. 点开自己的**个人主页（Dashboard）**，找到`Invitations`按钮并点击。
 
-<img src=".gitbook/assets/image (6) (1) (2).png" alt="" data-size="original">
+<figure><img src=".gitbook/assets/image (6) (1) (2).png" alt="" width="329"><figcaption></figcaption></figure>
 
-界面如图所示↓
+界面如图所示：
 
-![](<.gitbook/assets/image (1) (3).png>)
+<figure><img src=".gitbook/assets/image (26) (1).png" alt="" width="367"><figcaption></figcaption></figure>
 
 2. 向受邀者发送邀请码有三种方法。
 
-**方法一：**&#x5728;Email address中填入被邀请者想要用来注册的邮箱，选择一个邀请码，然后点击`Send Invitation`。之后应该跳转到这个界面↓
+**方法一：**&#x5728;Email address中填入被邀请者想要用来注册的邮箱，选择一个邀请码，然后点击`Send Invitation`。之后应该跳转到这个界面：
 
-![](.gitbook/assets/MTXX_MH20230313_113908201.jpg)
+<figure><img src=".gitbook/assets/MTXX_MH20230313_113908201.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-不久，被邀请者就应该收到一封邮件↓
+不久，被邀请者就应该收到一封邮件：
 
-![](<.gitbook/assets/image (36).png>)
+<figure><img src=".gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
 
 请ta找到如图的<mark style="color:red;">follow this link to sign up</mark>，**挂好梯子**并点击。接下来的操作请参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
+
+
 
 **方法二：**&#x5982;图，在Invite a friend界面选择`Manage Invitations`和`Unsent`。然后，复制`copy and use`这个超链接的网址（不是点开！是复制链接！）。
 
@@ -89,7 +91,9 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 最后把链接发给你想邀请的人，请ta点开链接按照「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」操作即可（**别忘了挂梯子**）。
 
-<img src=".gitbook/assets/image (40).png" alt="" data-size="original">
+<figure><img src=".gitbook/assets/image (43).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
 
 **方法三：**&#x76F4;接把邀请码那一长串字符复制并发送给被邀请者，请对方**挂好梯子**，在浏览器的地址栏输入「https://archiveofourown.org/signup/####」，并将「####」替换为邀请码字符串；替换完成后的链接会导向注册页面。接下来的操作参见「[如何创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)」。
 
@@ -122,11 +126,11 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 最后点击`Create Account`就可以了。
 
-![](.gitbook/assets/MTXX_MH20230313_115645155.jpg)
+<figure><img src=".gitbook/assets/MTXX_MH20230313_115645155.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/image (7) (1).png>)
+<figure><img src=".gitbook/assets/image (7) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
-![](<.gitbook/assets/image (11).png>)
+<figure><img src=".gitbook/assets/image (11).png" alt="" width="369"><figcaption></figcaption></figure>
 
 在这之后你来到了一个告诉你**Almost Done!**&#x7684;界面，这意味着你即将收到第二封邮件。
 
@@ -146,11 +150,13 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 ### 怎么查看我有没有排上队？
 
-打开第二步中的页面，点击标黄的链接<mark style="color:red;">check your position on the waiting list</mark>。标红的数字是表示现在有多少人在排队。
+点击首页上的`Get Invited!`按钮，打开**Request an invitation**页面，点击下图标黄的链接<mark style="color:red;">check your position on the waiting list</mark>。标红的数字是表示现在有多少人在排队。
 
-<figure><img src=".gitbook/assets/image (24) (2).png" alt="" width="481"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="481"><figcaption></figcaption></figure>
 
-在新界面中填入你申请用的邮箱，然后点击`Look me up`，下方即会出现查询结果。
+在空白框中填入**你申请用的邮箱**，然后点击`Look me up`，下方即会出现查询结果。
+
+<figure><img src=".gitbook/assets/image (46).png" alt="" width="485"><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (25) (1).png" alt="" width="485"><figcaption></figcaption></figure>
 

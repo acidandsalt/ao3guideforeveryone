@@ -1,21 +1,23 @@
 ---
-description: 惟手熟尔。
+description: 惟手熟尔！
 ---
 
-# 发文百科
+# 发布百科
 
-面对AO3复杂的发布界面，望而却步者有之，怨声载道者有之，赞不绝口者有之。无论如何，如此体量的创作平台，手续多是一种必然。这一节的目的就是厘清这「一团乱麻」，帮助任何有意加入AO3社群的创作者实现无障碍发文。
+对于用惯社媒发布平台的人来说，AO3的作品发布界面显得过于复杂；然而只要初步了解那些单词的含义，你完全可以丝滑地进行作品发布。
 
-如果准备好了，就点开神圣的`Post`按钮吧！
+为了你的产品——点开神圣的`Post`按钮吧！
 
-![](../../.gitbook/assets/Screenshot\_20230313\_195516.jpg)
+<figure><img src="../../.gitbook/assets/770d278fad71c4059a93aa064147f033.png" alt="" width="468"><figcaption></figcaption></figure>
 
 然后点击`New Work`，来到发布新作品的页面。
 
-![](../../.gitbook/assets/MTXX\_MH20230313\_195648015.jpg)
+<figure><img src="../../.gitbook/assets/b1d83b42dc3993a5bb10f3f2a94a0413.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/MTXX\_MH20230313\_195952235.jpg)
+Import Work和From Draft选项之后再介绍。
+
+<figure><img src="../../.gitbook/assets/MTXX_MH20230313_195952235.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-**注意：填写在这里的内容不会自动保存，一刷新就会消失，请务必自己留有备份！**
+<mark style="color:red;">**注意：填写在发布页的内容不会自动保存，一刷新就会消失，请务必自己留有备份！**</mark>
 {% endhint %}

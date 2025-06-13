@@ -18,7 +18,9 @@ description: 学名叫「Fannish Next-of-kin」——同好近亲协议
 
 **第二步：**&#x5982;图填写用户名、邮箱、语言、主题和内容，最后点击送出。
 
-![](../.gitbook/assets/MTXX_MH20230314_124941522.jpg)
+
+
+![](broken-reference)
 
 如果你和你指定的同好近亲都收到了邮件，那就说明协议成立了。
 

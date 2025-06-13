@@ -68,7 +68,7 @@ Characters和Relationships同理：勾选你想看的项目。
 
 
 
-> 如果想要学习如何去除任何不想看到的内容，继续阅读→[挥之即去](shai-xuan-gong-neng-filter.md#hui-zhi-ji-qu)
+> 如果想要了解如何去除任何不想看到的内容，继续阅读→[挥之即去](shai-xuan-gong-neng-filter.md#hui-zhi-ji-qu)
 {% endtab %}
 
 {% tab title="挥之即去" %}

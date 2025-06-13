@@ -30,11 +30,11 @@ description: 比如：《哈利波特》和SPN的联动同人该怎么搜？
 
 **第二步：**&#x5728;Include→Fandom里面找到SPN的标签并勾选。
 
-<img src="../../.gitbook/assets/image (18).png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/image (18).png" alt="" width="184"><figcaption></figcaption></figure>
 
 在More Options→Crossover中选择`Show only crossovers`（只显示混合同人）。
 
-![](<../../.gitbook/assets/image (21).png>)
+<figure><img src="../../.gitbook/assets/image (21).png" alt="" width="230"><figcaption></figcaption></figure>
 
 根据自己的喜好定义排序或语言。
 

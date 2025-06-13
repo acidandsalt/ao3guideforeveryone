@@ -5,7 +5,7 @@ description: 共有六项，缺一不可。
 # 必填项
 
 {% hint style="danger" %}
-<mark style="color:red;">**注意：填写在这里的内容不会自动保存，一刷新就会消失，请务必自己留有备份！**</mark>
+<mark style="color:red;">**注意：填写在发布页的内容不会自动保存，一刷新就会消失，请务必自己留有备份！**</mark>
 {% endhint %}
 
 按照自上而下的顺序：

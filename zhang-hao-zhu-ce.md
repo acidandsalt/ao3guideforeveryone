@@ -43,11 +43,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 4. 在漫长的等待之后，你收到了第一封邮件！（如果没有，找找邮件垃圾箱。）找到邮件里的<mark style="color:red;">follow this link to sign up</mark>，挂好梯子并点击。接下来，你就可以进入[创建账号](zhang-hao-zhu-ce.md#ru-he-chuang-jian-zhang-hao)步骤了。
 
-
-
-![](<.gitbook/assets/image (2) (1) (1).png>)
-
-
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### 方法二：邀请码法
 
@@ -134,15 +130,15 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 在这之后你来到了一个告诉你**Almost Done!**&#x7684;界面，这意味着你即将收到第二封邮件。
 
-![](.gitbook/assets/MTXX_MH20230316_085757484.jpg)
+<figure><img src=".gitbook/assets/MTXX_MH20230316_085757484.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 在第二封邮件中寻找<mark style="color:red;">follow this link to activate your account</mark>，**挂好梯子**，点击它。
 
-![](.gitbook/assets/MTXX_MH20230316_090016400.jpg)
+<figure><img src=".gitbook/assets/MTXX_MH20230316_090016400.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 此时你来到一个顶端有蓝色消息框告诉你<mark style="background-color:blue;">「Account activation complete! Please log in.」</mark>的界面。第一行填的是用户名或邮箱，第二行填写密码；勾选`Remember me`的话下一次打开网站会自动登录。最后点击`Log in`，你面前的就是完全体的AO3了。
 
-![](.gitbook/assets/MTXX_MH20230316_091957776.jpg)
+<figure><img src=".gitbook/assets/MTXX_MH20230316_091957776.jpg" alt="" width="345"><figcaption></figcaption></figure>
 
 
 
@@ -152,7 +148,7 @@ description: 目前，账号注册只能在原网址进行，镜像网站无法�
 
 点击首页上的`Get Invited!`按钮，打开**Request an invitation**页面，点击下图标黄的链接<mark style="color:red;">check your position on the waiting list</mark>。标红的数字是表示现在有多少人在排队。
 
-<figure><img src="broken-reference" alt="" width="481"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24) (1).png" alt="" width="481"><figcaption></figcaption></figure>
 
 在空白框中填入**你申请用的邮箱**，然后点击`Look me up`，下方即会出现查询结果。
 
@@ -178,16 +174,16 @@ AO3基本每时每刻都在有新的加入者，排队人数以万计量，即�
 
 如果提示<mark style="color:red;">「Login has been taken」</mark>或<mark style="color:red;">「登录已经被接受」</mark>意味着用户名重复，请更换注册用户名。
 
-![](.gitbook/assets/MTXX_MH20230316_084716448.jpg)
+<figure><img src=".gitbook/assets/MTXX_MH20230316_084716448.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Login must begin and end with a letter or number; it may also contain underscores but no other characters
 
 用户名含有非法字符或用下划线开头结尾了。
 
-![](.gitbook/assets/MTXX_MH20230316_085033452.jpg)
+<figure><img src=".gitbook/assets/MTXX_MH20230316_085033452.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Password confirmation doesn't match new password
 
 第二遍密码输错了。
 
-![](<.gitbook/assets/image (8) (3).png>)
+<figure><img src=".gitbook/assets/image (8) (3).png" alt="" width="424"><figcaption></figcaption></figure>

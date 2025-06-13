@@ -1,5 +1,5 @@
 ---
-description: 旧时代之光。
+description: 旧时代之光
 ---
 
 # RSS订阅
@@ -12,21 +12,17 @@ description: 旧时代之光。
 
 RSS曾经红极一时，然而在各类公众号盛行、社交网络疯狂迭代的当今，RSS已经快要退出大众的视野。
 
-扯远了，扯远了。咱们还是就讲AO3的RSS订阅。
+AO3也配备了RSS订阅系统。
 
 ## RSS订阅的作用是什么？
 
-只要你能**翻墙**，一个RSS阅读器就能让你追踪任何**通用标签**的作品发布动态。在把通用标签加入你的RSS阅读器之后，你就能实时地接收到标签的更新信息，比如：
+只要你能**翻墙**，一个RSS阅读器就能让你追踪任何**通用标签**的作品发布动态。在把通用标签加入你的RSS阅读器之后，你就能实时地接收到标签的更新信息，比如我在电脑上使用irreader时会收到这样的弹窗：
 
-![](../.gitbook/assets/MTXX\_MH20230315\_190900545.jpg)
-
-![](../.gitbook/assets/MTXX\_MH20230315\_190724458.jpg)
-
-这就是我在电脑上使用irreader时的弹窗提示。
+<figure><img src="../.gitbook/assets/MTXX_MH20230315_190900545.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 阅读界面是这样：
 
-<figure><img src="../.gitbook/assets/MTXX_MH20230315_192501682.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MTXX_MH20230315_192501682.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 基本就是把游客浏览的网页集成到你的阅读器里，你也可以点击右上角的Log in登录阅读受限制的作品。
 
@@ -34,12 +30,12 @@ RSS曾经红极一时，然而在各类公众号盛行、社交网络疯狂迭�
 
 首先：下载一个RSS阅读器，注册账号。有手机上用的也有电脑上用的，知乎有不少相关的[帖子](https://www.zhihu.com/topic/19551894/hot)。具体步骤就不在这里讲了，搜一搜都能学会。
 
-其次：在你想订阅的通用标签页面点击「RSS feed」按钮。
+其次：在你想订阅的通用标签页面点击`RSS feed`按钮。
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (2).png>)
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (2).png" alt="" width="368"><figcaption></figcaption></figure>
 
 第三：在打开的网页中，复制地址栏里的网址。
 
-![](<../.gitbook/assets/image (1) (2).png>)
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt="" width="428"><figcaption></figcaption></figure>
 
 第四：找到你的RSS阅读器里「添加自定义源」的地方，用这个网址订阅即可。

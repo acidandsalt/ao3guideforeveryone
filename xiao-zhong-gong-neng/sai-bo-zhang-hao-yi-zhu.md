@@ -20,8 +20,6 @@ description: 学名叫「Fannish Next-of-kin」——同好近亲协议
 
 
 
-![](broken-reference)
-
 如果你和你指定的同好近亲都收到了邮件，那就说明协议成立了。
 
 注意：这个协议不是双向的，被你指定为next-of-kin的人，其next-of-kin不一定是你。

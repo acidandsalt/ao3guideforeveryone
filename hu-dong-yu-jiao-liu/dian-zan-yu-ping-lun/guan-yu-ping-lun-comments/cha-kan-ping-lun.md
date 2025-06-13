@@ -1,27 +1,21 @@
 # 查看评论
 
-在拥有评论的作品略缩图上会显示「Comments：数字」的字样，点击数字即可查看所有评论。
+如果一部作品有人评论，在它的略缩图上会显示「Comments：数字」的字样，点击数字即可查看所有评论。
 
-![](../../../.gitbook/assets/MTXX\_MH20230315\_151548992.jpg)
+<figure><img src="../../../.gitbook/assets/MTXX_MH20230315_151548992.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-如果你已经在作品页面之内，可以点击上方的`Comments`按钮。若其转换`Hide Comments`为即说明评论区已展开。
+如果你已经在作品页面之内，可以点击页面上方的`Comments`按钮展开评论区。若按钮是`Hide Comments`，说明评论区已展开。
 
-![](../../../.gitbook/assets/MTXX\_MH20230315\_151701340.jpg)
+<figure><img src="../../../.gitbook/assets/MTXX_MH20230315_151701340.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-当你在消息箱内查看一条评论时，点击评论者的名字会让你进入ta的主页；如果无法点击说明是游客评论，用户名是自由填写的。
+当你在消息箱内查看一条评论时，点击评论者的名字会让你进入ta的主页；如果无法点击说明是游客评论，用户名是游客自由填写的。
 
-点击作品名称会让你看见这条评论和回复它的评论；`Thread`按钮同理。
+点击作品名称会让你看见这条评论和它下面的回复；`Thread`按钮同理。
 
-![](../../../.gitbook/assets/MTXX\_MH20230323\_101916320.jpg)
+<figure><img src="../../../.gitbook/assets/QQ_1749805498946.png" alt="" width="452"><figcaption></figcaption></figure>
 
-像这样↓
+会跳转到这个页面：
 
-![](../../../.gitbook/assets/MTXX\_MH20230323\_102029319.jpg)
+<figure><img src="../../../.gitbook/assets/QQ_1749805610698.png" alt="" width="312"><figcaption></figcaption></figure>
 
-如果你点击`Parent Thread`，则会显示它的上一条评论。
-
-![](../../../.gitbook/assets/MTXX\_MH20230323\_102629595.jpg)
-
-像这样↓
-
-![](../../../.gitbook/assets/MTXX\_MH20230323\_102425799.jpg)
+点击`Parent Thread`，则会显示此评论的上一条评论。

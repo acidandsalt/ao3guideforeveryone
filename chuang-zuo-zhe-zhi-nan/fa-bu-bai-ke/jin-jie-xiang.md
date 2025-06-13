@@ -50,7 +50,7 @@ description: 共有18项，自行定夺。
 
 ## 关联设置（Associations）
 
-9. **Post to Collections / Challenges：**&#x628A;作品加入某个合集/挑战；这一项的主要作用是[匿名发文](ni-ming-fa-wen.md)或[参加活动](../he-ji-yu-tiao-zhan-sai.md)。
+9. **Post to Collections / Challenges：**&#x628A;作品加入某个合集/挑战；这一项的主要作用是[匿名发文](ni-ming-fa-wen-anonymous.md)或[参加活动](../he-ji-yu-tiao-zhan-sai.md)。
 10. **Gift this work to：**&#x628A;这篇作品赠送给某人；有时基于某二创作品的三创会在这里填写原作者的名字作为[credit](../../ao3-da-zi-dian.md#credit-yuan-zuo-zhe-shi)。
 
 <figure><img src="../../.gitbook/assets/MTXX_MH20230313_211608667.jpg" alt="" width="375"><figcaption></figcaption></figure>

@@ -167,7 +167,7 @@ AO3的合集功能略微有点类似LOFTER的粮单。合集里面可以收集�
 
 ### Draft：草稿箱
 
-[如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ru-he-bao-cun-wei-cao-gao.md)
+[如何把作品保存为草稿](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/bao-cun-cao-gao-draft.md)
 
 AO3支持草稿箱暂存功能。但是需要注意，单独成篇的作品，从创建开始，草稿只能保存一个月！而且如果你在发布时不重新选择日期，正式发布的日期将会被设置为你创建草稿的那一天。
 
@@ -450,7 +450,7 @@ Pro被作为Problematic的简写使用，意味着「有问题的」；Proshippe
 
 你可以在自己注册的用户名下创建新的子博（目前没有查到是否有数量限制），这个子博的名字可以与其他用户重复，因为它会和你的主用户名关联，显示成「子博名（主用户名）」的形式，避免混淆。
 
-子博可以设置成你其他平台的用户名以方便读者在AO3找到你，也可以用来归类存储不同圈子的作品、书签。任何人都可以通过你的子博找到你的主账户，因此如果想要避免某些作品与自己的主账户关联的话，更合适的方式是[匿名发表](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ni-ming-fa-wen.md)或用不同的邮箱创建一个新账号。
+子博可以设置成你其他平台的用户名以方便读者在AO3找到你，也可以用来归类存储不同圈子的作品、书签。任何人都可以通过你的子博找到你的主账户，因此如果想要避免某些作品与自己的主账户关联的话，更合适的方式是[匿名发表](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/ni-ming-fa-wen-anonymous.md)或用不同的邮箱创建一个新账号。
 
 ### PWP：纯肉
 
@@ -516,7 +516,7 @@ AO3的正文编辑有[HTML](ao3-da-zi-dian.md#html-chao-wen-ben-biao-ji-yu-yan)�
 
 ### Series：系列文
 
-[如何创建系列文？](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/guan-yu-xi-lie.md)
+[如何创建系列文？](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/guan-yu-xi-lie-series.md)
 
 类似于国内平台的合集功能，一般用于存放同属于一个世界观/AU/故事设定下的作品。
 

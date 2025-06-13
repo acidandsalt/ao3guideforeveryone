@@ -77,7 +77,7 @@ description: 找到你家的tag就找到了粮仓
 {% hint style="warning" %}
 **注意：**&#x5047;如你点开的Tag界面是这样↓
 
-![](broken-reference)
+<img src="../../.gitbook/assets/image (20).png" alt="" data-size="original">
 
 说明这个标签尚未没标记为通用标签，无法[收藏](../../ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)也无法进行[筛选](shai-xuan-gong-neng-filter.md)操作。
 {% endhint %}

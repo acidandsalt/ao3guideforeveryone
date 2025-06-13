@@ -17,13 +17,13 @@
 请注意：每次编辑后，被评论的人会收到新的消息提醒，谨慎使用。
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/MTXX_MH20230323_103223784.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="375"><figcaption></figcaption></figure>
 
 ## 删除评论
 
 点击`Delete`按钮即可。
 
-<figure><img src="../../../.gitbook/assets/MTXX_MH20230323_103626108.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt="" width="375"><figcaption></figcaption></figure>
 
 请注意：如果你的评论已经被回复，删除你的评论并不会导致底下的回复消失，而是会使用「Previous comment deleted」的占位符代表你被删除的评论。如：
 

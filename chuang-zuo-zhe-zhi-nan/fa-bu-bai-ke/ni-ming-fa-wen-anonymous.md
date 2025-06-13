@@ -32,7 +32,7 @@
 
 匿名的作品并不会出现在你的作品列表中，你可以在作品页面的`Works in Collections`中查看它们。
 
-![](../../.gitbook/assets/Screenshot_20230324_105924.jpg)
+![](broken-reference)
 
 ### 如果我想解除一篇作品的匿名，又不想让它和我现在的账户关联怎么办呢？
 

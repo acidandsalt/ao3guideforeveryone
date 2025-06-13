@@ -4,11 +4,11 @@ AO3没有查看kudos记录的功能，所以为了不忘记辛辛苦苦淘来的
 
 想要收藏一篇作品，只需要进入作品页面，然后点击上方的`Bookmark`按钮即可。
 
-![](../.gitbook/assets/Screenshot_20230324_113539.jpg)
+<figure><img src="../.gitbook/assets/Screenshot_20230324_113539.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 你可以对书签进行自定义，也可以什么都不填。
 
-![](../.gitbook/assets/MTXX_MH20230324_215306266.jpg)
+<figure><img src="../.gitbook/assets/MTXX_MH20230324_215306266.jpg" alt="" width="340"><figcaption></figcaption></figure>
 
 一个书签分为「原作品信息」和「书签添加者信息」。
 
@@ -22,12 +22,8 @@ AO3没有查看kudos记录的功能，所以为了不忘记辛辛苦苦淘来的
 
 你也可以收藏站外作品，只需点击上图中的`Bookmark External Work`按钮，然后在新出现的页面内按要求填写即可。
 
-![](../.gitbook/assets/MTXX_MH20230324_220250737.jpg)
+<figure><img src="../.gitbook/assets/MTXX_MH20230324_220250737.jpg" alt="" width="325"><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/MTXX_MH20230324_220454425.jpg)
+<figure><img src="../.gitbook/assets/MTXX_MH20230324_220454425.jpg" alt="" width="323"><figcaption></figcaption></figure>
 
-
-
-【注】：由于创建书签有一定的延迟，有时数字的显示会有差别。
-
-![](<../.gitbook/assets/image (1) (1).png>)
+【注】：由于创建书签有一定的延迟，有时不同区域数字的显示会有差别。

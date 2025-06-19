@@ -13,4 +13,4 @@
 
 基本格式如下：
 
-Hello, thank you for this beautiful work! I wonder if you can give me permission to translate this work into Chinese so I can share it with more Chinese fans. I will not profit from it and I will post the translation with proper credit and a link back to this original work. If you have any rules for translation, like you only want it posted on AO3, please tell me. It's all up to you and I will respect you choice. Thank you again for your wonderful work!
+Hello, thank you for this beautiful work! I wonder if you can give me permission to translate this work into Chinese so I can share it with more Chinese fans. I will not profit from it and will post the translation with proper credit and a link back to this original work. If you have any rules for translation, like you only want it posted on AO3, please tell me. It's all up to you and I will respect you choice. Thank you again for your wonderful work!

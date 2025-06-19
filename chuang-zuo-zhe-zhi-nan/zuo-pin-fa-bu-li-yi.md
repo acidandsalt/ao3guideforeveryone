@@ -1,5 +1,6 @@
 ---
 description: 郑重声明：仅为个人建议，无意教人做事。
+hidden: true
 ---
 
 # 作品发布礼仪

@@ -12,6 +12,8 @@ description: 一些说明。
 <mark style="color:red;">**本手册从未于公开平台正式发布/宣传，仅私下小范围与同好分享过，其内容并未经过专业检视；**</mark>
 
 <mark style="color:red;">**本手册仍然是Beta版（半成品），仍然处于漫长的修订增补过程中，请以尽信书不如无书的态度阅读此手册。**</mark>
+
+<mark style="color:red;">**\*作者从未在此网站投放任何广告，若有广告出现，请谨慎甄别。**</mark>
 {% endhint %}
 
 > [**遇事不决先翻译，看懂解忧九成九。**](#user-content-fn-1)[^1]

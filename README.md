@@ -15,7 +15,7 @@ description: 一些说明。
 
 <mark style="color:red;">**\*作者从未在此网站投放任何广告，若有广告出现，请谨慎甄别。**</mark>
 
-<mark style="color:red;">**\*本手册的唯一原地址为【**</mark>[<mark style="color:red;">**https://ava-inc.gitbook.io/ao3guideforeveryone**</mark>](https://ava-inc.gitbook.io/ao3guideforeveryone)<mark style="color:red;">**】**</mark>[<mark style="color:red;">**除此之外的一切网站**</mark>](#user-content-fn-1)[^1]<mark style="color:red;">**均非作者本人制作。**</mark>
+<mark style="color:red;">**\*本手册的唯一原地址为【**</mark>[<mark style="color:red;">**https://avainc.gitbook.io/ao3guideforeveryone**</mark>](https://avainc.gitbook.io/ao3guideforeveryone)<mark style="color:red;">**】**</mark>[<mark style="color:red;">**除此之外的一切网站**</mark>](#user-content-fn-1)[^1]<mark style="color:red;">**均非作者本人制作。**</mark>
 {% endhint %}
 
 > [**遇事不决先翻译，看懂解忧九成九。**](#user-content-fn-2)[^2]

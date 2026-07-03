@@ -14,9 +14,11 @@ description: 一些说明。
 <mark style="color:red;">**本手册仍然是Beta版（半成品），仍然处于漫长的修订增补过程中，请以尽信书不如无书的态度阅读此手册。**</mark>
 
 <mark style="color:red;">**\*作者从未在此网站投放任何广告，若有广告出现，请谨慎甄别。**</mark>
+
+<mark style="color:red;">**\*本手册的唯一原地址为【**</mark>[<mark style="color:red;">**https://ava-inc.gitbook.io/ao3guideforeveryone**</mark>](https://ava-inc.gitbook.io/ao3guideforeveryone)<mark style="color:red;">**】**</mark>[<mark style="color:red;">**除此之外的一切网站**</mark>](#user-content-fn-1)[^1]<mark style="color:red;">**均非作者本人制作。**</mark>
 {% endhint %}
 
-> [**遇事不决先翻译，看懂解忧九成九。**](#user-content-fn-1)[^1]
+> [**遇事不决先翻译，看懂解忧九成九。**](#user-content-fn-2)[^2]
 
 <mark style="color:red;">**AO3不涉及任何盈利行为，无任何官方APP，充钱才可以使用的均为盗版，请注意甄别！**</mark>
 
@@ -26,7 +28,7 @@ description: 一些说明。
 
 **遇到看不懂的步骤，建议打开AO3进行实地考察。实践是检验真理的唯一标准！**
 
-**遇到**[**加载转圈圈/图片加载不出来/断联**](#user-content-fn-2)[^2]**的情况，请尝试刷新。**
+**遇到**[**加载转圈圈/图片加载不出来/断联**](#user-content-fn-3)[^3]**的情况，请尝试刷新。**
 
 
 
@@ -42,8 +44,10 @@ description: 一些说明。
 
 感谢AO3为我数年来的同人生涯带来无数的温暖与快乐。希望它也能成为你们最舒适的家园。
 
-[^1]: 说真的，很多问题都是截图翻译五秒搞定的事情。互联网就在那里，用它！
+[^1]: 注意到存在疑似AI抓取重制的盗版网站，因此作此提醒。请务必不要轻信非原站的网站！
+
+[^2]: 说真的，很多问题都是截图翻译五秒搞定的事情。互联网就在那里，用它！
 
     AO3超话/B站也有详细教程哦。
 
-[^2]: 出现这种情况是因为Gitbook不太稳定，而且插入图片较多，请务必耐心，有条件也可以挂梯子。
+[^3]: 出现这种情况是因为Gitbook不太稳定，而且插入图片较多，请务必耐心，有条件也可以挂梯子。

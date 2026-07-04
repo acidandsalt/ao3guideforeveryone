@@ -8,9 +8,7 @@ description: 手册内容快速检索。
 
 <summary><strong>一、</strong><a href="xu-yan.md"><strong>序言</strong></a>——解答基本小白问题，对AO3无了解的先看它</summary>
 
-1. 简单科普&问题解答
-2. 可用的镜像网站
-3. 可用的梯子
+简单科普&问题解答
 
 </details>
 
@@ -35,7 +33,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>四、</strong><a href="broken-reference"><strong>如何吃饭（初级版）</strong></a>——主要面向无账号浏览者的看文教程</summary>
+<summary><strong>四、</strong><a href="https://app.gitbook.com/s/ZmTrCFs9zKYIZBM3tlqv/ru-he-chi-fan-chu-ji-ban"><strong>如何吃饭（初级版）</strong></a>——主要面向无账号浏览者的看文教程</summary>
 
 1. [前言](ru-he-chi-fan-chu-ji-ban/qian-yan.md)
 2. [网页翻译中文](ru-he-chi-fan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
@@ -62,7 +60,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>五、</strong><a href="broken-reference"><strong>新手设置与信息更改</strong></a>——为注册用户奉上完整自定义指南</summary>
+<summary><strong>五、</strong><a href="https://app.gitbook.com/s/ZmTrCFs9zKYIZBM3tlqv/xin-shou-she-zhi-yu-xin-xi-geng-gai"><strong>新手设置与信息更改</strong></a>——为注册用户奉上完整自定义指南</summary>
 
 1. [新手指导消息框](xin-shou-she-zhi-yu-xin-xi-geng-gai/xin-shou-zhi-dao-xiao-xi-kuang.md)
 2. [偏好设置](xin-shou-she-zhi-yu-xin-xi-geng-gai/pian-hao-she-zhi-preferences.md)
@@ -79,7 +77,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>六、</strong><a href="broken-reference"><strong>如何吃饭（进阶版）</strong></a>——面向注册用户的吃饭指南</summary>
+<summary><strong>六、</strong><a href="https://app.gitbook.com/s/ZmTrCFs9zKYIZBM3tlqv/ru-he-chi-fan-jin-jie-ban"><strong>如何吃饭（进阶版）</strong></a>——面向注册用户的吃饭指南</summary>
 
 1. [前言](ru-he-chi-fan-jin-jie-ban/qian-yan.md)
 2. [书签/收藏怎么用](ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
@@ -90,7 +88,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>七、</strong><a href="broken-reference"><strong>创作者指南</strong></a>—<em>—</em>面向创作者的百科全书</summary>
+<summary><strong>七、</strong><a href="https://app.gitbook.com/s/ZmTrCFs9zKYIZBM3tlqv/chuang-zuo-zhe-zhi-nan"><strong>创作者指南</strong></a>—<em>—</em>面向创作者的百科全书</summary>
 
 1. [作品发布礼仪](chuang-zuo-zhe-zhi-nan/zuo-pin-fa-bu-li-yi.md)
 2. [发文百科](chuang-zuo-zhe-zhi-nan/fa-bu-bai-ke/)
@@ -102,7 +100,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>八、</strong><a href="broken-reference"><strong>互动与交流</strong></a>——如何在AO3与创作者/读者互动</summary>
+<summary><strong>八、</strong><a href="https://app.gitbook.com/s/ZmTrCFs9zKYIZBM3tlqv/hu-dong-yu-jiao-liu"><strong>互动与交流</strong></a>——如何在AO3与创作者/读者互动</summary>
 
 1. 点赞与评论
 2. [订阅/关注功能](hu-dong-yu-jiao-liu/ding-yue-guan-zhu-gong-neng.md)
@@ -112,7 +110,7 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>九、</strong><a href="broken-reference"><strong>小众功能</strong></a>——那些一般人不知道的“鸡肋”</summary>
+<summary><strong>九、</strong><a href="https://app.gitbook.com/s/ZmTrCFs9zKYIZBM3tlqv/xiao-zhong-gong-neng"><strong>小众功能</strong></a>——那些一般人不知道的“鸡肋”</summary>
 
 
 

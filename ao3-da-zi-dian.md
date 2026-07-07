@@ -377,6 +377,8 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 
 是Positive的简写，一般用法是「一句话/pos」，表示这句话是用积极的语气说出来的。
 
+在某些语境下，也可能是Piece Of Shit（胡言乱语）的缩写。
+
 [更多外网常用的语调示意词](ao3-da-zi-dian.md#yi-xie-wai-wang-chang-yong-de-ju-mo-suo-xie-yu-diao-shi-yi-ci)
 
 ### Preferences：偏好设置

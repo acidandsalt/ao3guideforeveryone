@@ -415,12 +415,12 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 * **she/her** 她
 * **they/them** 性别中性词，使用者可能不想暴露真实性别，或者是非二元性别者（non-binary）等
 
-在英文中，「Sex」用以指代生理性别（男性/女性/双性），「Gender」指代社会性别（男性/女性/非二元性别），「Gender identity」指心理性别（男性/女性/跨性别/无性别等）。
+在英文中，「Sex」用以指代出生指派性别（男性/女性/双性），「Gender」指代社会性别（男性/女性/非二元性别），「Gender identity」指认同性别（男性/女性/跨性别/无性别等）。
 
 一些专用词[^3]如下
 
 * **Cisgender/Cis**：顺性别（生理与心理性别相同）
-* **Transgender/Trans**：跨性别（生理与心理性别不同）
+* **Transgender/Trans**：跨性别（出生指派性别与认同性别不同）
 * **FTM/MTF**：Female-to-male/Male-to-female，女跨男（生理女心理男）/男跨女（生理男心理女）
 * **Non-binary/genderqueer**：非二元性别，自我认同不属于男性也不属于女性
 * **Agender：**&#x65E0;性别，自我认同不属于任何一种性别

@@ -419,9 +419,9 @@ AO3发文的一种编辑模式，具体解释见[HTML](ao3-da-zi-dian.md#html-ch
 
 一些专用词[^3]如下
 
-* **Cisgender/Cis**：顺性别（生理与心理性别相同）
-* **Transgender/Trans**：跨性别（出生指派性别与认同性别不同）
-* **FTM/MTF**：Female-to-male/Male-to-female，女跨男（生理女心理男）/男跨女（生理男心理女）
+* **Cisgender/Cis**：顺性别（性别认同与出生指派性别相同）
+* **Transgender/Trans**：跨性别（性别认同与出生指派性别不同）
+* **FTM/MTF**：Female-to-male/Male-to-female，女跨男（指派女认同男）/男跨女（指派男认同女）
 * **Non-binary/genderqueer**：非二元性别，自我认同不属于男性也不属于女性
 * **Agender：**&#x65E0;性别，自我认同不属于任何一种性别
 * **Gender-expansive：**「拓展性别[^4]」，形容性别认同更加灵活的人，有时与非二元性别混为一谈

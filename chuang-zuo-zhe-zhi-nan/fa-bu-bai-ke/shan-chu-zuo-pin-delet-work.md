@@ -17,3 +17,5 @@
 <figure><img src="../../.gitbook/assets/deletework_deletechapter.png" alt=""><figcaption></figcaption></figure>
 
 第二种方法是：点击整个作品的`Edit`按钮，然后在上方选择跳转到要删除的章节，点击`Delete Chapter`按钮即可。
+
+<figure><img src="../../.gitbook/assets/deletework_choosechapter.png" alt=""><figcaption></figcaption></figure>

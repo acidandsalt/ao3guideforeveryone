@@ -4,9 +4,9 @@
 * [🗂️ 目录](mu-lu.md)
 * [🎬 序言](xu-yan.md)
 * [🔮 账号注册](zhang-hao-zhu-ce.md)
-* [📘 AO3大字典](ao3-da-zi-dian.md)
+* [📓 AO3大字典](ao3-da-zi-dian.md)
 
-## 🍽️ 读者指南（初级版）
+## 📖 读者指南（初级版）
 
 * [前言](du-zhe-zhi-nan-chu-ji-ban/qian-yan.md)
 * [网页翻译中文](du-zhe-zhi-nan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
@@ -29,7 +29,7 @@
 * [※内嵌搜索运算符](du-zhe-zhi-nan-chu-ji-ban/nei-qian-sou-suo-yun-suan-fu.md)
 * [Q\&A](du-zhe-zhi-nan-chu-ji-ban/q-and-a.md)
 
-## 🥘 读者指南（进阶版）
+## 📚 读者指南（进阶版）
 
 * [前言](du-zhe-zhi-nan-jin-jie-ban/qian-yan.md)
 * [如何收藏标签](du-zhe-zhi-nan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
@@ -72,7 +72,7 @@
 * [合集与挑战赛](chuang-zuo-zhe-zhi-nan/he-ji-yu-tiao-zhan-sai.md)
 * [作品皮肤（Work Skin）](chuang-zuo-zhe-zhi-nan/zuo-pin-pi-fu-work-skin.md)
 
-## 🍻 互动与交流
+## 💌 互动与交流
 
 * [点赞与评论](hu-dong-yu-jiao-liu/dian-zan-yu-ping-lun/README.md)
   * [关于点赞（Kudos）](hu-dong-yu-jiao-liu/dian-zan-yu-ping-lun/guan-yu-dian-zan-kudos.md)

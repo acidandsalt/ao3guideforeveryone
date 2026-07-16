@@ -2,7 +2,7 @@
 description: 在AO3常见的词语，也有一些同人圈用语，按英文首字母顺序排列；善用搜索功能。
 ---
 
-# 📘 AO3大字典
+# 📓 AO3大字典
 
 <table data-full-width="false"><thead><tr><th>A-F</th><th>G-L</th><th>M-R</th><th>S-X</th><th>Y-Z</th></tr></thead><tbody><tr><td><a href="ao3-da-zi-dian.md#a">A</a></td><td><a href="ao3-da-zi-dian.md#g">G</a></td><td><a href="ao3-da-zi-dian.md#m">M</a></td><td><a href="ao3-da-zi-dian.md#s">S</a></td><td><a href="ao3-da-zi-dian.md#y">Y</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#b">B</a></td><td><a href="ao3-da-zi-dian.md#h">H</a></td><td><a href="ao3-da-zi-dian.md#n">N</a></td><td><a href="ao3-da-zi-dian.md#t">T</a></td><td><a href="ao3-da-zi-dian.md#z">Z</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#c">C</a></td><td><a href="ao3-da-zi-dian.md#i">I</a></td><td><a href="ao3-da-zi-dian.md#o">O</a></td><td><a href="ao3-da-zi-dian.md#u">U</a></td><td><a href="ao3-da-zi-dian.md#undefined">#</a></td></tr><tr><td><a href="ao3-da-zi-dian.md#d">D</a></td><td><a href="ao3-da-zi-dian.md#j">J</a></td><td><a href="ao3-da-zi-dian.md#p">P</a></td><td><a href="ao3-da-zi-dian.md#v">V</a></td><td></td></tr><tr><td><a href="ao3-da-zi-dian.md#e">E</a></td><td><a href="ao3-da-zi-dian.md#k">K</a></td><td><a href="ao3-da-zi-dian.md#q">Q</a></td><td><a href="ao3-da-zi-dian.md#w">W</a></td><td></td></tr><tr><td><a href="ao3-da-zi-dian.md#f">F</a></td><td><a href="ao3-da-zi-dian.md#l">L</a></td><td><a href="ao3-da-zi-dian.md#r">R</a></td><td><a href="ao3-da-zi-dian.md#x">X</a></td><td></td></tr></tbody></table>
 

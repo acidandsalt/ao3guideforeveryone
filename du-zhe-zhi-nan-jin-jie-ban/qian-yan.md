@@ -11,7 +11,7 @@ description: 欢迎来到新世界！
 * 无障碍阅读所有作品
 * [收藏标签](ru-he-shou-cang-biao-qian.md)
 * [收藏作品](shu-qian-shou-cang-bookmark.md)
-* [建立合集](he-ji-shi-shi-mo-zen-mo-yong.md)
+* [建立合集](he-ji-shi-shen-me-zen-me-yong.md)
 * [丝滑kudos和评论](../hu-dong-yu-jiao-liu/dian-zan-yu-ping-lun/)
 * [拉黑/屏蔽用户](../hu-dong-yu-jiao-liu/la-hei-ping-bi-gong-neng.md)
 * [使用外挂](ao3-wai-gua.md)

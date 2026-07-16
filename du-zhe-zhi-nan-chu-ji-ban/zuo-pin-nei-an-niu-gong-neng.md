@@ -7,8 +7,8 @@
 * 展开全部章节：将全部章节在同一个网页内显示（即连续滑动模式，不再需要点击按钮跳转章节）
 * 下一章：点击跳转到下一章（如果存在上一章，在旁边还会有`Previous Chapter`的按钮）
 * 章节目录：点击展开作品目录
-* 编辑书签：如果你为作品添加过书签，点击按钮可以编辑它（登录用户功能，详见[书签](../ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)）
-* 稍后再看：点击按钮将作品加入稍后再看列表（登录用户功能，详见[稍后再看](../ru-he-chi-fan-jin-jie-ban/shao-hou-zai-kan-marked-for-later.md)）
+* 编辑书签：如果你为作品添加过书签，点击按钮可以编辑它（登录用户功能，详见[书签](../du-zhe-zhi-nan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)）
+* 稍后再看：点击按钮将作品加入稍后再看列表（登录用户功能，详见[稍后再看](../du-zhe-zhi-nan-jin-jie-ban/shao-hou-zai-kan-marked-for-later.md)）
 * 展开评论：点击之后会跳转到评论区
 * 分享：分享到Twitter或Tumblr
 * 订阅：订阅作品，作品更新时会收到邮件提示（登录用户功能，详见[订阅](../hu-dong-yu-jiao-liu/ding-yue-guan-zhu-gong-neng.md)）

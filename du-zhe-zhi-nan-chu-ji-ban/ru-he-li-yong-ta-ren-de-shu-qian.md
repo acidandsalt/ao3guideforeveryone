@@ -4,7 +4,7 @@ description: 顺藤摸瓜，惠及天下。
 
 # 如何利用他人的书签
 
-使用[书签（Bookmarks）](../ru-he-chi-fan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)功能需要登录；除了简单的收藏，它还可以添加标签与备注，以达成分类的目的。
+使用[书签（Bookmarks）](../du-zhe-zhi-nan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)功能需要登录；除了简单的收藏，它还可以添加标签与备注，以达成分类的目的。
 
 游客虽然无法直接使用此功能，但仍可以利用别人的书签找到自己喜欢的作品。
 

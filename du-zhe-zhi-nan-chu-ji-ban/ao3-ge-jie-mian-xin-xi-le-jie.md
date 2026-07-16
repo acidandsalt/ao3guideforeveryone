@@ -18,7 +18,7 @@ description: 对AO3的几个主要界面进行标注。
 
 <figure><img src="../.gitbook/assets/f9852fec913b5ada4b17ebf053415056.jpg" alt="" width="375"><figcaption><p>登录用户</p></figcaption></figure>
 
-关于收藏标签，请参见→[如何收藏标签](../ru-he-chi-fan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
+关于收藏标签，请参见→[如何收藏标签](../du-zhe-zhi-nan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
 
 关于搜索框的使用，请参见→[※内嵌搜索运算符](nei-qian-sou-suo-yun-suan-fu.md)
 

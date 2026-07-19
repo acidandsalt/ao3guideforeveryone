@@ -14,4 +14,4 @@ AO3自带的分享按钮（share）是支持往推特或Tumblr上分享的，没
 
 把你作品链接「works/数字」的「数字」部分复制下来并发送。注意：多章节的作品后面还会有「chapters/数字」的部分，那个不是门牌号，门牌号是作品号！
 
-读者取得这串数字后即可使用[如何使用作品号（神秘数字）](../du-zhe-zhi-nan-chu-ji-ban/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)中的方法进入你的作品。
+读者取得这串数字后即可使用[如何使用作品号（神秘数字）](../du-zhe-zhi-nan/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)中的方法进入你的作品。

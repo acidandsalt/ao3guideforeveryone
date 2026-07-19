@@ -6,37 +6,43 @@
 * [🔮 账号注册](zhang-hao-zhu-ce.md)
 * [📓 AO3大字典](ao3-da-zi-dian.md)
 
-## 📖 读者指南（初级版）
+## 🔍 AO3页面百科
 
-* [前言](du-zhe-zhi-nan-chu-ji-ban/qian-yan.md)
-* [网页翻译中文](du-zhe-zhi-nan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
-* [AO3各界面信息略解](du-zhe-zhi-nan-chu-ji-ban/ao3-ge-jie-mian-xin-xi-le-jie.md)
-* [AO3文库符号解释](du-zhe-zhi-nan-chu-ji-ban/ao3-wen-ku-fu-hao-jie-shi.md)
-* [常用Tag百科](du-zhe-zhi-nan-chu-ji-ban/chang-yong-tag-bai-ke.md)
-* [基本搜索方法（Search）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/README.md)
-  * [如何查找标签（Tags）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-cha-zhao-biao-qian-tags.md)
-  * [如何查找作品（Works）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-cha-zhao-zuo-pin-works.md)
-  * [如何搜索用户（People）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-sou-suo-yong-hu-people.md)
-  * [编辑搜索（Edit Your Search）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/bian-ji-sou-suo-edit-your-search.md)
-  * [筛选功能（Filter）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/shai-xuan-gong-neng-filter.md)
-  * [如何筛选混合同人](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
-  * [作者主页内筛选](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/zuo-zhe-zhu-ye-nei-shai-xuan.md)
-* [如何点开作品](du-zhe-zhi-nan-chu-ji-ban/ru-he-dian-kai-zuo-pin.md)
-* [如何使用作品号（神秘数字）](du-zhe-zhi-nan-chu-ji-ban/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)
-* [作品内按钮功能](du-zhe-zhi-nan-chu-ji-ban/zuo-pin-nei-an-niu-gong-neng.md)
-* [如何下载作品](du-zhe-zhi-nan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
-* [如何利用他人的书签](du-zhe-zhi-nan-chu-ji-ban/ru-he-li-yong-ta-ren-de-shu-qian.md)
-* [※内嵌搜索运算符](du-zhe-zhi-nan-chu-ji-ban/nei-qian-sou-suo-yun-suan-fu.md)
-* [Q\&A](du-zhe-zhi-nan-chu-ji-ban/q-and-a.md)
+* [前言](ao3-ye-mian-bai-ke/qian-yan.md)
+* [AO3首页/主界面](ao3-ye-mian-bai-ke/ao3-shou-ye-zhu-jie-mian.md)
+* [作品陈列界面](ao3-ye-mian-bai-ke/zuo-pin-chen-lie-jie-mian.md)
+* [作者个人主页](ao3-ye-mian-bai-ke/zuo-zhe-ge-ren-zhu-ye.md)
+* [AO3文库符号](ao3-ye-mian-bai-ke/ao3-wen-ku-fu-hao.md)
+* [常用Tag百科](ao3-ye-mian-bai-ke/chang-yong-tag-bai-ke.md)
+
+## 📖 读者指南
+
+* [前言](du-zhe-zhi-nan/qian-yan.md)
+* [网页翻译中文](du-zhe-zhi-nan/wang-ye-fan-yi-zhong-wen.md)
+* [基本搜索方法（Search）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/README.md)
+  * [如何查找标签（Tags）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/ru-he-cha-zhao-biao-qian-tags.md)
+  * [如何查找作品（Works）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/ru-he-cha-zhao-zuo-pin-works.md)
+  * [如何搜索用户（People）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/ru-he-sou-suo-yong-hu-people.md)
+  * [编辑搜索（Edit Your Search）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/bian-ji-sou-suo-edit-your-search.md)
+  * [筛选功能（Filter）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/shai-xuan-gong-neng-filter.md)
+  * [如何筛选混合同人](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
+  * [作者主页内筛选](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/zuo-zhe-zhu-ye-nei-shai-xuan.md)
+* [如何点开作品](du-zhe-zhi-nan/ru-he-dian-kai-zuo-pin.md)
+* [如何使用作品号（神秘数字）](du-zhe-zhi-nan/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)
+* [作品内按钮功能](du-zhe-zhi-nan/zuo-pin-nei-an-niu-gong-neng.md)
+* [如何下载作品](du-zhe-zhi-nan/ru-he-xia-zai-zuo-pin.md)
+* [如何利用他人的书签](du-zhe-zhi-nan/ru-he-li-yong-ta-ren-de-shu-qian.md)
+* [※内嵌搜索运算符](du-zhe-zhi-nan/nei-qian-sou-suo-yun-suan-fu.md)
+* [Q\&A](du-zhe-zhi-nan/q-and-a.md)
 
 ## 📚 读者指南（进阶版）
 
 * [前言](du-zhe-zhi-nan-jin-jie-ban/qian-yan.md)
-* [如何收藏标签](du-zhe-zhi-nan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
+* [如何收藏标签（Favorite Tags）](du-zhe-zhi-nan-jin-jie-ban/ru-he-shou-cang-biao-qian-favorite-tags.md)
 * [书签/收藏（Bookmark）](du-zhe-zhi-nan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
 * [浏览历史（History）](du-zhe-zhi-nan-jin-jie-ban/liu-lan-li-shi-history.md)
 * [稍后再看（Marked for Later）](du-zhe-zhi-nan-jin-jie-ban/shao-hou-zai-kan-marked-for-later.md)
-* [合集是什么？怎么用？](du-zhe-zhi-nan-jin-jie-ban/he-ji-shi-shen-me-zen-me-yong.md)
+* [合集（Collection）](du-zhe-zhi-nan-jin-jie-ban/he-ji-collection.md)
 * [AO3外挂](du-zhe-zhi-nan-jin-jie-ban/ao3-wai-gua.md)
 
 ## ⚙️ 新手设置与信息更改

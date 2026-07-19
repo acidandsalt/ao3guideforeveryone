@@ -1,5 +1,6 @@
 ---
 description: 手册内容快速检索。
+hidden: true
 ---
 
 # 🗂️ 目录
@@ -33,28 +34,28 @@ description: 手册内容快速检索。
 
 <details>
 
-<summary><strong>四、</strong><a href="https://app.gitbook.com/s/ZmTrCFs9zKYIZBM3tlqv/du-zhe-zhi-nan-chu-ji-ban"><strong>如何吃饭（初级版）</strong></a>——主要面向无账号浏览者的看文教程</summary>
+<summary><strong>四、</strong><a href="https://app.gitbook.com/s/ZmTrCFs9zKYIZBM3tlqv/du-zhe-zhi-nan"><strong>如何吃饭（初级版）</strong></a>——主要面向无账号浏览者的看文教程</summary>
 
-1. [前言](du-zhe-zhi-nan-chu-ji-ban/qian-yan.md)
-2. [网页翻译中文](du-zhe-zhi-nan-chu-ji-ban/wang-ye-fan-yi-zhong-wen.md)
-3. [AO3各界面信息略解](du-zhe-zhi-nan-chu-ji-ban/ao3-ge-jie-mian-xin-xi-le-jie.md)
-4. [AO3文库符号解释](du-zhe-zhi-nan-chu-ji-ban/ao3-wen-ku-fu-hao-jie-shi.md)
-5. [常用Tag百科](du-zhe-zhi-nan-chu-ji-ban/chang-yong-tag-bai-ke.md)
-6. [基本搜索方法（Search）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/)
-   1. [如何查找标签（Tags）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-cha-zhao-biao-qian-tags.md)
-   2. [如何查找作品（Works）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-cha-zhao-zuo-pin-works.md)
-   3. [如何搜索用户（People）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-sou-suo-yong-hu-people.md)
-   4. [编辑搜索（Edit Your Search）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/bian-ji-sou-suo-edit-your-search.md)
-   5. [筛选功能（Filter）](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/shai-xuan-gong-neng-filter.md)
-   6. [如何筛选混合同人](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
-   7. [作者主页内筛选](du-zhe-zhi-nan-chu-ji-ban/ji-ben-sou-suo-fang-fa-search/zuo-zhe-zhu-ye-nei-shai-xuan.md)
-7. [如何点开作品](du-zhe-zhi-nan-chu-ji-ban/ru-he-dian-kai-zuo-pin.md)
-8. [如何使用作品号（神秘数字）](du-zhe-zhi-nan-chu-ji-ban/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)
-9. [作品内按钮功能](du-zhe-zhi-nan-chu-ji-ban/zuo-pin-nei-an-niu-gong-neng.md)
-10. [如何下载作品](du-zhe-zhi-nan-chu-ji-ban/ru-he-xia-zai-zuo-pin.md)
+1. [前言](du-zhe-zhi-nan/qian-yan.md)
+2. [网页翻译中文](du-zhe-zhi-nan/wang-ye-fan-yi-zhong-wen.md)
+3. [AO3各界面信息略解](ao3-ye-mian-bai-ke/zuo-pin-chen-lie-jie-mian.md)
+4. [AO3文库符号解释](ao3-ye-mian-bai-ke/ao3-wen-ku-fu-hao.md)
+5. [常用Tag百科](ao3-ye-mian-bai-ke/chang-yong-tag-bai-ke.md)
+6. [基本搜索方法（Search）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/)
+   1. [如何查找标签（Tags）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/ru-he-cha-zhao-biao-qian-tags.md)
+   2. [如何查找作品（Works）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/ru-he-cha-zhao-zuo-pin-works.md)
+   3. [如何搜索用户（People）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/ru-he-sou-suo-yong-hu-people.md)
+   4. [编辑搜索（Edit Your Search）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/bian-ji-sou-suo-edit-your-search.md)
+   5. [筛选功能（Filter）](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/shai-xuan-gong-neng-filter.md)
+   6. [如何筛选混合同人](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/ru-he-shai-xuan-hun-he-tong-ren.md)
+   7. [作者主页内筛选](du-zhe-zhi-nan/ji-ben-sou-suo-fang-fa-search/zuo-zhe-zhu-ye-nei-shai-xuan.md)
+7. [如何点开作品](du-zhe-zhi-nan/ru-he-dian-kai-zuo-pin.md)
+8. [如何使用作品号（神秘数字）](du-zhe-zhi-nan/ru-he-shi-yong-zuo-pin-hao-shen-mi-shu-zi.md)
+9. [作品内按钮功能](du-zhe-zhi-nan/zuo-pin-nei-an-niu-gong-neng.md)
+10. [如何下载作品](du-zhe-zhi-nan/ru-he-xia-zai-zuo-pin.md)
 11. [如何利用他人的书签](du-zhe-zhi-nan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
-12. [※内嵌搜索运算符](du-zhe-zhi-nan-chu-ji-ban/nei-qian-sou-suo-yun-suan-fu.md)
-13. [Q\&A](du-zhe-zhi-nan-chu-ji-ban/q-and-a.md)
+12. [※内嵌搜索运算符](du-zhe-zhi-nan/nei-qian-sou-suo-yun-suan-fu.md)
+13. [Q\&A](du-zhe-zhi-nan/q-and-a.md)
 
 </details>
 
@@ -81,8 +82,8 @@ description: 手册内容快速检索。
 
 1. [前言](du-zhe-zhi-nan-jin-jie-ban/qian-yan.md)
 2. [书签/收藏怎么用](du-zhe-zhi-nan-jin-jie-ban/shu-qian-shou-cang-bookmark.md)
-3. [如何收藏标签](du-zhe-zhi-nan-jin-jie-ban/ru-he-shou-cang-biao-qian.md)
-4. [合集是什么？怎么用？](du-zhe-zhi-nan-jin-jie-ban/he-ji-shi-shen-me-zen-me-yong.md)
+3. [如何收藏标签](du-zhe-zhi-nan-jin-jie-ban/ru-he-shou-cang-biao-qian-favorite-tags.md)
+4. [合集是什么？怎么用？](du-zhe-zhi-nan-jin-jie-ban/he-ji-collection.md)
 
 </details>
 

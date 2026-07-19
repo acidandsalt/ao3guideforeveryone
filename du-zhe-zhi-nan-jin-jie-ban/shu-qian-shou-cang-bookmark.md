@@ -16,7 +16,7 @@ AO3没有查看kudos记录的功能，所以为了不忘记辛辛苦苦淘来的
 
 当然，一般而言大部分人都只是简单收藏一下了事，最多打个关于字数或配对的标签以备检索。
 
-想要了解关于书签的更多信息请参照→[如何利用他人的书签](../du-zhe-zhi-nan-chu-ji-ban/ru-he-li-yong-ta-ren-de-shu-qian.md)
+想要了解关于书签的更多信息请参照→[如何利用他人的书签](../du-zhe-zhi-nan/ru-he-li-yong-ta-ren-de-shu-qian.md)
 
 你可以在**Bookmarks**页面查看你所有的收藏。
 

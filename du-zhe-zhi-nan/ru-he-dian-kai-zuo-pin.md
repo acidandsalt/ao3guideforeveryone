@@ -9,7 +9,7 @@
 但假如该作品是未分级、M级或E级，未登录或登录了但未进行偏好设置的用户就会发现自己来到了有一个黄色消息框的界面。
 
 {% hint style="info" %}
-关于分级的解释请参见：[AO3文库符号解释](ao3-wen-ku-fu-hao-jie-shi.md)
+关于分级的解释请参见：[AO3文库符号解释](../ao3-ye-mian-bai-ke/ao3-wen-ku-fu-hao.md)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/MEITU_20250609_175413163.jpg" alt="" width="375"><figcaption></figcaption></figure>
